@@ -15,7 +15,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "XXXXX",
+      title: "Book Ranking",
       minify: false,
       template: "./src/index.html",
     }),
