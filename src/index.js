@@ -1,5 +1,6 @@
 import "./style.css";
 import bookList from "./bookList.json";
+import * as utils from "./utils";
 
 console.log(bookList[0]);
 const readBooks = [];
@@ -32,3 +33,4 @@ for (let i = 0; i < bookList.length; i += 1) {
 
 console.log(readBooks);
 console.log(rating1Books);
+utils.renderBookList(rating1Books);
