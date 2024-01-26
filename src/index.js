@@ -1,3 +1,4 @@
+import "./style.css";
 import bookList from "./bookList.json";
 
 console.log(bookList[0]);
