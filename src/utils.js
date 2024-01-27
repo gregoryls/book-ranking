@@ -4,6 +4,7 @@ export function renderBookList(bookList) {
     const div = document.createElement("div");
     const p = document.createElement("p");
 
+    div.classList.add("bookListDisplay");
     p.textContent = bookList[i].Title;
     div.append(p);
     bookWrap.append(div);
