@@ -7,7 +7,7 @@ export function renderBookList(bookList) {
     const h3 = document.createElement("h3");
 
     div.classList.add("bookListDisplay");
-    h3.textContent = i;
+    h3.textContent = i + 1;
     p.textContent = bookList[i].Title;
     authorP.textContent = bookList[i].Author;
     div.append(h3, p, authorP);
