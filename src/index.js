@@ -2,6 +2,9 @@ import "./style.css";
 import bookList from "./bookList.json";
 import * as utils from "./utils";
 
+// TODO
+// arrange dist images into a folder via webpack
+
 console.log(bookList[0]);
 const readBooks = [];
 const rating1Books = [];

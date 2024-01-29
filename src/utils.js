@@ -7,7 +7,6 @@ function importAll(r) {
     // or option fix case where lastIndexOf === -1
     // remove trailing file extensions from file names (e.g. .png)
     const temp2 = temp.substr(0, temp.lastIndexOf(".")) || temp;
-    // console.log(temp2);
     images[temp2] = r(key);
   });
   // alternate map method
@@ -29,13 +28,14 @@ export function renderBookList(bookList) {
     const p = document.createElement("p");
     const authorP = document.createElement("p");
     const h3 = document.createElement("h3");
+    const img = document.createElement("img");
 
     div.classList.add("bookListDisplay");
     h3.textContent = i + 1;
-
+    img.src = covers[bookList[i].ISBN13];
     p.textContent = bookList[i].Title;
     authorP.textContent = bookList[i].Author;
-    div.append(h3, p, authorP);
+    div.append(h3, img, p, authorP);
     bookWrap.append(div);
   }
 }
