@@ -13,9 +13,16 @@ body {
 }
 
 .bookListDisplay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   border: 1px solid black;
   margin: 0.2rem;
-  padding: 0.1rem;
-  width: 40%;
+  padding: 0.5rem;
+  width: 30%;
   overflow: auto;
+}
+
+.bookCover {
+  width: 50%;
 }

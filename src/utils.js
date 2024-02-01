@@ -33,6 +33,7 @@ export function renderBookList(bookList) {
     div.classList.add("bookListDisplay");
     h3.textContent = i + 1;
     img.src = covers[bookList[i].ISBN13];
+    img.classList.add("bookCover");
     p.textContent = bookList[i].Title;
     authorP.textContent = bookList[i].Author;
     div.append(h3, img, p, authorP);
