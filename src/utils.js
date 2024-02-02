@@ -41,6 +41,16 @@ export function renderBookList(bookList) {
   }
 }
 
-export function placeholder() {
-  console.log("nothing");
+export function getGoodreadsIDInput() {
+  const ID = document.getElementById("goodreadsID");
+  return ID.value;
 }
+export function getAuthorInput() {
+  const author = document.getElementById("author");
+  return author.value;
+}
+
+// export function getNewBookInputs() {
+//   const goodreadsID = document.getElementById("goodreadsID").value;
+//   console.log(goodreadsID);
+// }
