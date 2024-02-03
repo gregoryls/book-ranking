@@ -50,6 +50,12 @@ export function getAuthorInput() {
   return author.value;
 }
 
+export function getAdditionalAuthors() {
+  const authors = document.getElementById("additionalAuthors");
+  const authorsArray = authors.value.split(",");
+  return authorsArray;
+}
+
 // export function getNewBookInputs() {
 //   const goodreadsID = document.getElementById("goodreadsID").value;
 //   console.log(goodreadsID);
