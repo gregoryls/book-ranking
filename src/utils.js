@@ -56,6 +56,20 @@ export function getAdditionalAuthors() {
   return authorsArray;
 }
 
+export function getISBN() {
+  const ISBN = document.getElementById("ISBN");
+  return ISBN.value;
+}
+
+export function getStarRating() {
+  const rating = document.getElementById("starRating");
+  return rating.value;
+}
+
+export function getPublicRating() {
+  const rating = document.getElementById("publicRating");
+  return rating.value;
+}
 // export function getNewBookInputs() {
 //   const goodreadsID = document.getElementById("goodreadsID").value;
 //   console.log(goodreadsID);
