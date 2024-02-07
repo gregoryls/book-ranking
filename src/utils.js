@@ -47,49 +47,49 @@ export function renderBookList(bookList) {
 //   console.log(goodreadsID);
 // }
 
-export function dragAndDrop() {
-  const bookList = document.getElementById("bookWrap");
-  const books = document.querySelectorAll(".bookListDisplay");
+// export function dragAndDrop() {
+//   const bookList = document.getElementById("bookWrap");
+//   const books = document.querySelectorAll(".bookListDisplay");
 
-  let currentBook;
-  const coordinates = [];
-  let currentIndex;
+//   let currentBook;
+//   const coordinates = [];
+//   let currentIndex;
 
-  for (let i = 0; i < books.length; i += 1) {
-    const book = books[i];
+//   for (let i = 0; i < books.length; i += 1) {
+//     const book = books[i];
 
-    book.addEventListener("dragstart", function () {
-      currentBook = this;
-      currentIndex = i;
-      setTimeout(() => {
-        book.style.display = "none";
-      }, 0);
-    });
+//     book.addEventListener("dragstart", function () {
+//       currentBook = this;
+//       currentIndex = i;
+//       setTimeout(() => {
+//         book.style.display = "none";
+//       }, 0);
+//     });
 
-    book.addEventListener("dragend", () => {
-      setTimeout(() => {
-        currentBook.style.display = "flex";
-        currentBook = null;
-      }, 0);
-    });
+//     book.addEventListener("dragend", () => {
+//       setTimeout(() => {
+//         currentBook.style.display = "flex";
+//         currentBook = null;
+//       }, 0);
+//     });
 
-    book.addEventListener("dragover", (e) => {
-      e.preventDefault();
-    });
+//     book.addEventListener("dragover", (e) => {
+//       e.preventDefault();
+//     });
 
-    book.addEventListener("dragenter", (e) => {
-      coordinates[i] = e.clientY;
-      console.log(coordinates);
-    });
+//     book.addEventListener("dragenter", (e) => {
+//       coordinates[i] = e.clientY;
+//       // console.log(coordinates);
+//     });
 
-    book.addEventListener("drop", function (e) {
-      if (currentBook !== this) {
-        const direction = coordinates[currentIndex] < e.clientY ? 1 : -1;
-        bookList.insertBefore(
-          currentBook,
-          direction === 1 ? this.nextSibling : this,
-        );
-      }
-    });
-  }
-}
+//     book.addEventListener("drop", function (e) {
+//       if (currentBook !== this) {
+//         const direction = coordinates[currentIndex] < e.clientY ? 1 : -1;
+//         bookList.insertBefore(
+//           currentBook,
+//           direction === 1 ? this.nextSibling : this,
+//         );
+//       }
+//     });
+//   }
+// }
