@@ -68,7 +68,7 @@ export function dragAndDrop() {
 
     book.addEventListener("dragend", () => {
       setTimeout(() => {
-        currentBook.style.display = "block";
+        currentBook.style.display = "flex";
         currentBook = null;
       }, 0);
     });
