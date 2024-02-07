@@ -31,6 +31,7 @@ export function renderBookList(bookList) {
     const img = document.createElement("img");
 
     div.classList.add("bookListDisplay");
+    div.draggable = true;
     h3.textContent = i + 1;
     img.src = covers[bookList[i].ISBN13];
     img.classList.add("bookCover");
