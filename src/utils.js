@@ -79,9 +79,10 @@ export function dragAndDrop() {
 
     book.addEventListener("dragenter", (e) => {
       coordinates[i] = e.clientY;
+      console.log(coordinates);
     });
 
-    book.addEventListener("drop", function () {
+    book.addEventListener("drop", function (e) {
       if (currentBook !== this) {
         const direction = coordinates[currentIndex] < e.clientY ? 1 : -1;
         bookList.insertBefore(
