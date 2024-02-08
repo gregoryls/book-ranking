@@ -47,7 +47,48 @@ export function renderBookList(bookList) {
 //   console.log(goodreadsID);
 // }
 
-// export function dragAndDrop() {
+export function dragAndDrop() {
+  const container = document.getElementById("bookWrap");
+  let draggedElement;
+
+  container.addEventListener("dragstart", (event) => {
+    draggedElement = event.target;
+    // draggedElement.style.display = "none";
+    event.dataTransfer.setData("text/plain", event.target.innerHTML);
+  });
+
+  container.addEventListener("dragover", (event) => {
+    event.preventDefault();
+    const boundingBox = draggedElement.getBoundingClientRect();
+
+    if (event.clientY > boundingBox.bottom || event.clientY < boundingBox.top) {
+      container.insertBefore(
+        draggedElement,
+        event.target.closest(".bookListDisplay"),
+      );
+    }
+  });
+
+  container.addEventListener("drop", (event) => {
+    event.preventDefault();
+    const data = event.dataTransfer.getData("text/plain");
+
+    const newElement = document.createElement("div");
+    newElement.className = "bookListDisplay";
+    // newElement.style.display = "flex";
+    newElement.innerHTML = data;
+
+    const targetElement = event.target.closest(".book");
+
+    if (targetElement) {
+      container.insertBefore(newElement, targetElement);
+    } else {
+      container.appendChild(newElement);
+    }
+  });
+}
+
+// export function dragAndDropTesting() {
 //   const bookList = document.getElementById("bookWrap");
 //   const books = document.querySelectorAll(".bookListDisplay");
 
