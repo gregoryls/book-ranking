@@ -85,6 +85,11 @@ export function dragAndDrop() {
     } else {
       container.appendChild(newElement);
     }
+
+    const bookListCounter = document.querySelectorAll(".bookListDisplay h3");
+    for (let i = 0; i < bookListCounter.length; i += 1) {
+      bookListCounter[i].textContent = i + 1;
+    }
   });
 }
 
