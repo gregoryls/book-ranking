@@ -7,7 +7,7 @@ import * as utils from "./utils";
 // probably change list to grid
 // look into sortableJS
 // https://codepen.io/WebDevSimplified/pen/JjdveeV
-//
+// come back to custom sorting
 
 console.log(bookList[0]);
 const readBooks = [];
