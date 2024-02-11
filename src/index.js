@@ -51,6 +51,20 @@ const bookListRender = document.getElementById("bookWrap");
 // });
 // const order = Sortable.toArray();
 // console.log(Sortable.sort(order, true));
+function handleDrop(movedElement, newIndex, oldIndex) {
+  // console.log(movedElement, newIndex, oldIndex);
+  const bookListCounter = document.querySelectorAll(".bookListDisplay h3");
+  for (let i = 0; i < bookListCounter.length; i += 1) {
+    bookListCounter[i].textContent = i + 1;
+  }
+}
+
 const sortable = new Sortable(bookListRender, {
   animation: 150,
+  onEnd(evt) {
+    const movedElement = evt.item;
+    const { newIndex } = evt;
+    const { oldIndex } = evt;
+    handleDrop(movedElement, newIndex, oldIndex);
+  },
 });
