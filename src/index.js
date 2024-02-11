@@ -9,6 +9,7 @@ import * as utils from "./utils";
 // look into sortableJS
 // https://codepen.io/WebDevSimplified/pen/JjdveeV
 // come back to custom sorting
+// remove draggable property now with sortablejs?
 
 console.log(bookList[0]);
 const readBooks = [];
@@ -43,4 +44,8 @@ console.log(readBooks);
 console.log(rating1Books);
 utils.renderBookList(rating1Books);
 
-utils.dragAndDrop();
+// utils.dragAndDrop();
+const bookListRender = document.getElementById("bookWrap");
+Sortable.create(bookListRender, {
+  animation: 150,
+});
