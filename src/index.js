@@ -46,6 +46,11 @@ utils.renderBookList(rating1Books);
 
 // utils.dragAndDrop();
 const bookListRender = document.getElementById("bookWrap");
-Sortable.create(bookListRender, {
+// Sortable.create(bookListRender, {
+//   animation: 150,
+// });
+// const order = Sortable.toArray();
+// console.log(Sortable.sort(order, true));
+const sortable = new Sortable(bookListRender, {
   animation: 150,
 });
