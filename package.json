@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/gregoryls/protein-calculator#readme",
   "devDependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
     "css-loader": "^6.9.1",
     "eslint": "^8.56.0",
     "eslint-config-airbnb-base": "^15.0.0",
