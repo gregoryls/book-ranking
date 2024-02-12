@@ -10,6 +10,9 @@ import * as utils from "./utils";
 // https://codepen.io/WebDevSimplified/pen/JjdveeV
 // come back to custom sorting
 // remove draggable property now with sortablejs?
+// make isbn converter
+// loop converter through booklist
+// scrape images - 'img.ResponsiveImage' should hit covers
 
 console.log(bookList[0]);
 const readBooks = [];
