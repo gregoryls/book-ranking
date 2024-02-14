@@ -1,5 +1,7 @@
 import "./style.css";
+
 import Sortable from "sortablejs";
+
 import bookList from "./bookList.json";
 import * as utils from "./utils";
 
