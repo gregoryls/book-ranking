@@ -3,6 +3,7 @@ import "./style.css";
 import Sortable from "sortablejs";
 
 import bookList from "./bookList.json";
+import * as scraping from "./scraping";
 import * as utils from "./utils";
 
 // TODO
@@ -73,3 +74,5 @@ const sortable = new Sortable(bookListRender, {
     handleDrop(movedElement, newIndex, oldIndex);
   },
 });
+
+scraping.scrapePage(49466517);
