@@ -1,7 +1,10 @@
 import axios from "axios";
 import cheerio from "cheerio";
 
-export async function scrapePage(bookID) {
+import { Builder, By, until } from "selenium-webdriver";
+import chrome from "selenium-webdriver/chrome";
+
+export async function scrapePageCheerio(bookID) {
   const url = `https://www.goodreads.com/book/show/${bookID}`;
 
   try {
@@ -26,6 +29,40 @@ export async function scrapePage(bookID) {
   }
 }
 
-export function placeholder() {
-  console.log("test");
+export async function scrapePageSelenium(bookID) {
+  const url = `https://www.goodreads.com/book/show/${bookID}`;
+
+  // Set up the Chrome browser
+  const options = new chrome.Options();
+  // Add any necessary options, such as headless mode or specific user agent
+
+  const driver = await new Builder()
+    .forBrowser("chrome")
+    .setChromeOptions(options)
+    .build();
+
+  try {
+    // Navigate to the URL
+    await driver.get(url);
+
+    // Wait for some element to be present before proceeding (adjust as needed)
+    await driver.wait(
+      until.elementLocated(By.css("img.ResponsiveImage")),
+      10000,
+    );
+
+    // Extract images using standard Selenium WebDriver commands
+    const images = await driver.findElements(By.css("img"));
+    const imageUrls = await Promise.all(
+      images.map(async (imgElement) => await imgElement.getAttribute("src")),
+    );
+
+    // You now have an array of image URLs for the current page
+    console.log(`Images on page ${bookID}:`, imageUrls);
+  } catch (error) {
+    console.error(`Error scraping page ${bookID}:`, error.message);
+  } finally {
+    // Close the browser window
+    await driver.quit();
+  }
 }
