@@ -17,6 +17,8 @@ import * as utils from "./utils";
 // loop converter through booklist
 // scrape images - 'img.ResponsiveImage' should hit covers
 
+scraping.main();
+
 console.log(bookList[0]);
 const readBooks = [];
 const rating1Books = [];

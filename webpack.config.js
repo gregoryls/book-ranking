@@ -7,7 +7,7 @@ module.exports = {
     index: "./src/index.js",
     utils: "./src/utils.js",
     newBook: "./src/newBook.js",
-    scraping: "./src/scraping.js",
+    // scraping: "./src/scraping.js",
   },
   devtool: "inline-source-map",
   output: {
