@@ -1,6 +1,7 @@
 // import axios from "axios";
 // import cheerio from "cheerio";
 import puppeteer from "puppeteer";
+import fs from "fs";
 
 // export async function scrapePageCheerio(bookID) {
 //   const url = `https://www.goodreads.com/book/show/${bookID}`;
@@ -27,6 +28,26 @@ import puppeteer from "puppeteer";
 //   }
 // }
 
+// const url = "https://www.goodreads.com/book/show/45892276";
+
+// const main = async () => {
+//   const browser = await puppeteer.launch();
+//   const page = await browser.newPage();
+//   await page.goto(url);
+
+//   const images = await page.evaluate(() => {
+//     const img = document.querySelector("img.ResponsiveImage");
+//     return img.src;
+//   });
+//   console.log(images);
+//   console.log("test");
+
+//   // await page.screenshot({ path: "screenshot.png" });
+//   await browser.close();
+// };
+
+// main();
+
 const url = "https://www.goodreads.com/book/show/45892276";
 
 const main = async () => {
@@ -34,14 +55,17 @@ const main = async () => {
   const page = await browser.newPage();
   await page.goto(url);
 
-  const images = await page.evaluate(() => {
-    const img = document.querySelector("img.ResponsiveImage");
-    return img;
+  const image = await page.waitForSelector("img.ResponsiveImage");
+  const imgURL = await image.evaluate((img) => img.getAttribute("src"));
+  const pageNew = await browser.newPage();
+  const response = await pageNew.goto(imgURL, {
+    timeout: 0,
+    waitUntil: "networkidle0",
   });
-  console.log(images);
-  console.log("test");
-
-  await page.screenshot({ path: "screenshot.png" });
+  const imageBuffer = await response.buffer();
+  await fs.promises.writeFile("test.jpg", imageBuffer);
+  await page.close();
+  await pageNew.close();
   await browser.close();
 };
 
