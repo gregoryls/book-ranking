@@ -3,7 +3,7 @@ import "./style.css";
 import Sortable from "sortablejs";
 
 import bookList from "./bookList.json";
-import * as scraping from "./scraping";
+
 import * as utils from "./utils";
 
 // TODO
@@ -16,8 +16,6 @@ import * as utils from "./utils";
 // make isbn converter
 // loop converter through booklist
 // scrape images - 'img.ResponsiveImage' should hit covers
-
-scraping.main();
 
 console.log(bookList[0]);
 const readBooks = [];

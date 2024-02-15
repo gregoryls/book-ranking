@@ -39,6 +39,10 @@ const main = async () => {
     return img;
   });
   console.log(images);
+  console.log("test");
+
+  await page.screenshot({ path: "screenshot.png" });
+  await browser.close();
 };
 
 main();
