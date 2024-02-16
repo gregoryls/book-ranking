@@ -2,6 +2,7 @@
 // import cheerio from "cheerio";
 import puppeteer from "puppeteer";
 import fs from "fs";
+import bookList from "./bookList.json";
 
 // export async function scrapePageCheerio(bookID) {
 //   const url = `https://www.goodreads.com/book/show/${bookID}`;
