@@ -2,7 +2,7 @@
 // import cheerio from "cheerio";
 import puppeteer from "puppeteer";
 import fs from "fs";
-import bookList from "./bookList.json";
+import bookList from "./bookList.json" with { type: "json" };
 
 // export async function scrapePageCheerio(bookID) {
 //   const url = `https://www.goodreads.com/book/show/${bookID}`;
@@ -64,7 +64,7 @@ const main = async () => {
     waitUntil: "networkidle0",
   });
   const imageBuffer = await response.buffer();
-  await fs.promises.writeFile("test.jpg", imageBuffer);
+  await fs.promises.writeFile("src/scrapeCovers/test.jpg", imageBuffer);
   await page.close();
   await pageNew.close();
   await browser.close();
