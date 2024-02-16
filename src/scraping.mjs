@@ -57,7 +57,6 @@ for (let i = 0; i < bookList.length; i += 1) {
   const isbn = bookList[i].ISBN13;
   IdToISBN[id] = isbn;
 }
-console.log(IdToISBN);
 
 const main = async (bookID) => {
   const url = "https://www.goodreads.com/book/show/" + bookID;
