@@ -49,9 +49,19 @@ import bookList from "./bookList.json" with { type: "json" };
 
 // main();
 
-const url = "https://www.goodreads.com/book/show/45892276";
+// const url = "https://www.goodreads.com/book/show/45892276";
+const IdToISBN = {};
 
-const main = async () => {
+for (let i = 0; i < bookList.length; i += 1) {
+  const id = bookList[i]["Book Id"];
+  const isbn = bookList[i].ISBN13;
+  IdToISBN[id] = isbn;
+}
+console.log(IdToISBN);
+
+const main = async (bookID) => {
+  const url = "https://www.goodreads.com/book/show/" + bookID;
+
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto(url);
@@ -64,10 +74,13 @@ const main = async () => {
     waitUntil: "networkidle0",
   });
   const imageBuffer = await response.buffer();
-  await fs.promises.writeFile("src/scrapeCovers/test.jpg", imageBuffer);
+  await fs.promises.writeFile(
+    `src/scrapeCovers/${IdToISBN.bookID}.jpg`,
+    imageBuffer,
+  );
   await page.close();
   await pageNew.close();
   await browser.close();
 };
 
-main();
+main(61259096);
