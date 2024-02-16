@@ -73,8 +73,9 @@ const main = async (bookID) => {
     waitUntil: "networkidle0",
   });
   const imageBuffer = await response.buffer();
+  console.log(IdToISBN[bookID]);
   await fs.promises.writeFile(
-    `src/scrapeCovers/${IdToISBN.bookID}.jpg`,
+    `src/scrapeCovers/${IdToISBN[bookID]}.jpg`,
     imageBuffer,
   );
   await page.close();
@@ -82,4 +83,4 @@ const main = async (bookID) => {
   await browser.close();
 };
 
-main(61259096);
+main("49466517");
