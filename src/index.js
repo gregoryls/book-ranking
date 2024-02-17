@@ -17,6 +17,7 @@ import * as utils from "./utils";
 // loop converter through booklist
 // scrape images - 'img.ResponsiveImage' should hit covers
 // 22604815, isbn doesn't exist
+// if statement for null isbn image names
 
 console.log(bookList[0]);
 const readBooks = [];
