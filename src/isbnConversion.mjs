@@ -23,3 +23,4 @@ for (let i = 0; i < bookList.length; i += 1) {
     if (modulo10 !== 0) newIsbn13 = `${isbnAppendPrefix}${10 - modulo10}`;
   }
 }
+// add comments
