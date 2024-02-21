@@ -19,7 +19,7 @@ def lookup_isbn(title, author):
            book['ISBN13'] = isbn13 
            print(isbn13)
            
-    with open('test_export','w',encoding='utf-8') as file:
+    with open('test_export.json','w',encoding='utf-8') as file:
         json.dump(book_list, file, indent=2, ensure_ascii=False)
         #     if isbn:
         #         # If ISBN is already available in the bookList, print it
