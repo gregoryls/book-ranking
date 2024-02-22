@@ -15,9 +15,11 @@ def lookup_isbn(title, author):
            
            title_author_str = f"{book.get('Title')} {book.get('Author')}"
            isbn13 = isbn_from_words(title_author_str)
+
+           if isbn13:
             
-           book['ISBN13'] = isbn13 
-           print(isbn13)
+                book['ISBN13'] = isbn13 
+                print(isbn13)
            
     with open('test_export.json','w',encoding='utf-8') as file:
         json.dump(book_list, file, indent=2, ensure_ascii=False)
