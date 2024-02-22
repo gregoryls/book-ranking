@@ -18,7 +18,7 @@ import * as utils from "./utils";
 // scrape images - 'img.ResponsiveImage' should hit covers
 // 22604815, isbn doesn't exist
 // if statement for null isbn image names
-// https://pypi.org/project/isbntools/
+// update python script notes
 
 console.log(bookList[0]);
 const readBooks = [];
