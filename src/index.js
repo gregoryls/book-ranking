@@ -19,6 +19,7 @@ import * as utils from "./utils";
 // 22604815, isbn doesn't exist
 // if statement for null isbn image names
 // update python script notes
+// make isbnconversion into a discrete function.
 
 console.log(bookList[0]);
 const readBooks = [];
