@@ -50,12 +50,15 @@ import bookList from "./bookList.json" with { type: "json" };
 // main();
 
 // const url = "https://www.goodreads.com/book/show/45892276";
-const IdToISBN = {};
 
+const IdToISBN = {};
 for (let i = 0; i < bookList.length; i += 1) {
   const id = bookList[i]["Book Id"];
   const isbn = bookList[i].ISBN13;
   IdToISBN[id] = isbn;
+
+  // Use book title for missing isbn (usually webnovels with no valid isbn)
+  if (isbn === null) IdToISBN[id] = bookList[i].Title;
 }
 
 const main = async (bookID) => {
