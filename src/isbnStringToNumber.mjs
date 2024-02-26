@@ -1,35 +1,20 @@
 import { readFileSync, writeFileSync } from "fs";
 
-const filePath = "src/bookList.json"; // Replace with the actual path to your source JSON file
-const updatedFilePath = "src/bookListUpdate.json";
-
+const filePath = "src/bookList.json";
+const updatedFilePath = "src/bookListUpdated.json";
 // Read the JSON file
-readFileSync(filePath, "utf8", (err, data) => {
-  if (err) {
-    console.error(`Error reading the file: ${err.message}`);
-    return;
-  }
+const jsonData = readFileSync(filePath, "utf8");
 
-  try {
-    // Parse the JSON data
-    const bookList = JSON.parse(data);
+// Parse the JSON data
+const bookList = JSON.parse(jsonData);
 
-    bookList.forEach((book) => {
-      if (typeof book.ISBN13 === "string") {
-        book.ISBN13 = parseFloat(book.ISBN13);
-      }
-    });
-
-    // Save the updated data back to the JSON file
-    const updatedData = JSON.stringify(bookList, null, 2);
-    writeFileSync(updatedFilePath, updatedData, "utf8", (writeErr) => {
-      if (writeErr) {
-        console.error(`Error writing to the file: ${writeErr.message}`);
-      } else {
-        console.log("Conversion and update successful!");
-      }
-    });
-  } catch (parseError) {
-    console.error(`Error parsing JSON: ${parseError.message}`);
+// Convert specified property values from strings to numbers
+bookList.forEach((book) => {
+  if (typeof book.ISBN13 === "string") {
+    book.ISBN13 = parseFloat(book.ISBN13);
   }
 });
+
+// Save the updated data back to the JSON file
+const updatedData = JSON.stringify(bookList, null, 2);
+writeFileSync(updatedFilePath, updatedData, "utf8");
