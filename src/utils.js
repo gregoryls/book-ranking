@@ -33,7 +33,13 @@ export function renderBookList(bookList) {
     div.classList.add("bookListDisplay");
     div.draggable = true;
     h3.textContent = i + 1;
+
+    // most books have an ISBN13 and the cover is stored with that as a filename
     img.src = covers[bookList[i].ISBN13];
+    // Alternative filename uses book title instead when ISBN13 is missing
+    if (covers[bookList[i].ISBN13] === undefined)
+      img.src = covers[bookList[i].Title];
+
     img.classList.add("bookCover");
     p.textContent = bookList[i].Title;
     authorP.textContent = bookList[i].Author;
