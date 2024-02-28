@@ -12,14 +12,12 @@ const main = async (bookID) => {
 
   await page.waitForNetworkIdle();
 
-  const genreElements = await page.waitForSelector(
+  const genreElements = await page.$$eval(
     ".BookPageMetadataSection__genreButton a span",
+    (elements) => elements.map((element) => element.textContent),
   );
 
-  const test = await genreElements.evaluate((element) =>
-    element.getAttribute("textContent"),
-  );
-  console.log(test);
+  console.log(genreElements);
   //   await fs.promises.writeFile(
   //     `src/scrapeCovers/${IdToISBN[bookID]}.jpg`,
   //     imageBuffer,
