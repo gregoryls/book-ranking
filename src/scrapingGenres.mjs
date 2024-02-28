@@ -1,7 +1,6 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 import bookList from "./bookList.json" with { type: "json" };
-import { generateKey } from "crypto";
 
 const main = async (bookID) => {
   const url = "https://www.goodreads.com/book/show/" + bookID;
