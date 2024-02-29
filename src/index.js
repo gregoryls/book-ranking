@@ -18,6 +18,7 @@ import * as utils from "./utils";
 // scrape images - 'img.ResponsiveImage' should hit covers
 // 22604815, isbn doesn't exist
 // isbn string to num node script
+// investigate Promise.all method
 
 console.log(bookList[0]);
 const readBooks = [];
