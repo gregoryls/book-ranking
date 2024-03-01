@@ -43,9 +43,6 @@ const main = async () => {
 
     // Update bookList with genreTags
     bookList[i].genreTags = genreElements;
-
-    await page.close();
-    await browser.close();
   }
 
   const updatedBookList = JSON.stringify(bookList, null, 2);
