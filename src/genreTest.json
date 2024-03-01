@@ -23,16 +23,7 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Superheroes",
-      "Urban Fantasy",
-      "Science Fiction",
-      "Dystopia",
-      "Young Adult",
-      "Romance"
-    ]
+    "Owned Copies": 0
   },
   {
     "Book Id": 61259096,
@@ -58,16 +49,7 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0,
-    "genreTags": [
-      "Fiction",
-      "Science Fiction",
-      "Short Stories",
-      "Novella",
-      "Nature",
-      "Climate Change Fiction",
-      "Dystopia"
-    ]
+    "Owned Copies": 0
   },
   {
     "Book Id": 22604815,
@@ -119,7 +101,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Young Adult",
+      "Mystery",
+      "Horror",
+      "Paranormal",
+      "Middle Grade",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 60652997,

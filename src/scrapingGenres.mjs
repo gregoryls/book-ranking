@@ -5,7 +5,7 @@ import bookList from "./bookList.json" with { type: "json" };
 const maxRetries = 3;
 
 const main = async () => {
-  for (let i = 0; i < 2; i += 1) {
+  for (let i = 3; i < 4; i += 1) {
     const bookID = bookList[i]["Book Id"];
     const url = "https://www.goodreads.com/book/show/" + bookID;
 
@@ -34,6 +34,7 @@ const main = async () => {
       } finally {
         await page.close();
         await browser.close();
+        console.log(`${i}/${bookList.length}`);
       }
 
       // Increment retries and wait for a short time before the next attempt
