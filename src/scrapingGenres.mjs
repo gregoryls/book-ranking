@@ -22,7 +22,7 @@ const main = async () => {
 
     // console.log(genreElements);
     bookList[i].genreTags = genreElements;
-    console.log(bookList[i]);
+    // console.log(bookList[i]);
 
     //   await fs.promises.writeFile(
     //     `src/scrapeCovers/${IdToISBN[bookID]}.jpg`,
@@ -31,6 +31,8 @@ const main = async () => {
     await page.close();
     await browser.close();
   }
+  const updatedBookList = JSON.stringify(bookList, null, 2);
+  await fs.promises.writeFile("src/genreTest.json", updatedBookList);
 };
 
 main();
