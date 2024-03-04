@@ -84,3 +84,8 @@ export function getReview() {
   const review = document.getElementById("review");
   return review.value;
 }
+
+export function getBookCover() {
+  const cover = document.getElementById("bookCoverInput").files[0];
+  return cover;
+}
