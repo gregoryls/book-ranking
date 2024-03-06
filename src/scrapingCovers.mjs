@@ -37,4 +37,6 @@ const main = async (bookID) => {
   await browser.close();
 };
 
-main("49466517");
+for (let i = 0; i < 1; i += 1) {
+  main(bookList[i]["Book Id"]);
+}
