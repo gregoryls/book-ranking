@@ -3487,7 +3487,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Fantasy",
+      "Humor",
+      "Audiobook",
+      "Contemporary",
+      "Adult"
+    ]
   },
   {
     "Book Id": 25106,
@@ -3513,7 +3522,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Graphic Novels",
+      "Fantasy",
+      "Fiction",
+      "Graphic Novels Comics",
+      "Horror",
+      "Comics",
+      "Comic Book"
+    ]
   },
   {
     "Book Id": 8049273,
@@ -3539,7 +3557,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science",
+      "Nonfiction",
+      "Physics",
+      "Astronomy",
+      "Popular Science",
+      "Space",
+      "Philosophy"
+    ]
   },
   {
     "Book Id": 1941607,
@@ -3565,7 +3592,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Thriller",
+      "Mystery",
+      "Crime",
+      "Legal Thriller",
+      "Suspense",
+      "Mystery Thriller"
+    ]
   },
   {
     "Book Id": 65213543,
@@ -3591,7 +3627,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Cozy Mystery",
+      "LGBT",
+      "Romance",
+      "Audiobook",
+      "Adult"
+    ]
   },
   {
     "Book Id": 65213595,
@@ -3617,7 +3662,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Horror",
+      "Gothic",
+      "Fiction",
+      "Romance",
+      "Mystery",
+      "Adult"
+    ]
   },
   {
     "Book Id": 111673828,
@@ -3643,7 +3697,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Adult",
+      "Magic",
+      "Historical Fiction",
+      "High Fantasy",
+      "Audiobook"
+    ]
   },
   {
     "Book Id": 18373,
@@ -3669,7 +3732,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Classics",
+      "Science Fiction",
+      "Young Adult",
+      "Psychology",
+      "Literature",
+      "School"
+    ]
   },
   {
     "Book Id": 17061,
@@ -3695,7 +3767,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Horror",
+      "Fiction",
+      "Young Adult",
+      "Middle Grade",
+      "Childrens",
+      "Paranormal"
+    ]
   },
   {
     "Book Id": 56269064,
@@ -3721,7 +3802,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Thriller",
+      "Mystery",
+      "Mystery Thriller",
+      "Fiction",
+      "Audiobook",
+      "Suspense",
+      "Adult"
+    ]
   },
   {
     "Book Id": 35820369,
@@ -3747,7 +3837,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Nonfiction",
+      "Science",
+      "History",
+      "Dinosaurs",
+      "Nature",
+      "Audiobook",
+      "Animals"
+    ]
   },
   {
     "Book Id": 58986604,
@@ -3773,7 +3872,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science",
+      "Nonfiction",
+      "History",
+      "Nature",
+      "Biology",
+      "Animals",
+      "Evolution"
+    ]
   },
   {
     "Book Id": 124938168,
@@ -3799,7 +3907,12 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Manga",
+      "Fantasy",
+      "Humor"
+    ]
   },
   {
     "Book Id": 2887211,
@@ -3825,7 +3938,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Young Adult",
+      "Fiction",
+      "Adventure",
+      "Japanese Literature",
+      "Japan",
+      "Manga"
+    ]
   },
   {
     "Book Id": 10852343,
@@ -3851,7 +3973,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Steampunk",
+      "Young Adult",
+      "Dystopia",
+      "Science Fiction",
+      "Mythology",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 36672988,
@@ -3877,7 +4008,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Young Adult",
+      "Mythology",
+      "Young Adult Fantasy",
+      "Romance",
+      "Magic",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 1237930,
@@ -3903,7 +4043,15 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "High Fantasy",
+      "Epic",
+      "Japan",
+      "Novels"
+    ]
   },
   {
     "Book Id": 35519101,
@@ -3929,7 +4077,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Novella",
+      "Audiobook",
+      "Adult",
+      "Space",
+      "Science Fiction Fantasy"
+    ]
   },
   {
     "Book Id": 59130873,
@@ -3955,7 +4112,8 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": []
   },
   {
     "Book Id": 53419033,
@@ -3981,7 +4139,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Manga",
+      "Fantasy",
+      "Humor",
+      "Comics",
+      "Magic",
+      "Graphic Novels",
+      "Shonen"
+    ]
   },
   {
     "Book Id": 52263339,
@@ -4007,7 +4174,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Mystery",
+      "Novella",
+      "Fiction",
+      "Horror",
+      "Fantasy",
+      "Short Stories"
+    ]
   },
   {
     "Book Id": 6053281,
@@ -4033,7 +4209,14 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Mystery",
+      "Cozy Mystery",
+      "Fiction",
+      "Halloween",
+      "Adult"
+    ]
   },
   {
     "Book Id": 58097728,
@@ -4059,7 +4242,12 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Science Fiction Fantasy",
+      "Fantasy"
+    ]
   },
   {
     "Book Id": 872586,
@@ -4085,7 +4273,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Time Travel",
+      "Fantasy",
+      "Science Fiction Fantasy",
+      "Aliens",
+      "Adventure"
+    ]
   },
   {
     "Book Id": 10100051,
@@ -4111,7 +4308,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Dystopia",
+      "Classics",
+      "Science Fiction Fantasy",
+      "Novels",
+      "Cyberpunk"
+    ]
   },
   {
     "Book Id": 765081,
@@ -4137,7 +4343,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Time Travel",
+      "Alternate History",
+      "Fantasy",
+      "Fiction",
+      "Historical Fiction",
+      "Action"
+    ]
   },
   {
     "Book Id": 94715,
@@ -4163,7 +4378,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Time Travel",
+      "Fiction",
+      "Alternate History",
+      "Fantasy",
+      "Historical Fiction",
+      "Historical"
+    ]
   },
   {
     "Book Id": 119073,
@@ -4189,7 +4413,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Historical Fiction",
+      "Mystery",
+      "Classics",
+      "Historical",
+      "Literature",
+      "Italy"
+    ]
   },
   {
     "Book Id": 53879204,
@@ -4215,7 +4448,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Science Fiction",
+      "Dystopia",
+      "Contemporary",
+      "Novella",
+      "Literary Fiction",
+      "Novels"
+    ]
   },
   {
     "Book Id": 343,
@@ -4241,7 +4483,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Classics",
+      "Historical Fiction",
+      "Horror",
+      "Thriller",
+      "Mystery",
+      "Crime"
+    ]
   },
   {
     "Book Id": 17899948,
@@ -4267,7 +4518,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Mystery",
+      "Gothic",
+      "Romance",
+      "Classics",
+      "Historical Fiction",
+      "Thriller"
+    ]
   },
   {
     "Book Id": 16286,
@@ -4293,7 +4553,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Classics",
+      "Fantasy",
+      "Mystery",
+      "Literature",
+      "Novels",
+      "Literary Fiction"
+    ]
   },
   {
     "Book Id": 14288,
@@ -4319,7 +4588,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Horror",
+      "Fiction",
+      "Japanese Literature",
+      "Japan",
+      "Thriller",
+      "Crime",
+      "Asian Literature"
+    ]
   },
   {
     "Book Id": 6961355,
@@ -4345,7 +4623,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Video Games",
+      "Short Stories",
+      "Novels",
+      "Action",
+      "Military Science Fiction"
+    ]
   },
   {
     "Book Id": 43237723,
@@ -4371,7 +4658,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Video Games",
+      "Space Opera",
+      "Science Fiction Fantasy",
+      "Novels",
+      "Games"
+    ]
   },
   {
     "Book Id": 54112943,
@@ -4397,7 +4693,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Light Novel",
+      "Mystery",
+      "Steampunk",
+      "Magic",
+      "Novels",
+      "Manhwa"
+    ]
   },
   {
     "Book Id": 13239822,
@@ -4423,7 +4728,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Science Fiction",
+      "Urban Fantasy",
+      "Magical Realism",
+      "Young Adult",
+      "Cyberpunk"
+    ]
   },
   {
     "Book Id": 12067161,
@@ -4449,7 +4763,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Fantasy",
+      "Science Fiction",
+      "Alternate History",
+      "Speculative Fiction",
+      "Thriller",
+      "Politics"
+    ]
   },
   {
     "Book Id": 40655917,
@@ -4475,7 +4798,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Space Opera",
+      "Military Fiction",
+      "Military Science Fiction",
+      "Fiction",
+      "Space",
+      "Action"
+    ]
   },
   {
     "Book Id": 8088,
@@ -4501,7 +4833,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Vampires",
+      "Urban Fantasy",
+      "Paranormal",
+      "Fiction",
+      "Horror",
+      "Young Adult"
+    ]
   },
   {
     "Book Id": 44144959,
@@ -4527,7 +4868,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Graphic Novels",
+      "Comics",
+      "Science Fiction",
+      "Fiction",
+      "Fantasy",
+      "Graphic Novels Comics",
+      "LGBT"
+    ]
   },
   {
     "Book Id": 71847,
@@ -4553,7 +4903,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Mystery",
+      "Psychology",
+      "Novels",
+      "Mental Health",
+      "Contemporary"
+    ]
   },
   {
     "Book Id": 25109947,
@@ -4579,7 +4938,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Horror",
+      "Fantasy",
+      "Fiction",
+      "Historical Fiction",
+      "Science Fiction",
+      "Historical",
+      "Audiobook"
+    ]
   },
   {
     "Book Id": 1107458,
@@ -4605,7 +4973,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Science Fiction",
+      "Fantasy",
+      "Fiction",
+      "Young Adult",
+      "Science Fiction Fantasy",
+      "Dystopia",
+      "Speculative Fiction"
+    ]
   },
   {
     "Book Id": 43226652,
@@ -4631,7 +5008,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Historical Fiction",
+      "Fiction",
+      "Dragons",
+      "Historical",
+      "Novella",
+      "Alternate History"
+    ]
   },
   {
     "Book Id": 28811016,
@@ -4657,7 +5043,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Audiobook",
+      "Science Fiction Fantasy",
+      "Military Fiction"
+    ]
   },
   {
     "Book Id": 26032825,
@@ -4683,7 +5078,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Young Adult",
+      "Romance",
+      "Fae",
+      "Fiction",
+      "Young Adult Fantasy",
+      "Magic"
+    ]
   },
   {
     "Book Id": 25526296,
@@ -4709,7 +5113,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Young Adult",
+      "Fiction",
+      "Mystery",
+      "LGBT",
+      "Audiobook",
+      "Novella"
+    ]
   },
   {
     "Book Id": 15575,
@@ -4735,7 +5148,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 0,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "Science Fiction Fantasy",
+      "High Fantasy",
+      "Adventure",
+      "Magic"
+    ]
   },
   {
     "Book Id": 39933,
@@ -4761,7 +5183,16 @@
     "Spoiler": "",
     "Private Notes": "",
     "Read Count": 1,
-    "Owned Copies": 0
+    "Owned Copies": 0,
+    "genreTags": [
+      "Nonfiction",
+      "School",
+      "Books About Books",
+      "Writing",
+      "Education",
+      "Literature",
+      "Read For School"
+    ]
   },
   {
     "Book Id": 45102,
