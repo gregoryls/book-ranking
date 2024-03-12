@@ -5,7 +5,7 @@ import bookList from "./bookList.json" with { type: "json" };
 const maxRetries = 3;
 
 const main = async () => {
-  for (let i = 800; i < 900; i += 1) {
+  for (let i = 900; i < 1000; i += 1) {
     const bookID = bookList[i]["Book Id"];
     const url = "https://www.goodreads.com/book/show/" + bookID;
 
