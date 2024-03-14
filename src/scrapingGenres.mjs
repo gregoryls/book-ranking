@@ -24,7 +24,7 @@ const main = async () => {
           ".BookPageMetadataSection__genreButton a span",
           (elements) => elements.map((element) => element.textContent),
         );
-
+        console.log(`${i}/${bookList.length}`);
         // If successful, break out of the loop
         break;
       } catch (error) {
@@ -34,7 +34,6 @@ const main = async () => {
       } finally {
         await page.close();
         await browser.close();
-        console.log(`${i}/${bookList.length}`);
       }
 
       // Increment retries and wait for a short time before the next attempt
