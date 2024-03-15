@@ -3,6 +3,7 @@ import fs from "fs";
 import bookList from "./bookList.json" with { type: "json" };
 
 const IdToISBN = {};
+
 for (let i = 0; i < bookList.length; i += 1) {
   const id = bookList[i]["Book Id"];
   const isbn = bookList[i].ISBN13;
@@ -12,31 +13,53 @@ for (let i = 0; i < bookList.length; i += 1) {
   if (isbn === null) IdToISBN[id] = bookList[i].Title;
 }
 
+const maxRetries = 3;
+
 const main = async (bookID) => {
-  const url = "https://www.goodreads.com/book/show/" + bookID;
+  let browser, page, pageNew;
+  let retries = 0;
 
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto(url);
+  while (retries < maxRetries) {
+    try {
+      const url = "https://www.goodreads.com/book/show/" + bookID;
 
-  const image = await page.waitForSelector("img.ResponsiveImage");
-  const imgURL = await image.evaluate((img) => img.getAttribute("src"));
-  const pageNew = await browser.newPage();
-  const response = await pageNew.goto(imgURL, {
-    timeout: 0,
-    waitUntil: "networkidle0",
-  });
-  const imageBuffer = await response.buffer();
-  console.log(IdToISBN[bookID]);
-  await fs.promises.writeFile(
-    `src/scrapeCovers/${IdToISBN[bookID]}.jpg`,
-    imageBuffer,
-  );
-  await page.close();
-  await pageNew.close();
-  await browser.close();
+      browser = await puppeteer.launch();
+      page = await browser.newPage();
+      await page.goto(url);
+
+      const image = await page.waitForSelector("img.ResponsiveImage");
+      const imgURL = await image.evaluate((img) => img.getAttribute("src"));
+
+      pageNew = await browser.newPage();
+      const response = await pageNew.goto(imgURL, {
+        timeout: 0,
+        waitUntil: "networkidle0",
+      });
+      const imageBuffer = await response.buffer();
+
+      await fs.promises.writeFile(
+        `src/scrapeCovers/${IdToISBN[bookID]}.jpg`,
+        imageBuffer,
+      );
+
+      // Exit the loop if successful
+      break;
+    } catch (error) {
+      console.error(`Error for bookID ${bookID}: ${error.message}`);
+    } finally {
+      // Close the pages and browser if they exist
+      if (page) await page.close();
+      if (pageNew) await pageNew.close();
+      if (browser) await browser.close();
+    }
+
+    // Increment retries and wait for a short time before the next attempt
+    retries += 1;
+    await new Promise((resolve) => setTimeout(resolve, 1000));
+  }
 };
 
 for (let i = 0; i < 1; i += 1) {
   main(bookList[i]["Book Id"]);
+  console.log(`${i}/${bookList.length - 1}`);
 }
