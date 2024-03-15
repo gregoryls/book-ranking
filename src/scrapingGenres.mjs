@@ -5,7 +5,7 @@ import bookList from "./bookList.json" with { type: "json" };
 const maxRetries = 3;
 
 const main = async () => {
-  for (let i = 1500; i < 1600; i += 1) {
+  for (let i = 1600; i < 1714; i += 1) {
     const bookID = bookList[i]["Book Id"];
     const url = "https://www.goodreads.com/book/show/" + bookID;
 
@@ -24,7 +24,7 @@ const main = async () => {
           ".BookPageMetadataSection__genreButton a span",
           (elements) => elements.map((element) => element.textContent),
         );
-        console.log(`${i}/${bookList.length}`);
+        console.log(`${i}/${bookList.length - 1}`);
         // If successful, break out of the loop
         break;
       } catch (error) {
