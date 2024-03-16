@@ -43,6 +43,7 @@ const main = async (bookID) => {
           imageBuffer,
         );
 
+        console.log(`${i}/${bookList.length - 1}`);
         // Exit the loop if successful
         break;
       } catch (error) {
