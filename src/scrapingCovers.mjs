@@ -59,7 +59,7 @@ const main = async (bookID) => {
   }
 };
 
-for (let i = 0; i < 1; i += 1) {
+for (let i = 0; i < 10; i += 1) {
   main(bookList[i]["Book Id"]);
   console.log(`${i}/${bookList.length - 1}`);
 }
