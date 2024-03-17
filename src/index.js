@@ -21,7 +21,7 @@ import * as utils from "./utils";
 // investigate Promise.all method
 // new book node module, update bookList with given goodreadsID
 
-console.log(bookList[93]);
+console.log(bookList[22]);
 const readBooks = [];
 const rating1Books = [];
 const rating2Books = [];
