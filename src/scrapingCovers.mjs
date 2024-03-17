@@ -16,7 +16,7 @@ for (let i = 0; i < bookList.length; i += 1) {
 const maxRetries = 3;
 
 const main = async () => {
-  for (let i = 15; i < 30; i += 1) {
+  for (let i = 23; i < 24; i += 1) {
     let browser, page, pageNew;
     let retries = 0;
     const bookID = bookList[i]["Book Id"];
