@@ -44,7 +44,7 @@ const main = async () => {
           const imageBuffer = await response.buffer();
 
           await fs.promises.writeFile(
-            `src/scrapeCovers/${IdToISBN[bookID]}.jpg`,
+            `src/covers/${IdToISBN[bookID]}.jpg`,
             imageBuffer,
           );
 
