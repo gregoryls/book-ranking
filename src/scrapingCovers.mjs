@@ -21,7 +21,7 @@ const main = async () => {
     // browser outside for loop to reuse same instance
     browser = await puppeteer.launch();
 
-    for (let i = 250; i < 350; i += 1) {
+    for (let i = 350; i < 550; i += 1) {
       let page, pageNew;
       let retries = 0;
       const bookID = bookList[i]["Book Id"];
