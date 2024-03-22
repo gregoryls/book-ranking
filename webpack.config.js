@@ -13,6 +13,7 @@ module.exports = {
   output: {
     filename: "[name].bundle.js",
     path: path.resolve(__dirname, "dist"),
+    assetModuleFilename: "img/[hash][ext][query]",
     clean: true,
   },
   plugins: [
