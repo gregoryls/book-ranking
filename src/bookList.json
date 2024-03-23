@@ -191,12 +191,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fitness",
-      "Health",
-      "Nonfiction",
-      "Sports"
-    ]
+    "genreTags": ["Fitness", "Health", "Nonfiction", "Sports"]
   },
   {
     "Book Id": 25713878,
@@ -223,12 +218,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fitness",
-      "Health",
-      "Nonfiction",
-      "Sports"
-    ]
+    "genreTags": ["Fitness", "Health", "Nonfiction", "Sports"]
   },
   {
     "Book Id": 59145,
@@ -2555,11 +2545,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Star Wars",
-      "Science Fiction",
-      "Fiction"
-    ]
+    "genreTags": ["Star Wars", "Science Fiction", "Fiction"]
   },
   {
     "Book Id": 58416952,
@@ -3908,11 +3894,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Manga",
-      "Fantasy",
-      "Humor"
-    ]
+    "genreTags": ["Manga", "Fantasy", "Humor"]
   },
   {
     "Book Id": 2887211,
@@ -4210,13 +4192,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Mystery",
-      "Cozy Mystery",
-      "Fiction",
-      "Halloween",
-      "Adult"
-    ]
+    "genreTags": ["Mystery", "Cozy Mystery", "Fiction", "Halloween", "Adult"]
   },
   {
     "Book Id": 58097728,
@@ -4243,11 +4219,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Science Fiction Fantasy",
-      "Fantasy"
-    ]
+    "genreTags": ["Science Fiction", "Science Fiction Fantasy", "Fantasy"]
   },
   {
     "Book Id": 872586,
@@ -6024,11 +5996,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Fiction",
-      "Historical Fiction"
-    ]
+    "genreTags": ["Fantasy", "Fiction", "Historical Fiction"]
   },
   {
     "Book Id": 51086522,
@@ -6405,11 +6373,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Science Fiction",
-      "Unfinished"
-    ]
+    "genreTags": ["Fantasy", "Science Fiction", "Unfinished"]
   },
   {
     "Book Id": 22822858,
@@ -6568,13 +6532,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Manga",
-      "Fiction",
-      "Adventure"
-    ]
+    "genreTags": ["Fantasy", "Light Novel", "Manga", "Fiction", "Adventure"]
   },
   {
     "Book Id": 173338910,
@@ -6671,12 +6629,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Manga",
-      "Fiction"
-    ]
+    "genreTags": ["Fantasy", "Light Novel", "Manga", "Fiction"]
   },
   {
     "Book Id": 58210933,
@@ -6738,11 +6691,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Fiction"
-    ]
+    "genreTags": ["Fantasy", "Light Novel", "Fiction"]
   },
   {
     "Book Id": 40672036,
@@ -7011,13 +6960,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Fiction",
-      "Comics",
-      "Action"
-    ]
+    "genreTags": ["Fantasy", "Light Novel", "Fiction", "Comics", "Action"]
   },
   {
     "Book Id": 41446530,
@@ -9878,10 +9821,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Fantasy"
-    ]
+    "genreTags": ["Science Fiction", "Fantasy"]
   },
   {
     "Book Id": 58586407,
@@ -12032,10 +11972,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Fiction"
-    ]
+    "genreTags": ["Science Fiction", "Fiction"]
   },
   {
     "Book Id": 17910078,
@@ -13112,10 +13049,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Fiction"
-    ]
+    "genreTags": ["Fantasy", "Fiction"]
   },
   {
     "Book Id": 25100,
@@ -13433,7 +13367,7 @@
     ]
   },
   {
-    "Book Id": 925,
+    "Book Id": 22892551,
     "Title": "A Clean Kill in Tokyo (John Rain, #1)",
     "Author": "Barry Eisler",
     "Author l-f": "Eisler, Barry",
@@ -16144,12 +16078,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Space Opera",
-      "Young Adult",
-      "Fiction"
-    ]
+    "genreTags": ["Science Fiction", "Space Opera", "Young Adult", "Fiction"]
   },
   {
     "Book Id": 58510873,
@@ -16176,11 +16105,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Young Adult",
-      "Magic"
-    ]
+    "genreTags": ["Fantasy", "Young Adult", "Magic"]
   },
   {
     "Book Id": 61324650,
@@ -16207,12 +16132,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Fiction",
-      "High Fantasy",
-      "Magic"
-    ]
+    "genreTags": ["Fantasy", "Fiction", "High Fantasy", "Magic"]
   },
   {
     "Book Id": 60969058,
@@ -16379,11 +16299,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Music",
-      "Nonfiction",
-      "History"
-    ]
+    "genreTags": ["Music", "Nonfiction", "History"]
   },
   {
     "Book Id": 60384067,
@@ -16725,9 +16641,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction"
-    ]
+    "genreTags": ["Science Fiction"]
   },
   {
     "Book Id": 60040191,
@@ -18251,11 +18165,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Time Travel",
-      "Alternate History"
-    ]
+    "genreTags": ["Science Fiction", "Time Travel", "Alternate History"]
   },
   {
     "Book Id": 57913,
@@ -19787,7 +19697,7 @@
     ]
   },
   {
-    "Book Id": 17280233,
+    "Book Id": 34744334,
     "Title": "Poor Man's Fight (Poor Man's Fight, #1)",
     "Author": "Elliott Kay",
     "Author l-f": "Kay, Elliott",
@@ -19943,10 +19853,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Fiction"
-    ]
+    "genreTags": ["Science Fiction", "Fiction"]
   },
   {
     "Book Id": 58885854,
@@ -20953,9 +20860,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Slice Of Life"
-    ]
+    "genreTags": ["Slice Of Life"]
   },
   {
     "Book Id": 39713593,
@@ -21332,10 +21237,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Fiction"
-    ]
+    "genreTags": ["Science Fiction", "Fiction"]
   },
   {
     "Book Id": 3392293,
@@ -22975,7 +22877,7 @@
     ]
   },
   {
-    "Book Id": 40600413,
+    "Book Id": 96478,
     "Title": "Kiln People",
     "Author": "David Brin",
     "Author l-f": "Brin, David",
@@ -23586,13 +23488,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Manga",
-      "Comics",
-      "Fantasy",
-      "Pirates",
-      "Adventure"
-    ]
+    "genreTags": ["Manga", "Comics", "Fantasy", "Pirates", "Adventure"]
   },
   {
     "Book Id": 16152113,
@@ -24433,7 +24329,7 @@
     ]
   },
   {
-    "Book Id": 8157624,
+    "Book Id": 421861,
     "Title": "Get Out of Your Own Way at Work...And Help Others Do the Same: Conquer Self-Defeating Behavior on the Job",
     "Author": "Mark Goulston",
     "Author l-f": "Goulston, Mark",
@@ -24659,12 +24555,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Queer",
-      "LGBT",
-      "High Fantasy"
-    ]
+    "genreTags": ["Fantasy", "Queer", "LGBT", "High Fantasy"]
   },
   {
     "Book Id": 8675300,
@@ -26721,11 +26612,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Fiction",
-      "Fantasy"
-    ]
+    "genreTags": ["Science Fiction", "Fiction", "Fantasy"]
   },
   {
     "Book Id": 20697413,
@@ -29095,10 +28982,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Young Adult"
-    ]
+    "genreTags": ["Fantasy", "Young Adult"]
   },
   {
     "Book Id": 56097208,
@@ -29370,9 +29254,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy"
-    ]
+    "genreTags": ["Fantasy"]
   },
   {
     "Book Id": 53263726,
@@ -29434,12 +29316,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Fiction",
-      "Epic",
-      "Science Fiction Fantasy"
-    ]
+    "genreTags": ["Fantasy", "Fiction", "Epic", "Science Fiction Fantasy"]
   },
   {
     "Book Id": 54310257,
@@ -30478,12 +30355,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Zombies",
-      "Horror",
-      "Science Fiction",
-      "Space"
-    ]
+    "genreTags": ["Zombies", "Horror", "Science Fiction", "Space"]
   },
   {
     "Book Id": 28137887,
@@ -30685,11 +30557,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Fiction"
-    ]
+    "genreTags": ["Fantasy", "Light Novel", "Fiction"]
   },
   {
     "Book Id": 442239,
@@ -32072,9 +31940,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "History"
-    ]
+    "genreTags": ["History"]
   },
   {
     "Book Id": 18652002,
@@ -34691,10 +34557,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science",
-      "Nonfiction"
-    ]
+    "genreTags": ["Science", "Nonfiction"]
   },
   {
     "Book Id": 44286477,
@@ -35106,12 +34969,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Chemistry",
-      "Science",
-      "Academic",
-      "Mathematics"
-    ]
+    "genreTags": ["Chemistry", "Science", "Academic", "Mathematics"]
   },
   {
     "Book Id": 759517,
@@ -35547,12 +35405,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Finance",
-      "Economics",
-      "Nonfiction",
-      "Personal Finance"
-    ]
+    "genreTags": ["Finance", "Economics", "Nonfiction", "Personal Finance"]
   },
   {
     "Book Id": 4345290,
@@ -36584,11 +36437,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Poetry",
-      "Nonfiction",
-      "Womens"
-    ]
+    "genreTags": ["Poetry", "Nonfiction", "Womens"]
   },
   {
     "Book Id": 7294421,
@@ -38524,9 +38373,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy"
-    ]
+    "genreTags": ["Fantasy"]
   },
   {
     "Book Id": 42267952,
@@ -42121,9 +41968,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Horror"
-    ]
+    "genreTags": ["Horror"]
   },
   {
     "Book Id": 25188109,
@@ -48659,12 +48504,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Fiction",
-      "Dystopia",
-      "20th Century"
-    ]
+    "genreTags": ["Science Fiction", "Fiction", "Dystopia", "20th Century"]
   },
   {
     "Book Id": 18966806,
@@ -52286,11 +52126,7 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": [
-      "Nonfiction",
-      "Games",
-      "Role Playing Games"
-    ]
+    "genreTags": ["Nonfiction", "Games", "Role Playing Games"]
   },
   {
     "Book Id": 18883761,
@@ -57079,12 +56915,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Nonfiction",
-      "Technology",
-      "Politics",
-      "21st Century"
-    ]
+    "genreTags": ["Nonfiction", "Technology", "Politics", "21st Century"]
   },
   {
     "Book Id": 23341580,
