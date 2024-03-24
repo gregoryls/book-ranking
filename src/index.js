@@ -13,13 +13,10 @@ import * as utils from "./utils";
 // https://codepen.io/WebDevSimplified/pen/JjdveeV
 // come back to custom sorting
 // remove draggable property now with sortablejs?
-// make isbn converter
-// loop converter through booklist
-// scrape images - 'img.ResponsiveImage' should hit covers
-// 22604815, isbn doesn't exist
 // isbn string to num node script
 // investigate Promise.all method
 // new book node module, update bookList with given goodreadsID
+// may have a few covers with mismatched isbns...check visually?
 
 console.log(bookList[22]);
 const readBooks = [];
