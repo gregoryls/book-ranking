@@ -17,8 +17,10 @@ import * as utils from "./utils";
 // investigate Promise.all method
 // new book node module, update bookList with given goodreadsID
 // may have a few covers with mismatched isbns...check visually?
+// dump covers directly into dist?
+// or host covers on some server
 
-console.log(bookList[22]);
+console.log(bookList[1051]);
 const readBooks = [];
 const rating1Books = [];
 const rating2Books = [];
