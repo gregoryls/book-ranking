@@ -51,7 +51,7 @@ for (let i = 0; i < bookList.length; i += 1) {
 
 console.log(readBooks);
 console.log(rating1Books);
-utils.renderBookList(rating1Books);
+utils.renderBookList(readBooks);
 
 // utils.dragAndDrop();
 const bookListRender = document.getElementById("bookWrap");
