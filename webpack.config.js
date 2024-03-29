@@ -22,6 +22,12 @@ module.exports = {
       minify: false,
       template: "./src/index.html",
     }),
+    new HtmlWebpackPlugin({
+      title: "Book Ranking Node",
+      minify: false,
+      filename: "nodeIndex.html",
+      template: "./src/nodeIndex.html",
+    }),
   ],
   module: {
     rules: [
