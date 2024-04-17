@@ -9,7 +9,6 @@ import * as utils from "./utils";
 // TODO
 // arrange dist images into a folder via webpack
 // probably change list to grid
-// look into sortableJS
 // https://codepen.io/WebDevSimplified/pen/JjdveeV
 // come back to custom sorting
 // remove draggable property now with sortablejs?
