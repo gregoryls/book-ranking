@@ -18,6 +18,7 @@ import * as utils from "./utils";
 // may have a few covers with mismatched isbns...check visually?
 // dump covers directly into dist?
 // or host covers on some server
+//
 
 console.log(bookList[1051]);
 const readBooks = [];
