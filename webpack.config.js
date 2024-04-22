@@ -5,8 +5,8 @@ module.exports = {
   mode: "development",
   entry: {
     index: "./src/index.js",
-    utils: "./src/utils.js",
-    newBook: "./src/newBookTools.js",
+    // utils: "./src/utils.js",
+    // newBook: "./src/newBookTools.js",
     // scraping: "./src/scraping.js",
   },
   devtool: "inline-source-map",
