@@ -19,6 +19,8 @@ import * as utils from "./utils";
 // dump covers directly into dist?
 // or host covers on some server
 // look into dynamically loading images as user scrolls down page
+// placeholder cover when one doesn't exist
+//
 
 console.log(bookList[1051]);
 const readBooks = [];
