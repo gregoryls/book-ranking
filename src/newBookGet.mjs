@@ -1,5 +1,5 @@
 import fs from "fs";
-import * as newBookTools from "./newBookTools";
+import puppeteer from "puppeteer";
 import bookList from "./bookList.json" with { type: "json" };
 
 const main = () => {};
