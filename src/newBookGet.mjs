@@ -20,9 +20,20 @@ const main = async () => {
       const url = "https://www.goodreads.com/book/show/" + bookID;
       page = await browser.newPage();
       await page.goto(url);
+
+      // If successful, break out of the loop
+      break;
+    } catch (error) {
+      console.error(
+        `Error fetching data for bookID ${bookID}: ${error.message}`,
+      );
     } finally {
       await page.close();
       await browser.close();
     }
+
+    // Increment retries and wait for a short time before the next attempt
+    retries += 1;
+    await new Promise((resolve) => setTimeout(resolve, 1000));
   }
 };
