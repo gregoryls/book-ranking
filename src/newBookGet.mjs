@@ -20,6 +20,7 @@ const main = async () => {
       const url = "https://www.goodreads.com/book/show/" + bookID;
       page = await browser.newPage();
       await page.goto(url);
+      await page.waitForNetworkIdle();
 
       // If successful, break out of the loop
       break;
