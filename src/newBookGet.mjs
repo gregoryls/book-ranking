@@ -3,6 +3,7 @@ import puppeteer from "puppeteer";
 import bookList from "./bookList.json" with { type: "json" };
 
 maxRetries = 3;
+const newBook = {};
 
 const main = async () => {
   let browser;
