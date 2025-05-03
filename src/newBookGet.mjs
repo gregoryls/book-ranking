@@ -23,6 +23,11 @@ const main = async () => {
       await page.goto(url);
       await page.waitForNetworkIdle();
 
+      // title
+      const title = await page.$eval('[data-testid="bookTitle"]', (title) =>
+        title.textContent.trim(),
+      );
+      newbook["Title"] = title;
       // If successful, break out of the loop
       break;
     } catch (error) {
