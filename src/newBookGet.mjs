@@ -23,11 +23,15 @@ const main = async () => {
       await page.goto(url);
       await page.waitForNetworkIdle();
 
-      // title
-      const title = await page.$eval('[data-testid="bookTitle"]', (title) =>
-        title.textContent.trim(),
-      );
-      newbook["Title"] = title;
+      // use evaluate to only query the page once instead of multiple $eval calls
+      const bookData = await page.evaluate(() => {
+        return {
+          Title:
+            document
+              .querySelector('[data-testid="bookTitle"')
+              ?.textContent.trim() || null,
+        };
+      });
       // If successful, break out of the loop
       break;
     } catch (error) {
