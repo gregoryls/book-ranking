@@ -34,7 +34,7 @@ const main = async () => {
           Title:
             document
               .querySelector('[data-testid="bookTitle"')
-              ?.textContent.trim() || null,
+              ?.textContent.trim() || "",
           Author: authors[0].textContent.trim(),
           "Additional Authors": authors.slice(1),
         };
