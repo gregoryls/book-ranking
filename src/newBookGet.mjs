@@ -35,6 +35,7 @@ const main = async () => {
         const authorsText = authors
           .map((author) => author.textContent.trim())
           .filter(Boolean);
+
         return {
           Title:
             document
