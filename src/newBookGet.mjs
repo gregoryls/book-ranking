@@ -25,18 +25,25 @@ const main = async () => {
 
       // use evaluate to only query the page once instead of multiple $eval calls
       const bookData = await page.evaluate(() => {
+        //convert to array from nodelist
         const authors = Array.from(
           document.querySelectorAll(
             ".BookPageMetadataSection__contributor .ContributorLink__name",
           ),
         );
+        // filter Boolean in case scraping site has issues
+        const authorsText = authors
+          .map((author) => author.textContent.trim())
+          .filter(Boolean);
         return {
           Title:
             document
               .querySelector('[data-testid="bookTitle"')
               ?.textContent.trim() || "",
-          Author: authors[0].textContent.trim(),
-          "Additional Authors": authors.slice(1),
+          Author: authorsText[0] || "",
+          // additional authors in comma separated string to match booklist format
+          "Additional Authors":
+            authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
         };
       });
       // If successful, break out of the loop
