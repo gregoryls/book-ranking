@@ -25,11 +25,16 @@ const main = async () => {
 
       // use evaluate to only query the page once instead of multiple $eval calls
       const bookData = await page.evaluate(() => {
+        const authors = document.querySelectorAll(
+          ".BookPageMetadataSection__contributor .ContributorLink__name",
+        );
         return {
           Title:
             document
               .querySelector('[data-testid="bookTitle"')
               ?.textContent.trim() || null,
+          Author: authors[0].textContent.trim(),
+          // "Additional Authors": authors[:1],
         };
       });
       // If successful, break out of the loop
