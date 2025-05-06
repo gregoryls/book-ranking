@@ -1,23 +1,59 @@
-{
-  "@context": "https://schema.org",
-  "@type": "Book",
-  "name": "The Paragon Hotel",
-  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522566322i/37970853.jpg",
-  "bookFormat": "Hardcover",
-  "numberOfPages": 432,
-  "inLanguage": "English",
-  "isbn": "9780735210752",
-  "author": [
-    {
-      "@type": "Person",
-      "name": "Lyndsay Faye",
-      "url": "https://www.goodreads.com/author/show/1894025.Lyndsay_Faye"
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "The Paragon Hotel",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522566322i/37970853.jpg",
+    "bookFormat": "Hardcover",
+    "numberOfPages": 432,
+    "inLanguage": "English",
+    "isbn": "9780735210752",
+    "author": [
+      {
+        "@type": "Person",
+        "name": "Lyndsay Faye",
+        "url": "https://www.goodreads.com/author/show/1894025.Lyndsay_Faye"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 3.74,
+      "ratingCount": 7149,
+      "reviewCount": 1270
     }
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": 3.74,
-    "ratingCount": 7149,
-    "reviewCount": 1270
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Vita Nostra (Vita Nostra, #1)",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525132805i/38633526.jpg",
+    "bookFormat": "Hardcover",
+    "numberOfPages": 408,
+    "inLanguage": "English",
+    "isbn": "9780062694591",
+    "awards": "Grand Prix de l&apos;Imaginaire Roman étranger (2020), РосКон Романы (2008), Prix Elbakin.net Meilleur roman fantasy traduit (2020)",
+    "author": [
+      {
+        "@type": "Person",
+        "name": "Marina Dyachenko",
+        "url": "https://www.goodreads.com/author/show/7580817.Marina_Dyachenko"
+      },
+      {
+        "@type": "Person",
+        "name": "Sergey Dyachenko",
+        "url": "https://www.goodreads.com/author/show/7580816.Sergey_Dyachenko"
+      },
+      {
+        "@type": "Person",
+        "name": "Julia Meitov Hersey",
+        "url": "https://www.goodreads.com/author/show/6583450.Julia_Meitov_Hersey"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.02,
+      "ratingCount": 20918,
+      "reviewCount": 4213
+    }
   }
-}
+]
