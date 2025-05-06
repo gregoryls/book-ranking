@@ -1,5 +1,6 @@
 import fs from "fs";
 import puppeteer from "puppeteer";
+import isbn10ToIsbn13 from "./isbnConversion";
 import bookList from "./bookList.json" with { type: "json" };
 
 maxRetries = 3;

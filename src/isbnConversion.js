@@ -1,4 +1,5 @@
 function isbn10ToIsbn13(isbn10) {
+  // isbn10 needs to come in as a string
   // the last digit of an isbn10 is the checksum, remove to begin conversion.
   const isbnRemoveLastDigit = isbn10.slice(0, -1);
 
@@ -26,3 +27,5 @@ function isbn10ToIsbn13(isbn10) {
 
   return newIsbn13;
 }
+
+console.log(isbn10ToIsbn13("1234567891"));
