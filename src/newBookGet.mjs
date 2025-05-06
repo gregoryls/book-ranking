@@ -56,10 +56,7 @@ const main = async () => {
           // additional authors in comma separated string to match booklist format
           "Additional Authors":
             authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
-          ISBN13:
-            scrapeJSON.isbn.length == 10
-              ? isbn10ToIsbn13(scrapeJSON.isbn)
-              : scrapeJSON.isbn,
+          ISBN13: normalizeISBN(scrapeJSON.isbn),
         };
       });
       // If successful, break out of the loop
