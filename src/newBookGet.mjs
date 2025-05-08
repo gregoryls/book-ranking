@@ -42,7 +42,7 @@ const main = async () => {
             ".BookPageMetadataSection__contributor .ContributorLink__name",
           ),
         );
-        // filter Boolean in case scraping site has issues
+        // filter Boolean in case site has issues
         const authorsText = authors
           .map((author) => author.textContent.trim())
           .filter(Boolean);
@@ -62,6 +62,16 @@ const main = async () => {
           // optional chaining to account for missing rating data
           "Average Rating":
             scrapeJSON.aggregateRating?.ratingValue?.toString() || "",
+          "Original Publication Year": (() => {
+            // IIFE, optional chaining to check for good element, then regex
+            // match to find the four digits of a year.
+            // text source usually reads, "First Published Januray 1, 1900"
+            const publicationText =
+              document.querySelector('[data-testid="publicationInfo"]')
+                ?.textContent || "";
+            const yearMatch = publicationText.match(/\b\d{4}\b/);
+            return yearMatch ? yearMatch[0] : "";
+          })(),
         };
       });
       // If successful, break out of the loop
