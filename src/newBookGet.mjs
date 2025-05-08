@@ -57,6 +57,11 @@ const main = async () => {
           "Additional Authors":
             authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
           ISBN13: normalizeISBN(scrapeJSON.isbn),
+
+          // average rating data source comes in as a number
+          // optional chaining to account for missing rating data
+          "Average Rating":
+            scrapeJSON.aggregateRating?.ratingValue?.toString() || "",
         };
       });
       // If successful, break out of the loop
