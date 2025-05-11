@@ -47,8 +47,13 @@ const main = async () => {
           .map((author) => author.textContent.trim())
           .filter(Boolean);
 
-        genreElements = document.querySelectorAll(
-          ".BookPageMetadataSection__genreButton a span",
+        const genreElements = Array.from(
+          document.querySelectorAll(
+            ".BookPageMetadataSection__genreButton a span",
+          ),
+        );
+        const genreText = genreElements.map((genre) =>
+          genre.textContent.trim().filter(Boolean),
         );
         return {
           Title:
