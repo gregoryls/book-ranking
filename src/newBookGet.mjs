@@ -55,6 +55,7 @@ const main = async () => {
         const genreText = genreElements
           .map((genre) => genre.textContent.trim())
           .filter((genre) => genre && genre !== "Audiobook");
+
         return {
           Title:
             document
@@ -80,6 +81,8 @@ const main = async () => {
             const yearMatch = publicationText.match(/\b\d{4}\b/);
             return yearMatch ? yearMatch[0] : "";
           })(),
+
+          genreTags: genreText || "",
         };
       });
       // If successful, break out of the loop
