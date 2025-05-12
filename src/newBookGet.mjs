@@ -52,9 +52,9 @@ const main = async () => {
             ".BookPageMetadataSection__genreButton a span",
           ),
         );
-        const genreText = genreElements.map((genre) =>
-          genre.textContent.trim().filter(Boolean),
-        );
+        const genreText = genreElements
+          .map((genre) => genre.textContent.trim())
+          .filter((genre) => genre && genre !== "Audiobook");
         return {
           Title:
             document
