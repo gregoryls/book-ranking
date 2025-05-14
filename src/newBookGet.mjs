@@ -83,6 +83,14 @@ const main = async () => {
           })(),
 
           genreTags: genreText || "",
+          readingData: [
+            {
+              started: "",
+              finished: "",
+              format: "",
+              review: "",
+            },
+          ],
         };
       });
       // If successful, break out of the loop
