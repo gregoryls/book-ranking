@@ -56,13 +56,13 @@ const main = async () => {
           .map((genre) => genre.textContent.trim())
           .filter((genre) => genre && genre !== "Audiobook");
 
-        return {
-          Title:
+        
+          newBook.Title = 
             document
               .querySelector('[data-testid="bookTitle"')
               ?.textContent.trim() || "",
           Author: authorsText[0] || "",
-          // additional authors in comma separated string to match booklist format
+          // additional authors in comma separated string to match bookList format
           "Additional Authors":
             authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
           ISBN13: normalizeISBN(scrapeJSON.isbn),
@@ -91,7 +91,7 @@ const main = async () => {
               review: "",
             },
           ],
-        };
+        
       });
       // If successful, break out of the loop
       break;
@@ -108,4 +108,5 @@ const main = async () => {
     retries += 1;
     await new Promise((resolve) => setTimeout(resolve, 1000));
   }
+  bookList.append;
 };
