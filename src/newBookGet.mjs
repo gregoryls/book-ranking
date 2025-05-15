@@ -57,21 +57,16 @@ const main = async () => {
           .filter((genre) => genre && genre !== "Audiobook");
 
         
-          newBook.Title = 
-            document
-              .querySelector('[data-testid="bookTitle"')
-              ?.textContent.trim() || "",
-          Author: authorsText[0] || "",
+          newBook.Title = document.querySelector('[data-testid="bookTitle"')?.textContent.trim() || "",
+          newBook.Author = authorsText[0] || "",
           // additional authors in comma separated string to match bookList format
-          "Additional Authors":
-            authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
-          ISBN13: normalizeISBN(scrapeJSON.isbn),
+          newBook["Additional Authors"] = authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
+          newBook.ISBN13 = normalizeISBN(scrapeJSON.isbn),
 
           // average rating data source comes in as a number
           // optional chaining to account for missing rating data
-          "Average Rating":
-            scrapeJSON.aggregateRating?.ratingValue?.toString() || "",
-          "Original Publication Year": (() => {
+          newBook["Average Rating"] = scrapeJSON.aggregateRating?.ratingValue?.toString() || "",
+          newBook["Original Publication Year"] = (() => {
             // IIFE, optional chaining to check for good element, then regex
             // match to find the four digits of a year.
             // text source usually reads, "First Published Januray 1, 1900"
@@ -82,8 +77,8 @@ const main = async () => {
             return yearMatch ? yearMatch[0] : "";
           })(),
 
-          genreTags: genreText || "",
-          readingData: [
+          newBook.genreTags = genreText || "",
+          newBook.readingData = [
             {
               started: "",
               finished: "",
