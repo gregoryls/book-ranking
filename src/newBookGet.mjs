@@ -1,7 +1,8 @@
-import fs from "fs";
+import fs, { writeFileSync } from "fs";
 import puppeteer from "puppeteer";
 import isbn10ToIsbn13 from "./isbnConversion";
-import bookList from "./bookList.json" with { type: "json" };
+// import bookList from "./bookList.json" with { type: "json" };
+import testList from "./test.json" with { type: "json" };
 
 maxRetries = 3;
 
@@ -94,7 +95,9 @@ const main = async () => {
       // normalize outside evaluate() due to limited scope inside the browser
       newBook.ISBN13 = normalizeISBN(newBook.ISBN13);
 
-      bookList.push(newBook);
+      // bookList.push(newBook);
+      testList.push(newBook);
+      writeFileSync("./test.json", JSON.stringify(bookList, null, 2));
       // If successful, break out of the loop
       break;
     } catch (error) {
