@@ -30,12 +30,9 @@ const main = async () => {
       await page.waitForNetworkIdle();
 
       // use evaluate to only query the page once instead of multiple $eval calls
-      const bookData = await page.evaluate(() => {
+      await page.evaluate(() => {
         // goodreads structured data
-        const scrapeJSON = JSON.parse(
-          document.querySelector('script[type="application/ld+json"]')
-            .textContent,
-        );
+        const scrapeJSON = JSON.parse(document.querySelector('script[type="application/ld+json"]'));
         //convert to array from nodelist
         const authors = Array.from(
           document.querySelectorAll(
