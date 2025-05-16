@@ -90,6 +90,9 @@ const main = async () => {
           ],
         };
       });
+
+      // normalize outside evaluate() due to limited scope inside the browser
+      newBook.ISBN13 = normalizeISBN(newBook.ISBN13);
       // If successful, break out of the loop
       break;
     } catch (error) {
