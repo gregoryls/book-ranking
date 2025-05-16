@@ -30,7 +30,7 @@ const main = async () => {
       await page.waitForNetworkIdle();
 
       // use evaluate to only query the page once instead of multiple $eval calls
-      await page.evaluate(() => {
+      const newBook = await page.evaluate(() => {
         // goodreads structured data
         const scrapeJSON = JSON.parse(document.querySelector('script[type="application/ld+json"]'));
         //convert to array from nodelist
@@ -54,6 +54,7 @@ const main = async () => {
           .filter((genre) => genre && genre !== "Audiobook");
 
         
+         return { 
           newBook.Title = document.querySelector('[data-testid="bookTitle"')?.textContent.trim() || "",
           newBook.Author = authorsText[0] || "",
           // additional authors in comma separated string to match bookList format
@@ -82,7 +83,7 @@ const main = async () => {
               format: "",
               review: "",
             },
-          ],
+          ],}
         
       });
       // If successful, break out of the loop
