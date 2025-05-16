@@ -5,7 +5,6 @@ import bookList from "./bookList.json" with { type: "json" };
 
 maxRetries = 3;
 
-
 function normalizeISBN(isbn) {
   if (isbn === "") return "";
   return isbn.length === 10 ? isbn10ToIsbn13(isbn) : isbn;
@@ -32,7 +31,9 @@ const main = async () => {
       // use evaluate to only query the page once instead of multiple $eval calls
       const newBook = await page.evaluate(() => {
         // goodreads structured data
-        const scrapeJSON = JSON.parse(document.querySelector('script[type="application/ld+json"]'));
+        const scrapeJSON = JSON.parse(
+          document.querySelector('script[type="application/ld+json"]'),
+        );
         //convert to array from nodelist
         const authors = Array.from(
           document.querySelectorAll(
@@ -57,32 +58,37 @@ const main = async () => {
         // match to find the four digits of a year.
         // text source usually reads, "First Published Januray 1, 1900"
         const publicationText =
-            document.querySelector('[data-testid="publicationInfo"]')?.textContent || "";
+          document.querySelector('[data-testid="publicationInfo"]')
+            ?.textContent || "";
         const yearMatch = publicationText.match(/\b\d{4}\b/);
 
-        
-         return { 
-          newBook.Title = document.querySelector('[data-testid="bookTitle"')?.textContent.trim() || "",
-          newBook.Author = authorsText[0] || "",
+        return {
+          Title:
+            document
+              .querySelector('[data-testid="bookTitle"]')
+              ?.textContent.trim() || "",
+          Author: authorsText[0] || "",
           // additional authors in comma separated string to match bookList format
-          newBook["Additional Authors"] = authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
-          newBook.ISBN13 = normalizeISBN(scrapeJSON.isbn),
+          "Additional Authors":
+            authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
+          ISBN13: scrapeJSON.isbn || "",
 
           // average rating data source comes in as a number
           // optional chaining to account for missing rating data
-          newBook["Average Rating"] = scrapeJSON.aggregateRating?.ratingValue?.toString() || "",
+          "Average Rating":
+            scrapeJSON.aggregateRating?.ratingValue?.toString() || "",
           "Original Publication Year": yearMatch ? yearMatch[0] : "",
 
-          newBook.genreTags = genreText || "",
-          newBook.readingData = [
+          genreTags: genreText || "",
+          readingData: [
             {
               started: "",
               finished: "",
               format: "",
               review: "",
             },
-          ],}
-        
+          ],
+        };
       });
       // If successful, break out of the loop
       break;
