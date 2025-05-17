@@ -4,7 +4,7 @@ import isbn10ToIsbn13 from "./isbnConversion.js";
 // import bookList from "./bookList.json" with { type: "json" };
 import testList from "./test.json" with { type: "json" };
 
-maxRetries = 3;
+const maxRetries = 3;
 
 function normalizeISBN(isbn) {
   if (isbn === "") return "";
