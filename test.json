@@ -1,0 +1,22 @@
+[
+  {
+    "test": "object"
+  },
+  {
+    "Title": "",
+    "Author": "",
+    "Additional Authors": "",
+    "ISBN13": "",
+    "Average Rating": "",
+    "Original Publication Year": "",
+    "genreTags": [],
+    "readingData": [
+      {
+        "started": "",
+        "finished": "",
+        "format": "",
+        "review": ""
+      }
+    ]
+  }
+]

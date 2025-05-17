@@ -28,6 +28,7 @@ const main = async () => {
       page = await browser.newPage();
       await page.goto(url);
       await page.waitForNetworkIdle();
+      await page.waitForSelector('script[type="application/ld+json"]');
 
       // use evaluate to only query the page once instead of multiple $eval calls
       const newBook = await page.evaluate(() => {
@@ -35,6 +36,7 @@ const main = async () => {
         const scriptTag = document.querySelector(
           'script[type="application/ld+json"]',
         );
+        console.log(scriptTag?.textContent);
         const scrapeJSON = scriptTag ? JSON.parse(scriptTag.textContent) : {};
 
         //convert to array from nodelist
