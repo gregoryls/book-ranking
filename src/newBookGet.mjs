@@ -1,6 +1,6 @@
 import fs, { writeFileSync } from "fs";
 import puppeteer from "puppeteer";
-import isbn10ToIsbn13 from "./isbnConversion";
+import isbn10ToIsbn13 from "./isbnConversion.js";
 // import bookList from "./bookList.json" with { type: "json" };
 import testList from "./test.json" with { type: "json" };
 
