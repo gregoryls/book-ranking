@@ -27,5 +27,3 @@ export default function isbn10ToIsbn13(isbn10) {
 
   return newIsbn13;
 }
-
-console.log(isbn10ToIsbn13("1234567891"));

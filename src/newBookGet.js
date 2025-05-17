@@ -32,9 +32,11 @@ const main = async () => {
       // use evaluate to only query the page once instead of multiple $eval calls
       const newBook = await page.evaluate(() => {
         // goodreads structured data
-        const scrapeJSON = JSON.parse(
-          document.querySelector('script[type="application/ld+json"]'),
+        const scriptTag = document.querySelector(
+          'script[type="application/ld+json"]',
         );
+        const scrapeJSON = scriptTag ? JSON.parse(scriptTag.textContent) : {};
+
         //convert to array from nodelist
         const authors = Array.from(
           document.querySelectorAll(
@@ -97,7 +99,7 @@ const main = async () => {
 
       // bookList.push(newBook);
       testList.push(newBook);
-      writeFileSync("./test.json", JSON.stringify(bookList, null, 2));
+      writeFileSync("./test.json", JSON.stringify(testList, null, 2));
       // If successful, break out of the loop
       break;
     } catch (error) {
