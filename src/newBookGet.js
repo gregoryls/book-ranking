@@ -14,7 +14,7 @@ function normalizeISBN(isbn) {
 const main = async () => {
   let browser;
 
-  browser = await puppeteer.launch();
+  browser = await puppeteer.launch({ headless: false, slowMo: 100 });
   let retries = 0;
 
   // consider const page
@@ -29,6 +29,10 @@ const main = async () => {
       await page.goto(url);
       await page.waitForNetworkIdle();
       await page.waitForSelector('script[type="application/ld+json"]');
+
+      // testing
+
+      // testing
 
       // use evaluate to only query the page once instead of multiple $eval calls
       const newBook = await page.evaluate(() => {
