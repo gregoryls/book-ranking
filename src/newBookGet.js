@@ -97,6 +97,7 @@ const main = async () => {
               started: "",
               finished: "",
               format: "",
+              rating: "",
               review: "",
             },
           ],
