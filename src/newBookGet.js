@@ -27,10 +27,13 @@ const main = async () => {
       const url = "https://www.goodreads.com/book/show/" + bookID;
       page = await browser.newPage();
       await page.goto(url);
-      await page.waitForNetworkIdle();
-      await page.waitForSelector('script[type="application/ld+json"]');
+      await page.content();
+      // await page.waitForNetworkIdle();
+      // await page.waitForSelector('script[type="application/ld+json"]');
 
       // testing
+      // const html = await page.content();
+      // fs.writeFileSync("debug-page.html", html);
 
       // testing
 

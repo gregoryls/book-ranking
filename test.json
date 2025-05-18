@@ -3,13 +3,20 @@
     "test": "object"
   },
   {
-    "Title": "",
-    "Author": "",
+    "Title": "The 100-Year-Old Man Who Climbed Out the Window and Disappeared",
+    "Author": "Jonas Jonasson",
     "Additional Authors": "",
     "ISBN13": "",
-    "Average Rating": "",
-    "Original Publication Year": "",
-    "genreTags": [],
+    "Average Rating": "3.82",
+    "Original Publication Year": "2009",
+    "genreTags": [
+      "Fiction",
+      "Book Club",
+      "Contemporary",
+      "Historical Fiction",
+      "Humor",
+      "Adventure"
+    ],
     "readingData": [
       {
         "started": "",
