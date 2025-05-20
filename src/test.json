@@ -1,1 +1,55 @@
-[{ "test": "object" }]
+[
+  {
+    "test": "object"
+  },
+  {
+    "Title": "The Paragon Hotel",
+    "Author": "Lyndsay Faye",
+    "Additional Authors": "",
+    "ISBN13": "9780735210752",
+    "Average Rating": "3.74",
+    "Original Publication Year": "2019",
+    "genreTags": [
+      "Historical Fiction",
+      "Mystery",
+      "Fiction",
+      "Historical",
+      "Book Club",
+      "Thriller"
+    ],
+    "readingData": [
+      {
+        "started": "",
+        "finished": "",
+        "format": "",
+        "rating": "",
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Title": "The Paragon Hotel",
+    "Author": "Lyndsay Faye",
+    "Additional Authors": "",
+    "ISBN13": "9780735210752",
+    "Average Rating": "3.74",
+    "Original Publication Year": "2019",
+    "genreTags": [
+      "Historical Fiction",
+      "Mystery",
+      "Fiction",
+      "Historical",
+      "Book Club",
+      "Thriller"
+    ],
+    "readingData": [
+      {
+        "started": "",
+        "finished": "",
+        "format": "",
+        "rating": "",
+        "review": ""
+      }
+    ]
+  }
+]

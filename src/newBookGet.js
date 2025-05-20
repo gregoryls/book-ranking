@@ -5,6 +5,7 @@ import isbn10ToIsbn13 from "./isbnConversion.js";
 import testList from "./test.json" with { type: "json" };
 
 const maxRetries = 3;
+// todo duplicate entries check
 
 function normalizeISBN(isbn) {
   if (isbn === "") return "";
@@ -20,7 +21,7 @@ const main = async () => {
   // consider const page
   let page;
 
-  const bookID = 36578942;
+  const bookID = 37970853;
 
   while (retries < maxRetries) {
     try {
@@ -109,7 +110,7 @@ const main = async () => {
 
       // bookList.push(newBook);
       testList.push(newBook);
-      writeFileSync("./test.json", JSON.stringify(testList, null, 2));
+      writeFileSync("./src/test.json", JSON.stringify(testList, null, 2));
       // If successful, break out of the loop
       break;
     } catch (error) {
