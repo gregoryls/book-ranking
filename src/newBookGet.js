@@ -93,6 +93,7 @@ const main = async () => {
           "Original Publication Year": yearMatch ? yearMatch[0] : "",
 
           genreTags: genreText || "",
+          exactRanking: "",
           readingData: [
             {
               started: "",
