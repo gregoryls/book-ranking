@@ -9,6 +9,6 @@ bookList.forEach((book) => {
       book.genreTags = book.genreTags.splice(i, 1);
     }
   }
-
-  writeFileSync("src/testRemoval.json", JSON.stringify(bookList, null, 2));
 });
+
+writeFileSync("src/testRemoval.json", JSON.stringify(bookList, null, 2));
