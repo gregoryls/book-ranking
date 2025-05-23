@@ -191,7 +191,12 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Fitness", "Health", "Nonfiction", "Sports"]
+    "genreTags": [
+      "Fitness",
+      "Health",
+      "Nonfiction",
+      "Sports"
+    ]
   },
   {
     "Book Id": 25713878,
@@ -218,7 +223,12 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Fitness", "Health", "Nonfiction", "Sports"]
+    "genreTags": [
+      "Fitness",
+      "Health",
+      "Nonfiction",
+      "Sports"
+    ]
   },
   {
     "Book Id": 59145,
@@ -321,7 +331,6 @@
       "Nature",
       "Biology",
       "Environment",
-      "Audiobook",
       "Ecology"
     ]
   },
@@ -390,7 +399,6 @@
       "Fiction",
       "Gothic",
       "Mystery",
-      "Audiobook",
       "Thriller",
       "Classics"
     ]
@@ -531,8 +539,7 @@
       "Literary Fiction",
       "Speculative Fiction",
       "Fantasy",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -775,7 +782,6 @@
       "Science",
       "Humor",
       "Medical",
-      "Audiobook",
       "Medicine",
       "Death"
     ]
@@ -986,8 +992,7 @@
       "Contemporary",
       "Japanese Literature",
       "Books About Books",
-      "Romance",
-      "Audiobook"
+      "Romance"
     ]
   },
   {
@@ -1020,7 +1025,6 @@
       "Fiction",
       "Magical Realism",
       "Horror",
-      "Audiobook",
       "Young Adult",
       "Adult"
     ]
@@ -1054,7 +1058,6 @@
       "Science Fiction",
       "Fiction",
       "Thriller",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Mystery",
       "Space"
@@ -1089,7 +1092,6 @@
       "Science Fiction",
       "Fiction",
       "Space",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Speculative Fiction",
       "Hard Science Fiction"
@@ -1371,7 +1373,6 @@
       "Space Opera",
       "Science Fiction Fantasy",
       "Space",
-      "Audiobook",
       "Speculative Fiction"
     ]
   },
@@ -1406,7 +1407,6 @@
       "Space Opera",
       "Science Fiction Fantasy",
       "Space",
-      "Audiobook",
       "Fantasy"
     ]
   },
@@ -1641,7 +1641,6 @@
       "Russia",
       "Science Fiction",
       "Adult",
-      "Audiobook",
       "Contemporary"
     ]
   },
@@ -1675,7 +1674,6 @@
       "Young Adult",
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Adventure",
       "Space"
     ]
@@ -2375,7 +2373,6 @@
       "History",
       "Adventure",
       "Biography",
-      "Audiobook",
       "Travel",
       "Survival"
     ]
@@ -2446,7 +2443,6 @@
       "Biography",
       "Historical",
       "Survival",
-      "Audiobook",
       "American History"
     ]
   },
@@ -2480,7 +2476,6 @@
       "Fiction",
       "Science Fiction",
       "Thriller",
-      "Audiobook",
       "Mystery",
       "Adult"
     ]
@@ -2516,8 +2511,7 @@
       "Fiction",
       "Mystery",
       "Paranormal",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -2545,7 +2539,11 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Star Wars", "Science Fiction", "Fiction"]
+    "genreTags": [
+      "Star Wars",
+      "Science Fiction",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 58416952,
@@ -2648,8 +2646,7 @@
       "Fiction",
       "Fantasy",
       "Space Opera",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -2716,7 +2713,6 @@
       "Horror",
       "Novella",
       "Fiction",
-      "Audiobook",
       "Thriller",
       "Adult",
       "Short Stories"
@@ -2753,8 +2749,7 @@
       "Fiction",
       "Mystery",
       "Paranormal",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -2787,7 +2782,6 @@
       "Fiction",
       "Crime",
       "Mystery Thriller",
-      "Audiobook",
       "Thriller",
       "Books About Books"
     ]
@@ -3305,8 +3299,7 @@
       "Nature",
       "Environment",
       "History",
-      "Science Nature",
-      "Audiobook"
+      "Science Nature"
     ]
   },
   {
@@ -3479,7 +3472,6 @@
       "Fiction",
       "Fantasy",
       "Humor",
-      "Audiobook",
       "Contemporary",
       "Adult"
     ]
@@ -3620,7 +3612,6 @@
       "Cozy Mystery",
       "LGBT",
       "Romance",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -3690,8 +3681,7 @@
       "Adult",
       "Magic",
       "Historical Fiction",
-      "High Fantasy",
-      "Audiobook"
+      "High Fantasy"
     ]
   },
   {
@@ -3794,7 +3784,6 @@
       "Mystery",
       "Mystery Thriller",
       "Fiction",
-      "Audiobook",
       "Suspense",
       "Adult"
     ]
@@ -3830,7 +3819,6 @@
       "History",
       "Dinosaurs",
       "Nature",
-      "Audiobook",
       "Animals"
     ]
   },
@@ -3894,7 +3882,11 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Manga", "Fantasy", "Humor"]
+    "genreTags": [
+      "Manga",
+      "Fantasy",
+      "Humor"
+    ]
   },
   {
     "Book Id": 2887211,
@@ -4064,7 +4056,6 @@
       "Science Fiction",
       "Fiction",
       "Novella",
-      "Audiobook",
       "Adult",
       "Space",
       "Science Fiction Fantasy"
@@ -4192,7 +4183,13 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Mystery", "Cozy Mystery", "Fiction", "Halloween", "Adult"]
+    "genreTags": [
+      "Mystery",
+      "Cozy Mystery",
+      "Fiction",
+      "Halloween",
+      "Adult"
+    ]
   },
   {
     "Book Id": 58097728,
@@ -4219,7 +4216,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Science Fiction Fantasy", "Fantasy"]
+    "genreTags": [
+      "Science Fiction",
+      "Science Fiction Fantasy",
+      "Fantasy"
+    ]
   },
   {
     "Book Id": 872586,
@@ -4917,8 +4918,7 @@
       "Fiction",
       "Historical Fiction",
       "Science Fiction",
-      "Historical",
-      "Audiobook"
+      "Historical"
     ]
   },
   {
@@ -5021,7 +5021,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Military Fiction"
     ]
@@ -5092,7 +5091,6 @@
       "Fiction",
       "Mystery",
       "LGBT",
-      "Audiobook",
       "Novella"
     ]
   },
@@ -5267,7 +5265,6 @@
       "Fantasy",
       "Speculative Fiction",
       "LGBT",
-      "Audiobook",
       "Queer"
     ]
   },
@@ -5302,7 +5299,6 @@
       "Historical",
       "British Literature",
       "Book Club",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -5617,8 +5613,7 @@
       "Fiction",
       "Adventure",
       "Young Adult",
-      "Action",
-      "Audiobook"
+      "Action"
     ]
   },
   {
@@ -5791,7 +5786,6 @@
       "Romance",
       "Dragons",
       "Fiction",
-      "Audiobook",
       "Fantasy Romance",
       "New Adult"
     ]
@@ -5862,7 +5856,6 @@
       "Physics",
       "Astronomy",
       "Space",
-      "Audiobook",
       "Essays"
     ]
   },
@@ -5996,7 +5989,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Fiction", "Historical Fiction"]
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Historical Fiction"
+    ]
   },
   {
     "Book Id": 51086522,
@@ -6204,8 +6201,7 @@
       "American History",
       "Historical",
       "American Revolution",
-      "War",
-      "Audiobook"
+      "War"
     ]
   },
   {
@@ -6344,7 +6340,6 @@
       "Fiction",
       "Space",
       "Adult",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -6373,7 +6368,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Science Fiction", "Unfinished"]
+    "genreTags": [
+      "Fantasy",
+      "Science Fiction",
+      "Unfinished"
+    ]
   },
   {
     "Book Id": 22822858,
@@ -6532,7 +6531,13 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Light Novel", "Manga", "Fiction", "Adventure"]
+    "genreTags": [
+      "Fantasy",
+      "Light Novel",
+      "Manga",
+      "Fiction",
+      "Adventure"
+    ]
   },
   {
     "Book Id": 173338910,
@@ -6562,7 +6567,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Epic Fantasy",
       "High Fantasy",
       "Magic",
@@ -6629,7 +6633,12 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Light Novel", "Manga", "Fiction"]
+    "genreTags": [
+      "Fantasy",
+      "Light Novel",
+      "Manga",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 58210933,
@@ -6662,7 +6671,6 @@
       "Literary Fiction",
       "Historical",
       "Mystery",
-      "Audiobook",
       "Novels"
     ]
   },
@@ -6691,7 +6699,11 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Light Novel", "Fiction"]
+    "genreTags": [
+      "Fantasy",
+      "Light Novel",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 40672036,
@@ -6724,8 +6736,7 @@
       "Productivity",
       "Psychology",
       "Personal Development",
-      "Technology",
-      "Audiobook"
+      "Technology"
     ]
   },
   {
@@ -6759,8 +6770,7 @@
       "LGBT",
       "Adult",
       "Fiction",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -6827,7 +6837,6 @@
       "Science Fiction",
       "Fiction",
       "Historical Fiction",
-      "Audiobook",
       "Adult",
       "Aliens",
       "Historical"
@@ -6863,7 +6872,6 @@
       "Historical Fiction",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Thriller",
       "Speculative Fiction"
     ]
@@ -6960,7 +6968,13 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Light Novel", "Fiction", "Comics", "Action"]
+    "genreTags": [
+      "Fantasy",
+      "Light Novel",
+      "Fiction",
+      "Comics",
+      "Action"
+    ]
   },
   {
     "Book Id": 41446530,
@@ -7168,7 +7182,6 @@
       "Fiction",
       "Adult",
       "Magic",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -7202,7 +7215,6 @@
       "Fiction",
       "Space Opera",
       "Mystery",
-      "Audiobook",
       "Crime",
       "Hard Science Fiction"
     ]
@@ -7238,8 +7250,7 @@
       "Thriller",
       "Mystery Thriller",
       "Contemporary",
-      "Suspense",
-      "Audiobook"
+      "Suspense"
     ]
   },
   {
@@ -7378,7 +7389,6 @@
       "Dystopia",
       "Magical Realism",
       "Fantasy",
-      "Audiobook",
       "Literary Fiction"
     ]
   },
@@ -7413,8 +7423,7 @@
       "Mystery",
       "Thriller",
       "Fantasy",
-      "Mystery Thriller",
-      "Audiobook"
+      "Mystery Thriller"
     ]
   },
   {
@@ -7829,7 +7838,6 @@
     "Owned Copies": 0,
     "genreTags": [
       "Fiction",
-      "Audiobook",
       "Contemporary",
       "Mystery",
       "Magical Realism",
@@ -7902,7 +7910,6 @@
       "Fiction",
       "Mystery Thriller",
       "Thriller",
-      "Audiobook",
       "Crime",
       "Adult"
     ]
@@ -8077,7 +8084,6 @@
       "Urban Fantasy",
       "Fiction",
       "Adult",
-      "Audiobook",
       "Crime",
       "LGBT"
     ]
@@ -8113,7 +8119,6 @@
       "Fiction",
       "Adult",
       "Science Fiction",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -8323,7 +8328,6 @@
       "Young Adult",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Space Opera"
     ]
   },
@@ -8357,7 +8361,6 @@
       "Science Fiction",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Space Opera",
       "Adult"
     ]
@@ -8813,7 +8816,6 @@
       "Dystopia",
       "Horror",
       "Classics",
-      "Audiobook",
       "Thriller"
     ]
   },
@@ -8848,7 +8850,6 @@
       "Fiction",
       "Aliens",
       "Thriller",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -8986,7 +8987,6 @@
       "Nonfiction",
       "History",
       "Books About Books",
-      "Audiobook",
       "True Crime",
       "Adult",
       "Historical"
@@ -9195,7 +9195,6 @@
     "genreTags": [
       "Fiction",
       "Science Fiction",
-      "Audiobook",
       "Fantasy",
       "Dystopia",
       "Contemporary",
@@ -9231,7 +9230,6 @@
       "Horror",
       "Thriller",
       "Fiction",
-      "Audiobook",
       "Contemporary",
       "Dystopia",
       "Mystery Thriller"
@@ -9338,7 +9336,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -9408,8 +9405,7 @@
       "Short Stories",
       "Romance",
       "American",
-      "Literature",
-      "Audiobook"
+      "Literature"
     ]
   },
   {
@@ -9513,7 +9509,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -9548,7 +9543,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -9583,7 +9577,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -9618,8 +9611,7 @@
       "Dystopia",
       "Fantasy",
       "Thriller",
-      "Mystery",
-      "Audiobook"
+      "Mystery"
     ]
   },
   {
@@ -9650,7 +9642,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Fantasy",
       "Science Fiction Fantasy",
       "Space Opera",
@@ -9721,7 +9712,6 @@
       "Science Fiction",
       "Fiction",
       "Thriller",
-      "Audiobook",
       "Mystery",
       "Mystery Thriller",
       "Dystopia"
@@ -9821,7 +9811,10 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Fantasy"]
+    "genreTags": [
+      "Science Fiction",
+      "Fantasy"
+    ]
   },
   {
     "Book Id": 58586407,
@@ -10099,7 +10092,6 @@
       "Dystopia",
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Romance"
     ]
   },
@@ -10134,7 +10126,6 @@
       "Fiction",
       "Thriller",
       "Dystopia",
-      "Audiobook",
       "Fantasy"
     ]
   },
@@ -10238,7 +10229,6 @@
       "Fiction",
       "High Fantasy",
       "Epic Fantasy",
-      "Audiobook",
       "Young Adult",
       "Science Fiction Fantasy"
     ]
@@ -10378,7 +10368,6 @@
       "Fiction",
       "Space Opera",
       "Mystery",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy"
     ]
@@ -10449,7 +10438,6 @@
       "Horror",
       "Science Fiction",
       "Adventure",
-      "Audiobook",
       "Humor"
     ]
   },
@@ -10519,8 +10507,7 @@
       "Fantasy",
       "Novella",
       "Queer",
-      "LGBT",
-      "Audiobook"
+      "LGBT"
     ]
   },
   {
@@ -10554,8 +10541,7 @@
       "Religion",
       "Aliens",
       "Canada",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -11042,8 +11028,7 @@
       "Science",
       "Health",
       "Fitness",
-      "Psychology",
-      "Audiobook"
+      "Psychology"
     ]
   },
   {
@@ -11419,8 +11404,7 @@
       "Historical",
       "Adventure",
       "Classics",
-      "War",
-      "Audiobook"
+      "War"
     ]
   },
   {
@@ -11872,7 +11856,6 @@
       "Fantasy",
       "Short Stories",
       "Anthologies",
-      "Audiobook",
       "Science Fiction",
       "Fiction"
     ]
@@ -11942,7 +11925,6 @@
       "Fiction",
       "Crime",
       "Mystery Thriller",
-      "Audiobook",
       "Thriller",
       "Contemporary"
     ]
@@ -11972,7 +11954,10 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Fiction"]
+    "genreTags": [
+      "Science Fiction",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 17910078,
@@ -12005,8 +11990,7 @@
       "Fiction",
       "Historical Fiction",
       "Adventure",
-      "Historical",
-      "Audiobook"
+      "Historical"
     ]
   },
   {
@@ -12635,7 +12619,6 @@
       "History",
       "Business",
       "Biography Memoir",
-      "Audiobook",
       "Entrepreneurship"
     ]
   },
@@ -12880,8 +12863,7 @@
       "Fantasy",
       "Space",
       "Fiction",
-      "LGBT",
-      "Audiobook"
+      "LGBT"
     ]
   },
   {
@@ -12915,7 +12897,6 @@
       "Fantasy",
       "Fiction",
       "Young Adult",
-      "Audiobook",
       "Space"
     ]
   },
@@ -12949,7 +12930,6 @@
       "Magic",
       "Slice Of Life",
       "Unfinished",
-      "Audiobook",
       "Web",
       "Adventure"
     ]
@@ -12985,8 +12965,7 @@
       "Adventure",
       "Pirates",
       "Fiction",
-      "Historical",
-      "Audiobook"
+      "Historical"
     ]
   },
   {
@@ -13049,7 +13028,10 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Fiction"]
+    "genreTags": [
+      "Fantasy",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 25100,
@@ -13117,7 +13099,6 @@
       "Ancient History",
       "Historical",
       "Italy",
-      "Audiobook",
       "Classics"
     ]
   },
@@ -13362,8 +13343,7 @@
       "Action",
       "Espionage",
       "Mystery",
-      "Mystery Thriller",
-      "Audiobook"
+      "Mystery Thriller"
     ]
   },
   {
@@ -13563,7 +13543,6 @@
       "Fiction",
       "High Fantasy",
       "Pirates",
-      "Audiobook",
       "Magic",
       "Epic Fantasy"
     ]
@@ -13633,7 +13612,6 @@
       "Thriller",
       "Fiction",
       "Mystery Thriller",
-      "Audiobook",
       "Suspense",
       "Adult"
     ]
@@ -13843,7 +13821,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Novella",
       "Adult"
     ]
@@ -14191,7 +14168,6 @@
     "genreTags": [
       "Fiction",
       "Contemporary",
-      "Audiobook",
       "Mental Health",
       "Adult",
       "Romance",
@@ -14264,7 +14240,6 @@
       "China",
       "Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Aliens"
     ]
   },
@@ -14299,7 +14274,6 @@
       "Novella",
       "High Fantasy",
       "Short Stories",
-      "Audiobook",
       "Epic Fantasy"
     ]
   },
@@ -14333,7 +14307,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Adult",
       "Magic"
     ]
@@ -14403,7 +14376,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Adult",
       "Science Fiction Fantasy"
     ]
@@ -14439,7 +14411,6 @@
       "High Fantasy",
       "Epic Fantasy",
       "Adult",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -14544,7 +14515,6 @@
       "High Fantasy",
       "Epic Fantasy",
       "Adult",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -14579,8 +14549,7 @@
       "Spirituality",
       "Philosophy",
       "Psychology",
-      "Personal Development",
-      "Audiobook"
+      "Personal Development"
     ]
   },
   {
@@ -14859,7 +14828,6 @@
       "Spirituality",
       "Religion",
       "Self Help",
-      "Audiobook",
       "Taoism"
     ]
   },
@@ -15034,8 +15002,7 @@
       "Horror",
       "Historical Fiction",
       "Mystery",
-      "Thriller",
-      "Audiobook"
+      "Thriller"
     ]
   },
   {
@@ -15209,7 +15176,6 @@
       "Thriller",
       "Mystery",
       "Adult",
-      "Audiobook",
       "Mystery Thriller"
     ]
   },
@@ -15242,7 +15208,6 @@
       "Fantasy",
       "Mystery",
       "Fiction",
-      "Audiobook",
       "Horror",
       "Crime",
       "Thriller"
@@ -15276,7 +15241,6 @@
     "genreTags": [
       "Nonfiction",
       "History",
-      "Audiobook",
       "Adventure",
       "Historical",
       "True Crime",
@@ -15384,8 +15348,7 @@
       "Fiction",
       "Fantasy",
       "Historical",
-      "Paranormal",
-      "Audiobook"
+      "Paranormal"
     ]
   },
   {
@@ -15418,7 +15381,6 @@
       "Fiction",
       "Thriller",
       "Fantasy",
-      "Audiobook",
       "Paranormal",
       "Adult"
     ]
@@ -15453,7 +15415,6 @@
       "Fiction",
       "Space Opera",
       "Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Space"
     ]
@@ -15523,7 +15484,6 @@
       "Science Fiction",
       "Fiction",
       "Adult",
-      "Audiobook",
       "Adventure",
       "Science Fiction Fantasy"
     ]
@@ -15629,8 +15589,7 @@
       "Horror",
       "Science Fiction",
       "Adventure",
-      "Westerns",
-      "Audiobook"
+      "Westerns"
     ]
   },
   {
@@ -15664,8 +15623,7 @@
       "Horror",
       "Science Fiction",
       "Adventure",
-      "Westerns",
-      "Audiobook"
+      "Westerns"
     ]
   },
   {
@@ -15699,7 +15657,6 @@
       "Horror",
       "Science Fiction",
       "Westerns",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -15734,8 +15691,7 @@
       "Horror",
       "Science Fiction",
       "Westerns",
-      "Adventure",
-      "Audiobook"
+      "Adventure"
     ]
   },
   {
@@ -15769,7 +15725,6 @@
       "Horror",
       "Science Fiction",
       "Westerns",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -15839,8 +15794,7 @@
       "Adult",
       "High Fantasy",
       "Epic Fantasy",
-      "Adventure",
-      "Audiobook"
+      "Adventure"
     ]
   },
   {
@@ -15979,8 +15933,7 @@
       "Romance",
       "Young Adult",
       "Adventure",
-      "High Fantasy",
-      "Audiobook"
+      "High Fantasy"
     ]
   },
   {
@@ -16078,7 +16031,12 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Space Opera", "Young Adult", "Fiction"]
+    "genreTags": [
+      "Science Fiction",
+      "Space Opera",
+      "Young Adult",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 58510873,
@@ -16105,7 +16063,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Young Adult", "Magic"]
+    "genreTags": [
+      "Fantasy",
+      "Young Adult",
+      "Magic"
+    ]
   },
   {
     "Book Id": 61324650,
@@ -16132,7 +16094,12 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Fiction", "High Fantasy", "Magic"]
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "High Fantasy",
+      "Magic"
+    ]
   },
   {
     "Book Id": 60969058,
@@ -16235,7 +16202,6 @@
       "Fantasy",
       "Science Fiction",
       "Literary Fiction",
-      "Audiobook",
       "Historical"
     ]
   },
@@ -16299,7 +16265,11 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Music", "Nonfiction", "History"]
+    "genreTags": [
+      "Music",
+      "Nonfiction",
+      "History"
+    ]
   },
   {
     "Book Id": 60384067,
@@ -16507,7 +16477,6 @@
       "Adventure",
       "Memoir",
       "Biography Memoir",
-      "Audiobook",
       "History"
     ]
   },
@@ -16641,7 +16610,9 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction"]
+    "genreTags": [
+      "Science Fiction"
+    ]
   },
   {
     "Book Id": 60040191,
@@ -16744,7 +16715,6 @@
       "Fantasy",
       "Books About Books",
       "Contemporary",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -16777,7 +16747,6 @@
       "Fantasy",
       "Fiction",
       "Horror",
-      "Audiobook",
       "Thriller",
       "Adventure",
       "Adult"
@@ -16848,7 +16817,6 @@
       "Fantasy",
       "Books About Books",
       "Short Stories",
-      "Audiobook",
       "Mystery",
       "Historical Fiction"
     ]
@@ -16989,7 +16957,6 @@
       "Fiction",
       "Fantasy",
       "Science Fiction",
-      "Audiobook",
       "Romance"
     ]
   },
@@ -17058,7 +17025,6 @@
       "Romance",
       "Fiction",
       "Witches",
-      "Audiobook",
       "Contemporary",
       "Adult"
     ]
@@ -17093,7 +17059,6 @@
       "Mystery",
       "Historical Fiction",
       "Fiction",
-      "Audiobook",
       "Magic",
       "Historical"
     ]
@@ -17128,7 +17093,6 @@
       "Fiction",
       "Crime",
       "Mystery Thriller",
-      "Audiobook",
       "Thriller",
       "Detective"
     ]
@@ -17164,7 +17128,6 @@
       "High Fantasy",
       "Epic Fantasy",
       "Adult",
-      "Audiobook",
       "Steampunk"
     ]
   },
@@ -17234,8 +17197,7 @@
       "Memoir",
       "Humor",
       "Nature",
-      "Adventure",
-      "Audiobook"
+      "Adventure"
     ]
   },
   {
@@ -17338,7 +17300,6 @@
       "Mystery",
       "Contemporary",
       "Fiction",
-      "Audiobook",
       "Thriller",
       "Mystery Thriller"
     ]
@@ -17407,7 +17368,6 @@
       "Fantasy",
       "Fiction",
       "Epic Fantasy",
-      "Audiobook",
       "Dark Fantasy",
       "Adult",
       "High Fantasy"
@@ -17441,7 +17401,6 @@
     "genreTags": [
       "Fiction",
       "Contemporary",
-      "Audiobook",
       "Humor",
       "Adult",
       "Book Club",
@@ -17549,7 +17508,6 @@
       "Travel",
       "Biography",
       "Adventure",
-      "Audiobook",
       "Biography Memoir"
     ]
   },
@@ -17654,8 +17612,7 @@
       "Historical",
       "Japan",
       "Asia",
-      "Literary Fiction",
-      "Audiobook"
+      "Literary Fiction"
     ]
   },
   {
@@ -17829,8 +17786,7 @@
       "Mythology",
       "Young Adult",
       "Fiction",
-      "Retellings",
-      "Audiobook"
+      "Retellings"
     ]
   },
   {
@@ -17864,7 +17820,6 @@
       "Space Opera",
       "Space",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Hard Science Fiction"
     ]
   },
@@ -18066,7 +18021,6 @@
       "Fantasy",
       "Science Fiction",
       "Teen",
-      "Audiobook",
       "Post Apocalyptic"
     ]
   },
@@ -18101,7 +18055,6 @@
       "Magic",
       "Science Fiction",
       "Post Apocalyptic",
-      "Audiobook",
       "Dystopia"
     ]
   },
@@ -18165,7 +18118,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Time Travel", "Alternate History"]
+    "genreTags": [
+      "Science Fiction",
+      "Time Travel",
+      "Alternate History"
+    ]
   },
   {
     "Book Id": 57913,
@@ -18338,8 +18295,7 @@
       "Fiction",
       "New Adult",
       "Fae",
-      "Fantasy Romance",
-      "Audiobook"
+      "Fantasy Romance"
     ]
   },
   {
@@ -18407,8 +18363,7 @@
       "Science",
       "History",
       "Politics",
-      "Economics",
-      "Audiobook"
+      "Economics"
     ]
   },
   {
@@ -18547,8 +18502,7 @@
       "Fantasy",
       "Science Fiction Fantasy",
       "Aliens",
-      "Space Opera",
-      "Audiobook"
+      "Space Opera"
     ]
   },
   {
@@ -18581,7 +18535,6 @@
       "Fiction",
       "Time Travel",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Fantasy",
       "Dystopia"
     ]
@@ -18687,8 +18640,7 @@
       "History",
       "Art",
       "Science",
-      "Biography Memoir",
-      "Audiobook"
+      "Biography Memoir"
     ]
   },
   {
@@ -18826,7 +18778,6 @@
       "Humor",
       "Fantasy",
       "Space Opera",
-      "Audiobook",
       "Space"
     ]
   },
@@ -18965,8 +18916,7 @@
       "True Crime",
       "Crime",
       "Historical",
-      "Mystery",
-      "Audiobook"
+      "Mystery"
     ]
   },
   {
@@ -18999,7 +18949,6 @@
       "Nonfiction",
       "History",
       "Crime",
-      "Audiobook",
       "Biography",
       "Mystery"
     ]
@@ -19035,7 +18984,6 @@
       "Fiction",
       "Adult",
       "Magic",
-      "Audiobook",
       "Witches"
     ]
   },
@@ -19201,7 +19149,6 @@
       "Fiction",
       "Science Fiction",
       "Thriller",
-      "Audiobook",
       "Speculative Fiction",
       "Urban Fantasy"
     ]
@@ -19307,7 +19254,6 @@
       "Biography",
       "History",
       "Biology",
-      "Audiobook",
       "Biography Memoir"
     ]
   },
@@ -19410,7 +19356,6 @@
       "Science Fiction",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "War",
       "Cyberpunk",
       "Dystopia"
@@ -19517,7 +19462,6 @@
       "Fiction",
       "Historical",
       "Adult",
-      "Audiobook",
       "Historical Fantasy"
     ]
   },
@@ -19692,7 +19636,6 @@
       "Thriller",
       "Cyberpunk",
       "Mystery",
-      "Audiobook",
       "Technology"
     ]
   },
@@ -19853,7 +19796,10 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Fiction"]
+    "genreTags": [
+      "Science Fiction",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 58885854,
@@ -19921,8 +19867,7 @@
       "Retellings",
       "Novella",
       "LGBT",
-      "Fairy Tales",
-      "Audiobook"
+      "Fairy Tales"
     ]
   },
   {
@@ -19954,7 +19899,6 @@
       "Fiction",
       "Fantasy",
       "Contemporary",
-      "Audiobook",
       "Magical Realism",
       "Science Fiction",
       "Adult"
@@ -19991,8 +19935,7 @@
       "Epic Fantasy",
       "Adult",
       "High Fantasy",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -20023,7 +19966,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "High Fantasy",
       "Epic Fantasy",
       "Magic",
@@ -20341,7 +20283,6 @@
       "Fantasy",
       "Contemporary",
       "Food",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -20375,7 +20316,6 @@
       "Nonfiction",
       "Politics",
       "History",
-      "Audiobook",
       "Biography Memoir",
       "Journalism"
     ]
@@ -20551,8 +20491,7 @@
       "Historical",
       "Fantasy",
       "Classics",
-      "Medieval",
-      "Audiobook"
+      "Medieval"
     ]
   },
   {
@@ -20619,7 +20558,6 @@
       "Nonfiction",
       "Productivity",
       "Self Help",
-      "Audiobook",
       "Personal Development",
       "Business",
       "Leadership"
@@ -20656,8 +20594,7 @@
       "Fiction",
       "LGBT",
       "Cozy Mystery",
-      "Queer",
-      "Audiobook"
+      "Queer"
     ]
   },
   {
@@ -20759,7 +20696,6 @@
       "Historical Fiction",
       "Fiction",
       "Historical",
-      "Audiobook",
       "Fantasy",
       "British Literature",
       "Medieval"
@@ -20796,7 +20732,6 @@
       "Science Fiction",
       "Novella",
       "LGBT",
-      "Audiobook",
       "Queer"
     ]
   },
@@ -20860,7 +20795,9 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Slice Of Life"]
+    "genreTags": [
+      "Slice Of Life"
+    ]
   },
   {
     "Book Id": 39713593,
@@ -20994,7 +20931,6 @@
     "Owned Copies": 0,
     "genreTags": [
       "Nonfiction",
-      "Audiobook",
       "Music",
       "Memoir",
       "Biography",
@@ -21207,7 +21143,6 @@
       "History",
       "Science",
       "Philosophy",
-      "Audiobook",
       "Anthropology",
       "Sociology"
     ]
@@ -21237,7 +21172,10 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Fiction"]
+    "genreTags": [
+      "Science Fiction",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 3392293,
@@ -21444,7 +21382,6 @@
       "Science Fiction",
       "Dystopia",
       "Post Apocalyptic",
-      "Audiobook",
       "Fantasy",
       "Adult"
     ]
@@ -21480,8 +21417,7 @@
       "Health",
       "Medicine",
       "Biology",
-      "Medical",
-      "Audiobook"
+      "Medical"
     ]
   },
   {
@@ -21577,8 +21513,7 @@
       "Space Opera",
       "Fantasy",
       "Aliens",
-      "Space",
-      "Audiobook"
+      "Space"
     ]
   },
   {
@@ -21647,7 +21582,6 @@
       "Fiction",
       "Superheroes",
       "Adult",
-      "Audiobook",
       "Contemporary"
     ]
   },
@@ -21681,7 +21615,6 @@
       "Adventure",
       "Memoir",
       "Travel",
-      "Audiobook",
       "Biography",
       "Autobiography"
     ]
@@ -21786,7 +21719,6 @@
       "Sports",
       "Fitness",
       "Health",
-      "Audiobook",
       "Science",
       "Self Help"
     ]
@@ -21857,7 +21789,6 @@
       "Fiction",
       "Time Travel",
       "Historical Fiction",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -22102,8 +22033,7 @@
       "Mystery",
       "Magical Realism",
       "Thriller",
-      "Mystery Thriller",
-      "Audiobook"
+      "Mystery Thriller"
     ]
   },
   {
@@ -22136,7 +22066,6 @@
       "Dystopia",
       "Science Fiction",
       "Feminism",
-      "Audiobook",
       "Classics",
       "Adult"
     ]
@@ -22172,7 +22101,6 @@
       "Fiction",
       "Time Travel",
       "Historical Fiction",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -22382,8 +22310,7 @@
       "Epic Fantasy",
       "High Fantasy",
       "Magic",
-      "Military Fiction",
-      "Audiobook"
+      "Military Fiction"
     ]
   },
   {
@@ -22627,8 +22554,7 @@
       "Magical Realism",
       "Romance",
       "Adult",
-      "LGBT",
-      "Audiobook"
+      "LGBT"
     ]
   },
   {
@@ -22662,8 +22588,7 @@
       "Adventure",
       "High Fantasy",
       "Adult",
-      "Epic Fantasy",
-      "Audiobook"
+      "Epic Fantasy"
     ]
   },
   {
@@ -22693,7 +22618,6 @@
     "Owned Copies": 0,
     "genreTags": [
       "Science Fiction",
-      "Audiobook",
       "Fiction",
       "Novella",
       "Mystery",
@@ -22766,7 +22690,6 @@
       "Young Adult",
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Novella",
       "Space"
     ]
@@ -23037,7 +22960,6 @@
       "Fantasy",
       "Fiction",
       "Short Stories",
-      "Audiobook",
       "High Fantasy",
       "Adult",
       "Magic"
@@ -23143,7 +23065,6 @@
       "Fantasy",
       "Fiction",
       "Novella",
-      "Audiobook",
       "Adult",
       "Africa"
     ]
@@ -23177,7 +23098,6 @@
       "Fantasy",
       "Magic",
       "Post Apocalyptic",
-      "Audiobook",
       "Action",
       "Epic",
       "Fiction"
@@ -23214,8 +23134,7 @@
       "Fantasy",
       "Novella",
       "Queer",
-      "LGBT",
-      "Audiobook"
+      "LGBT"
     ]
   },
   {
@@ -23247,7 +23166,6 @@
       "Horror",
       "Fiction",
       "Thriller",
-      "Audiobook",
       "Paranormal",
       "Mystery",
       "Adult"
@@ -23284,7 +23202,6 @@
       "Fiction",
       "Mystery",
       "Adult",
-      "Audiobook",
       "Fantasy"
     ]
   },
@@ -23488,7 +23405,13 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Manga", "Comics", "Fantasy", "Pirates", "Adventure"]
+    "genreTags": [
+      "Manga",
+      "Comics",
+      "Fantasy",
+      "Pirates",
+      "Adventure"
+    ]
   },
   {
     "Book Id": 16152113,
@@ -23556,7 +23479,6 @@
       "Fiction",
       "Mystery",
       "Fantasy",
-      "Audiobook",
       "Thriller"
     ]
   },
@@ -23591,7 +23513,6 @@
       "Novella",
       "Space Opera",
       "Short Stories",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -23695,7 +23616,6 @@
       "Crime",
       "Classics",
       "Detective",
-      "Audiobook",
       "Mystery Thriller"
     ]
   },
@@ -23799,8 +23719,7 @@
       "Space Opera",
       "Science Fiction Fantasy",
       "Space",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -23833,7 +23752,6 @@
       "Short Stories",
       "Fiction",
       "China",
-      "Audiobook",
       "Anthologies",
       "Science Fiction Fantasy"
     ]
@@ -23939,8 +23857,7 @@
       "Self Help",
       "Personal Development",
       "Productivity",
-      "Science",
-      "Audiobook"
+      "Science"
     ]
   },
   {
@@ -23974,7 +23891,6 @@
       "Epic Fantasy",
       "Adult",
       "High Fantasy",
-      "Audiobook",
       "Coming Of Age"
     ]
   },
@@ -24078,7 +23994,6 @@
       "Space Opera",
       "Fiction",
       "Young Adult",
-      "Audiobook",
       "Space",
       "Pirates"
     ]
@@ -24288,7 +24203,6 @@
       "Young Adult",
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Adventure",
       "Space"
     ]
@@ -24321,7 +24235,6 @@
     "genreTags": [
       "Fiction",
       "Historical Fiction",
-      "Audiobook",
       "Contemporary",
       "Chess",
       "Historical",
@@ -24419,7 +24332,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Fantasy",
       "Science Fiction Fantasy"
@@ -24455,7 +24367,6 @@
       "Fiction",
       "Short Stories",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Anthologies"
     ]
@@ -24555,7 +24466,12 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Queer", "LGBT", "High Fantasy"]
+    "genreTags": [
+      "Fantasy",
+      "Queer",
+      "LGBT",
+      "High Fantasy"
+    ]
   },
   {
     "Book Id": 8675300,
@@ -24623,7 +24539,6 @@
       "Fiction",
       "Crime",
       "Mystery Thriller",
-      "Audiobook",
       "Historical Fiction"
     ]
   },
@@ -24728,8 +24643,7 @@
       "Urban Fantasy",
       "Fiction",
       "Post Apocalyptic",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -24903,7 +24817,6 @@
       "Time Travel",
       "Fantasy",
       "Historical Fiction",
-      "Audiobook",
       "Literary Fiction"
     ]
   },
@@ -24938,7 +24851,6 @@
       "Dystopia",
       "Short Stories",
       "Fantasy",
-      "Audiobook",
       "Speculative Fiction"
     ]
   },
@@ -24973,8 +24885,7 @@
       "Adventure",
       "Magic",
       "Epic Fantasy",
-      "Dragons",
-      "Audiobook"
+      "Dragons"
     ]
   },
   {
@@ -25183,7 +25094,6 @@
       "Horror",
       "Fantasy",
       "Mystery",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -25218,8 +25128,7 @@
       "Horror",
       "Fantasy",
       "Mystery",
-      "Dystopia",
-      "Audiobook"
+      "Dystopia"
     ]
   },
   {
@@ -25250,7 +25159,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Space",
       "Fantasy",
       "Adult",
@@ -25288,8 +25196,7 @@
       "Thriller",
       "Mystery",
       "Fantasy",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -25323,8 +25230,7 @@
       "Mystery",
       "Fiction",
       "Paranormal",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -25358,8 +25264,7 @@
       "Fiction",
       "Science Fiction",
       "Adventure",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -25393,8 +25298,7 @@
       "Fiction",
       "Science Fiction",
       "Adventure",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -25428,7 +25332,6 @@
       "Fantasy",
       "Humor",
       "Adventure",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -25463,8 +25366,7 @@
       "Dystopia",
       "Science Fiction",
       "Thriller",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -25638,8 +25540,7 @@
       "Fiction",
       "Historical Fiction",
       "Historical",
-      "Literature",
-      "Audiobook"
+      "Literature"
     ]
   },
   {
@@ -25708,8 +25609,7 @@
       "Magic",
       "Time Travel",
       "Science Fiction",
-      "Urban Fantasy",
-      "Audiobook"
+      "Urban Fantasy"
     ]
   },
   {
@@ -25812,7 +25712,6 @@
       "Young Adult",
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Novella",
       "Space"
     ]
@@ -26022,7 +25921,6 @@
       "Young Adult",
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Adventure",
       "Space"
     ]
@@ -26058,7 +25956,6 @@
       "Fantasy",
       "Fiction",
       "Novella",
-      "Audiobook",
       "Short Stories"
     ]
   },
@@ -26268,8 +26165,7 @@
       "Fiction",
       "Magic",
       "Childrens",
-      "Adventure",
-      "Audiobook"
+      "Adventure"
     ]
   },
   {
@@ -26443,7 +26339,6 @@
       "Epic Fantasy",
       "Unfinished",
       "Action",
-      "Audiobook",
       "High Fantasy"
     ]
   },
@@ -26545,7 +26440,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Magic",
       "Epic Fantasy",
       "High Fantasy",
@@ -26583,7 +26477,6 @@
       "Horror",
       "Science Fiction",
       "Westerns",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -26612,7 +26505,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Fiction", "Fantasy"]
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Fantasy"
+    ]
   },
   {
     "Book Id": 20697413,
@@ -26643,7 +26540,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Fantasy",
       "Aliens",
       "Space"
@@ -26820,8 +26716,7 @@
       "Fiction",
       "Space Opera",
       "Military Fiction",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -26890,7 +26785,6 @@
       "Thriller",
       "Climate Change",
       "Speculative Fiction",
-      "Audiobook",
       "Dystopia"
     ]
   },
@@ -26995,7 +26889,6 @@
       "High Fantasy",
       "Epic Fantasy",
       "Adventure",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -27030,7 +26923,6 @@
       "Adventure",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Pirates"
     ]
   },
@@ -27097,7 +26989,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Science Fiction",
       "Role Playing Games",
       "Comedy",
@@ -27205,8 +27096,7 @@
       "Mystery",
       "Fiction",
       "Paranormal",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -27240,8 +27130,7 @@
       "Fiction",
       "Romance",
       "Magic",
-      "Young Adult Fantasy",
-      "Audiobook"
+      "Young Adult Fantasy"
     ]
   },
   {
@@ -27273,7 +27162,6 @@
       "Fantasy",
       "Fiction",
       "Magic",
-      "Audiobook",
       "Epic Fantasy",
       "High Fantasy",
       "Young Adult"
@@ -27307,7 +27195,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Magic",
       "Epic Fantasy",
       "High Fantasy",
@@ -27380,7 +27267,6 @@
       "Fiction",
       "Urban Fantasy",
       "Science Fiction",
-      "Audiobook",
       "Young Adult"
     ]
   },
@@ -27520,7 +27406,6 @@
       "Mystery",
       "Fiction",
       "Mystery Thriller",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -27589,7 +27474,6 @@
       "Fiction",
       "Thriller",
       "Mystery",
-      "Audiobook",
       "Mystery Thriller",
       "Adult"
     ]
@@ -27867,7 +27751,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Fantasy",
       "Dystopia",
       "Young Adult",
@@ -27905,8 +27788,7 @@
       "Fantasy",
       "Novella",
       "LGBT",
-      "Queer",
-      "Audiobook"
+      "Queer"
     ]
   },
   {
@@ -27937,7 +27819,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy",
       "Adult",
@@ -27975,7 +27856,6 @@
       "Fiction",
       "Magic",
       "Childrens",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -28358,8 +28238,7 @@
       "Science Fiction Fantasy",
       "Space Opera",
       "Fantasy",
-      "Aliens",
-      "Audiobook"
+      "Aliens"
     ]
   },
   {
@@ -28391,7 +28270,6 @@
       "Star Wars",
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Fantasy",
       "Space Opera",
       "Novels"
@@ -28463,7 +28341,6 @@
       "Magic",
       "Adventure",
       "Epic Fantasy",
-      "Audiobook",
       "High Fantasy"
     ]
   },
@@ -28498,8 +28375,7 @@
       "LGBT",
       "Adult",
       "Science Fiction",
-      "Queer",
-      "Audiobook"
+      "Queer"
     ]
   },
   {
@@ -28601,7 +28477,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Fantasy",
       "Science Fiction Fantasy",
       "Hard Science Fiction"
@@ -28776,7 +28651,6 @@
       "Fantasy",
       "Fiction",
       "Young Adult",
-      "Audiobook",
       "Unfinished",
       "Science Fiction Fantasy",
       "Epic Fantasy"
@@ -28847,7 +28721,6 @@
       "Fiction",
       "Magic",
       "Childrens",
-      "Audiobook",
       "Adventure",
       "Middle Grade"
     ]
@@ -28916,7 +28789,6 @@
       "Horror",
       "Fiction",
       "Thriller",
-      "Audiobook",
       "Mystery",
       "Adult",
       "Paranormal"
@@ -28982,7 +28854,10 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Young Adult"]
+    "genreTags": [
+      "Fantasy",
+      "Young Adult"
+    ]
   },
   {
     "Book Id": 56097208,
@@ -29254,7 +29129,9 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy"]
+    "genreTags": [
+      "Fantasy"
+    ]
   },
   {
     "Book Id": 53263726,
@@ -29316,7 +29193,12 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Fiction", "Epic", "Science Fiction Fantasy"]
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic",
+      "Science Fiction Fantasy"
+    ]
   },
   {
     "Book Id": 54310257,
@@ -29347,8 +29229,7 @@
       "Fantasy",
       "Magic",
       "Role Playing Games",
-      "Fiction",
-      "Audiobook"
+      "Fiction"
     ]
   },
   {
@@ -29730,7 +29611,6 @@
       "Science Fiction",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Space Opera",
       "Novels"
     ]
@@ -29801,7 +29681,6 @@
       "Military Fiction",
       "Space Opera",
       "Military Science Fiction",
-      "Audiobook",
       "War"
     ]
   },
@@ -29868,7 +29747,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "High Fantasy",
       "Magic",
       "Science Fiction Fantasy",
@@ -29941,7 +29819,6 @@
       "Dystopia",
       "Fantasy",
       "Thriller",
-      "Audiobook",
       "Speculative Fiction"
     ]
   },
@@ -29976,8 +29853,7 @@
       "Aliens",
       "Space",
       "Space Opera",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -30079,7 +29955,6 @@
       "Fantasy",
       "Fiction",
       "Young Adult",
-      "Audiobook",
       "Martial Arts",
       "Adventure",
       "China"
@@ -30148,7 +30023,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Magic",
       "High Fantasy",
       "Epic Fantasy",
@@ -30183,7 +30057,6 @@
     "genreTags": [
       "Fiction",
       "Historical Fiction",
-      "Audiobook",
       "Contemporary",
       "Chess",
       "Historical",
@@ -30219,7 +30092,6 @@
       "Fantasy",
       "Fiction",
       "Magic",
-      "Audiobook",
       "High Fantasy",
       "Epic Fantasy",
       "Young Adult"
@@ -30289,7 +30161,6 @@
       "Fantasy",
       "Fiction",
       "Magic",
-      "Audiobook",
       "Epic Fantasy",
       "High Fantasy",
       "Young Adult"
@@ -30324,7 +30195,6 @@
       "Fantasy",
       "Fiction",
       "Magic",
-      "Audiobook",
       "Epic Fantasy",
       "Young Adult",
       "High Fantasy"
@@ -30355,7 +30225,12 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Zombies", "Horror", "Science Fiction", "Space"]
+    "genreTags": [
+      "Zombies",
+      "Horror",
+      "Science Fiction",
+      "Space"
+    ]
   },
   {
     "Book Id": 28137887,
@@ -30388,7 +30263,6 @@
       "Fiction",
       "Magic",
       "Childrens",
-      "Audiobook",
       "Middle Grade"
     ]
   },
@@ -30557,7 +30431,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy", "Light Novel", "Fiction"]
+    "genreTags": [
+      "Fantasy",
+      "Light Novel",
+      "Fiction"
+    ]
   },
   {
     "Book Id": 442239,
@@ -30588,7 +30466,6 @@
       "History",
       "Nonfiction",
       "Pirates",
-      "Audiobook",
       "Historical",
       "Biography",
       "Adventure"
@@ -30730,7 +30607,6 @@
       "Post Apocalyptic",
       "Dystopia",
       "Robots",
-      "Audiobook",
       "Apocalyptic"
     ]
   },
@@ -30833,7 +30709,6 @@
       "Fantasy",
       "Fiction",
       "Magic",
-      "Audiobook",
       "Epic Fantasy",
       "Young Adult",
       "High Fantasy"
@@ -30868,7 +30743,6 @@
       "Fantasy",
       "Fiction",
       "Magic",
-      "Audiobook",
       "Young Adult",
       "Epic Fantasy",
       "High Fantasy"
@@ -30905,7 +30779,6 @@
       "Young Adult",
       "Magic",
       "High Fantasy",
-      "Audiobook",
       "Epic Fantasy"
     ]
   },
@@ -31008,7 +30881,6 @@
       "Nonfiction",
       "Environment",
       "Climate Change",
-      "Audiobook",
       "Buddhism",
       "Science",
       "Politics"
@@ -31080,8 +30952,7 @@
       "Fiction",
       "Fantasy",
       "Military Fiction",
-      "War",
-      "Audiobook"
+      "War"
     ]
   },
   {
@@ -31150,8 +31021,7 @@
       "Fiction",
       "Science Fiction",
       "Humor",
-      "Historical Fiction",
-      "Audiobook"
+      "Historical Fiction"
     ]
   },
   {
@@ -31185,8 +31055,7 @@
       "Epic Fantasy",
       "High Fantasy",
       "Adult",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -31290,7 +31159,6 @@
       "Young Adult",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Space Opera"
     ]
   },
@@ -31464,8 +31332,7 @@
       "Science Fiction",
       "Novella",
       "Dystopia",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -31532,7 +31399,6 @@
       "Fantasy",
       "Fiction",
       "Magic",
-      "Audiobook",
       "Adventure",
       "Dragons",
       "High Fantasy"
@@ -31569,8 +31435,7 @@
       "Self Help",
       "Memoir",
       "Psychology",
-      "Biography",
-      "Audiobook"
+      "Biography"
     ]
   },
   {
@@ -31736,8 +31601,7 @@
       "Fiction",
       "Space Opera",
       "Science Fiction Fantasy",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -31908,7 +31772,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Magic",
       "High Fantasy",
       "Adventure",
@@ -31940,7 +31803,9 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["History"]
+    "genreTags": [
+      "History"
+    ]
   },
   {
     "Book Id": 18652002,
@@ -31973,7 +31838,6 @@
       "Science Fiction",
       "Dystopia",
       "Animals",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -32323,8 +32187,7 @@
       "Young Adult",
       "Magic",
       "Childrens",
-      "Middle Grade",
-      "Audiobook"
+      "Middle Grade"
     ]
   },
   {
@@ -32358,8 +32221,7 @@
       "Fantasy",
       "Classics",
       "Science Fiction Fantasy",
-      "Space Opera",
-      "Audiobook"
+      "Space Opera"
     ]
   },
   {
@@ -32393,7 +32255,6 @@
       "Fantasy",
       "Classics",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Space Opera"
     ]
   },
@@ -32428,7 +32289,6 @@
       "Fiction",
       "Science Fiction",
       "Adventure",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -32463,7 +32323,6 @@
       "Space Opera",
       "Space",
       "Mystery",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -32497,7 +32356,6 @@
       "Science Fiction",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Romance",
       "Space Opera"
     ]
@@ -32599,7 +32457,6 @@
     "Owned Copies": 0,
     "genreTags": [
       "Nonfiction",
-      "Audiobook",
       "Memoir",
       "Biography",
       "Autobiography",
@@ -32708,7 +32565,6 @@
       "Science Fiction",
       "Dystopia",
       "Adult",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -32743,7 +32599,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -32778,8 +32633,7 @@
       "Space Opera",
       "Space",
       "Science Fiction Fantasy",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -32951,7 +32805,6 @@
       "Fiction",
       "Contemporary",
       "Literary Fiction",
-      "Audiobook",
       "Race",
       "Novels",
       "Adult"
@@ -33023,8 +32876,7 @@
       "Fiction",
       "Humor",
       "Vampires",
-      "Paranormal",
-      "Audiobook"
+      "Paranormal"
     ]
   },
   {
@@ -33057,7 +32909,6 @@
       "Young Adult",
       "Fiction",
       "Middle Grade",
-      "Audiobook",
       "Magic",
       "Cozy Mystery"
     ]
@@ -33232,7 +33083,6 @@
       "Fiction",
       "Epic Fantasy",
       "Dark Fantasy",
-      "Audiobook",
       "High Fantasy",
       "Adventure"
     ]
@@ -33268,8 +33118,7 @@
       "Space Opera",
       "Mystery",
       "Science Fiction Fantasy",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -33582,7 +33431,6 @@
       "Fantasy",
       "Fiction",
       "Dystopia",
-      "Audiobook",
       "Adult",
       "Young Adult"
     ]
@@ -33617,7 +33465,6 @@
       "Fantasy",
       "Fiction",
       "Dystopia",
-      "Audiobook",
       "Young Adult",
       "Adult"
     ]
@@ -33653,8 +33500,7 @@
       "Young Adult",
       "Magic",
       "Childrens",
-      "Middle Grade",
-      "Audiobook"
+      "Middle Grade"
     ]
   },
   {
@@ -33688,7 +33534,6 @@
       "Mystery",
       "Fiction",
       "Mystery Thriller",
-      "Audiobook",
       "Suspense"
     ]
   },
@@ -33930,7 +33775,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Magic",
       "Science Fiction",
       "Science Fiction Fantasy",
@@ -34070,7 +33914,6 @@
     "genreTags": [
       "Nonfiction",
       "History",
-      "Audiobook",
       "Biography",
       "True Crime",
       "Business",
@@ -34106,7 +33949,6 @@
       "Science Fiction",
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Time Travel",
       "Aliens",
       "Adventure"
@@ -34178,7 +34020,6 @@
       "Fantasy",
       "Space Opera",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Horror"
     ]
   },
@@ -34213,8 +34054,7 @@
       "Young Adult",
       "Magic",
       "Childrens",
-      "Middle Grade",
-      "Audiobook"
+      "Middle Grade"
     ]
   },
   {
@@ -34353,8 +34193,7 @@
       "Science Fiction Fantasy",
       "Fantasy",
       "Space Opera",
-      "Speculative Fiction",
-      "Audiobook"
+      "Speculative Fiction"
     ]
   },
   {
@@ -34423,8 +34262,7 @@
       "Fantasy",
       "Science Fiction Fantasy",
       "Speculative Fiction",
-      "Space Opera",
-      "Audiobook"
+      "Space Opera"
     ]
   },
   {
@@ -34456,7 +34294,6 @@
       "Science Fiction",
       "Fiction",
       "Time Travel",
-      "Audiobook",
       "Fantasy",
       "Science Fiction Fantasy",
       "Thriller"
@@ -34557,7 +34394,10 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Science", "Nonfiction"]
+    "genreTags": [
+      "Science",
+      "Nonfiction"
+    ]
   },
   {
     "Book Id": 44286477,
@@ -34694,7 +34534,6 @@
       "Thriller",
       "Fiction",
       "Mystery Thriller",
-      "Audiobook",
       "Adult",
       "Mythology"
     ]
@@ -34799,7 +34638,6 @@
       "Novella",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Short Stories",
       "Fantasy"
     ]
@@ -34835,8 +34673,7 @@
       "Space Opera",
       "Romance",
       "Science Fiction Fantasy",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -34969,7 +34806,12 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Chemistry", "Science", "Academic", "Mathematics"]
+    "genreTags": [
+      "Chemistry",
+      "Science",
+      "Academic",
+      "Mathematics"
+    ]
   },
   {
     "Book Id": 759517,
@@ -35139,7 +34981,6 @@
       "Fiction",
       "Urban Fantasy",
       "Alternate History",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -35241,7 +35082,6 @@
     "genreTags": [
       "Poetry",
       "Nonfiction",
-      "Audiobook",
       "Race",
       "Politics",
       "Adult",
@@ -35312,7 +35152,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Aliens",
       "Space",
       "Mystery"
@@ -35376,8 +35215,7 @@
       "Fiction",
       "Adventure",
       "High Fantasy",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -35405,7 +35243,12 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Finance", "Economics", "Nonfiction", "Personal Finance"]
+    "genreTags": [
+      "Finance",
+      "Economics",
+      "Nonfiction",
+      "Personal Finance"
+    ]
   },
   {
     "Book Id": 4345290,
@@ -35438,7 +35281,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Adventure",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -35611,7 +35453,6 @@
       "History",
       "Nonfiction",
       "Politics",
-      "Audiobook",
       "War",
       "World History",
       "Asia"
@@ -35850,8 +35691,7 @@
       "Fiction",
       "Mystery",
       "Science Fiction Fantasy",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -35988,8 +35828,7 @@
       "Space Opera",
       "Fantasy",
       "Science Fiction Fantasy",
-      "Novels",
-      "Audiobook"
+      "Novels"
     ]
   },
   {
@@ -36091,7 +35930,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Queer",
       "LGBT",
       "Space"
@@ -36338,8 +36176,7 @@
       "Science Fiction",
       "Fiction",
       "Dystopia",
-      "Urban Fantasy",
-      "Audiobook"
+      "Urban Fantasy"
     ]
   },
   {
@@ -36407,7 +36244,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Adult",
       "Epic"
     ]
@@ -36437,7 +36273,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Poetry", "Nonfiction", "Womens"]
+    "genreTags": [
+      "Poetry",
+      "Nonfiction",
+      "Womens"
+    ]
   },
   {
     "Book Id": 7294421,
@@ -36470,8 +36310,7 @@
       "Fiction",
       "Space Opera",
       "Novella",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -36610,8 +36449,7 @@
       "Thriller",
       "Mystery Thriller",
       "Crime",
-      "Australia",
-      "Audiobook"
+      "Australia"
     ]
   },
   {
@@ -36852,7 +36690,6 @@
     "genreTags": [
       "Fiction",
       "Science Fiction",
-      "Audiobook",
       "Literary Fiction",
       "Dystopia",
       "Fantasy",
@@ -36889,7 +36726,6 @@
       "Fiction",
       "Thriller",
       "Mystery",
-      "Audiobook",
       "Mystery Thriller",
       "Adult"
     ]
@@ -36925,8 +36761,7 @@
       "Mythology",
       "Historical Fiction",
       "Greek Mythology",
-      "Retellings",
-      "Audiobook"
+      "Retellings"
     ]
   },
   {
@@ -37091,7 +36926,6 @@
       "Fiction",
       "Novella",
       "Fantasy",
-      "Audiobook",
       "Short Stories",
       "Dystopia"
     ]
@@ -37127,8 +36961,7 @@
       "Humor",
       "Comedy",
       "Christmas",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -37302,8 +37135,7 @@
       "Classics",
       "Crime",
       "Mystery Thriller",
-      "Thriller",
-      "Audiobook"
+      "Thriller"
     ]
   },
   {
@@ -37336,7 +37168,6 @@
       "Fantasy",
       "Historical Fiction",
       "Contemporary",
-      "Audiobook",
       "Magical Realism",
       "Literary Fiction"
     ]
@@ -37371,7 +37202,6 @@
       "Fiction",
       "Science Fiction",
       "Humor",
-      "Audiobook",
       "Time Travel",
       "Magic"
     ]
@@ -37477,8 +37307,7 @@
       "Epic Fantasy",
       "Novella",
       "High Fantasy",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -37617,7 +37446,6 @@
       "Fantasy",
       "Science Fiction Fantasy",
       "Classics",
-      "Audiobook",
       "Novels"
     ]
   },
@@ -37792,7 +37620,6 @@
       "Crime",
       "Mystery Thriller",
       "Thriller",
-      "Audiobook",
       "Detective"
     ]
   },
@@ -37824,7 +37651,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "LGBT",
       "Young Adult",
       "Contemporary",
@@ -37861,7 +37687,6 @@
       "Thriller",
       "Fiction",
       "Mystery Thriller",
-      "Audiobook",
       "Suspense",
       "Adult"
     ]
@@ -37896,7 +37721,6 @@
       "Young Adult",
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Space",
       "Adventure"
     ]
@@ -38237,7 +38061,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Fantasy",
       "Science Fiction Fantasy"
@@ -38307,7 +38130,6 @@
       "Politics",
       "Nonfiction",
       "History",
-      "Audiobook",
       "Psychology",
       "Political Science",
       "Sociology"
@@ -38342,7 +38164,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Fantasy",
       "Science Fiction Fantasy"
@@ -38373,7 +38194,9 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Fantasy"]
+    "genreTags": [
+      "Fantasy"
+    ]
   },
   {
     "Book Id": 42267952,
@@ -38546,7 +38369,6 @@
       "Thriller",
       "Dystopia",
       "Post Apocalyptic",
-      "Audiobook",
       "Science Fiction"
     ]
   },
@@ -38892,7 +38714,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "Russia",
       "High Fantasy",
       "Romance",
@@ -39210,8 +39031,7 @@
       "Fiction",
       "Thriller",
       "Young Adult",
-      "Zombies",
-      "Audiobook"
+      "Zombies"
     ]
   },
   {
@@ -39245,8 +39065,7 @@
       "Historical Fiction",
       "Fiction",
       "Novella",
-      "Historical",
-      "Audiobook"
+      "Historical"
     ]
   },
   {
@@ -39385,8 +39204,7 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Epic",
-      "Audiobook"
+      "Epic"
     ]
   },
   {
@@ -39416,7 +39234,6 @@
     "Owned Copies": 0,
     "genreTags": [
       "Nonfiction",
-      "Audiobook",
       "Sociology",
       "Crime",
       "Adult",
@@ -39455,8 +39272,7 @@
       "Thriller",
       "Crime",
       "Mystery Thriller",
-      "Classics",
-      "Audiobook"
+      "Classics"
     ]
   },
   {
@@ -39490,7 +39306,6 @@
       "Fiction",
       "Young Adult",
       "Fantasy",
-      "Audiobook",
       "Space Opera"
     ]
   },
@@ -39525,7 +39340,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -39665,7 +39479,6 @@
       "Thriller",
       "Mystery",
       "Suspense",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -39700,8 +39513,7 @@
       "Gothic",
       "Mystery",
       "Paranormal",
-      "Classics",
-      "Audiobook"
+      "Classics"
     ]
   },
   {
@@ -39734,7 +39546,6 @@
       "Fiction",
       "Thriller",
       "Science Fiction",
-      "Audiobook",
       "Adult",
       "Mystery"
     ]
@@ -39770,8 +39581,7 @@
       "Space Opera",
       "Mystery",
       "Science Fiction Fantasy",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -39805,7 +39615,6 @@
       "Historical Fiction",
       "Young Adult",
       "Magical Realism",
-      "Audiobook",
       "Historical"
     ]
   },
@@ -39840,7 +39649,6 @@
       "Fantasy",
       "Comedy",
       "Historical Fiction",
-      "Audiobook",
       "Historical"
     ]
   },
@@ -39945,7 +39753,6 @@
       "Young Adult",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Space Opera"
     ]
   },
@@ -40295,8 +40102,7 @@
       "Fiction",
       "Steampunk",
       "Science Fiction",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -40330,8 +40136,7 @@
       "Space Opera",
       "Economics",
       "Fantasy",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -40400,8 +40205,7 @@
       "Humor",
       "Comedy",
       "Science Fiction Fantasy",
-      "Music",
-      "Audiobook"
+      "Music"
     ]
   },
   {
@@ -40433,7 +40237,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Aliens",
       "Hard Science Fiction"
@@ -40470,7 +40273,6 @@
       "Science",
       "Philosophy",
       "Anthropology",
-      "Audiobook",
       "Psychology"
     ]
   },
@@ -40608,7 +40410,6 @@
       "Science Fiction",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Adult",
       "Space Opera",
       "Space"
@@ -40679,7 +40480,6 @@
       "Science Fiction",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Space Opera",
       "Adult"
     ]
@@ -40855,7 +40655,6 @@
       "Mystery",
       "Crime",
       "Mystery Thriller",
-      "Audiobook",
       "Contemporary"
     ]
   },
@@ -41063,7 +40862,6 @@
       "Nonfiction",
       "History",
       "Science",
-      "Audiobook",
       "Russia",
       "Historical",
       "Politics"
@@ -41308,7 +41106,6 @@
       "Fantasy",
       "Fiction",
       "Urban Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Horror",
       "Science Fiction"
@@ -41415,8 +41212,7 @@
       "Classics",
       "Science Fiction Fantasy",
       "Space Opera",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -41520,8 +41316,7 @@
       "Dystopia",
       "Post Apocalyptic",
       "Fantasy",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -41625,8 +41420,7 @@
       "High Fantasy",
       "Epic Fantasy",
       "Science Fiction Fantasy",
-      "Romance",
-      "Audiobook"
+      "Romance"
     ]
   },
   {
@@ -41728,7 +41522,6 @@
       "Fiction",
       "Young Adult",
       "Paranormal",
-      "Audiobook",
       "Fantasy",
       "Thriller"
     ]
@@ -41968,7 +41761,9 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Horror"]
+    "genreTags": [
+      "Horror"
+    ]
   },
   {
     "Book Id": 25188109,
@@ -42001,7 +41796,6 @@
       "Fiction",
       "Novella",
       "Short Stories",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -42035,7 +41829,6 @@
       "Space Opera",
       "Fiction",
       "Space",
-      "Audiobook",
       "Artificial Intelligence",
       "Adult"
     ]
@@ -42106,8 +41899,7 @@
       "Space Opera",
       "Hugo Awards",
       "Science Fiction Fantasy",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -42139,7 +41931,6 @@
       "Nonfiction",
       "Self Help",
       "Psychology",
-      "Audiobook",
       "Communication",
       "Personal Development",
       "Relationships"
@@ -42175,7 +41966,6 @@
       "Fiction",
       "Thriller",
       "Mystery",
-      "Audiobook",
       "Mystery Thriller",
       "Adult"
     ]
@@ -42210,7 +42000,6 @@
       "Fiction",
       "Thriller",
       "Time Travel",
-      "Audiobook",
       "Mystery",
       "Mystery Thriller"
     ]
@@ -42244,7 +42033,6 @@
       "Science Fiction",
       "Fiction",
       "Thriller",
-      "Audiobook",
       "Adventure",
       "Suspense",
       "Science Fiction Fantasy"
@@ -42386,7 +42174,6 @@
       "Space Opera",
       "Science Fiction Fantasy",
       "Fantasy",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -42490,7 +42277,6 @@
       "Fiction",
       "Post Apocalyptic",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Fantasy",
       "Space"
     ]
@@ -42526,7 +42312,6 @@
       "Space Opera",
       "Short Stories",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -42560,7 +42345,6 @@
       "Fiction",
       "Humor",
       "Comedy",
-      "Audiobook",
       "Urban Fantasy",
       "Science Fiction Fantasy"
     ]
@@ -42631,7 +42415,6 @@
       "Aliens",
       "Adult",
       "Fantasy",
-      "Audiobook",
       "Alternate History"
     ]
   },
@@ -42736,7 +42519,6 @@
       "Fiction",
       "High Fantasy",
       "Comedy",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -42981,7 +42763,6 @@
       "Magic",
       "Urban Fantasy",
       "Young Adult",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -43086,8 +42867,7 @@
       "Fiction",
       "Novella",
       "Post Apocalyptic",
-      "Dystopia",
-      "Audiobook"
+      "Dystopia"
     ]
   },
   {
@@ -43119,7 +42899,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Hard Science Fiction",
       "Space",
       "Africa"
@@ -43156,8 +42935,7 @@
       "Hard Science Fiction",
       "Space Opera",
       "Science Fiction Fantasy",
-      "Literature",
-      "Audiobook"
+      "Literature"
     ]
   },
   {
@@ -43296,8 +43074,7 @@
       "Fiction",
       "Military Fiction",
       "Military Science Fiction",
-      "Space",
-      "Audiobook"
+      "Space"
     ]
   },
   {
@@ -43436,7 +43213,6 @@
       "Time Travel",
       "Science Fiction Fantasy",
       "Fantasy",
-      "Audiobook",
       "Space Opera"
     ]
   },
@@ -43471,8 +43247,7 @@
       "Science Fiction",
       "Romance",
       "Fiction",
-      "Dystopia",
-      "Audiobook"
+      "Dystopia"
     ]
   },
   {
@@ -43506,8 +43281,7 @@
       "Dystopia",
       "Fiction",
       "Cyberpunk",
-      "Young Adult",
-      "Audiobook"
+      "Young Adult"
     ]
   },
   {
@@ -43575,7 +43349,6 @@
       "Fiction",
       "Space Opera",
       "Space",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Speculative Fiction"
     ]
@@ -43750,7 +43523,6 @@
       "Fiction",
       "Time Travel",
       "Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Adult"
     ]
@@ -43785,7 +43557,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Adult",
       "Magic"
     ]
@@ -43925,7 +43696,6 @@
       "Fiction",
       "Science Fiction",
       "Thriller",
-      "Audiobook",
       "Fantasy",
       "Adult"
     ]
@@ -43960,7 +43730,6 @@
       "Fiction",
       "Science Fiction",
       "Urban Fantasy",
-      "Audiobook",
       "Adult",
       "LGBT"
     ]
@@ -43995,7 +43764,6 @@
       "Science Fiction",
       "Fiction",
       "Mystery",
-      "Audiobook",
       "Adult",
       "Short Stories"
     ]
@@ -44346,7 +44114,6 @@
       "Mathematics",
       "Humor",
       "History",
-      "Audiobook",
       "Popular Science"
     ]
   },
@@ -44381,7 +44148,6 @@
       "Health",
       "Psychology",
       "Self Help",
-      "Audiobook",
       "Neuroscience"
     ]
   },
@@ -44451,7 +44217,6 @@
       "Fiction",
       "Young Adult",
       "Space Opera",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -44486,8 +44251,7 @@
       "Nature",
       "Biology",
       "Animals",
-      "Environment",
-      "Audiobook"
+      "Environment"
     ]
   },
   {
@@ -44554,7 +44318,6 @@
       "Fantasy",
       "Fiction",
       "Epic Fantasy",
-      "Audiobook",
       "High Fantasy",
       "Dark Fantasy",
       "Adult"
@@ -44590,7 +44353,6 @@
       "Fiction",
       "Time Travel",
       "Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Romance"
     ]
@@ -44626,7 +44388,6 @@
       "Humor",
       "Comedy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Death"
     ]
   },
@@ -44765,7 +44526,6 @@
       "Nonfiction",
       "Humor",
       "Physics",
-      "Audiobook",
       "Comedy",
       "Comics"
     ]
@@ -44869,7 +44629,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Hard Science Fiction",
       "Science Fiction Fantasy",
       "Adventure"
@@ -44906,8 +44665,7 @@
       "Fiction",
       "Aliens",
       "War",
-      "Space",
-      "Audiobook"
+      "Space"
     ]
   },
   {
@@ -44940,7 +44698,6 @@
       "Fiction",
       "Dystopia",
       "China",
-      "Audiobook",
       "Fantasy",
       "Science Fiction Fantasy"
     ]
@@ -45010,7 +44767,6 @@
       "Nonfiction",
       "Historical",
       "Witches",
-      "Audiobook",
       "American History",
       "Religion"
     ]
@@ -45046,7 +44802,6 @@
       "Fiction",
       "Military Fiction",
       "Military Science Fiction",
-      "Audiobook",
       "Space"
     ]
   },
@@ -45081,8 +44836,7 @@
       "Dystopia",
       "Science Fiction",
       "Canada",
-      "Post Apocalyptic",
-      "Audiobook"
+      "Post Apocalyptic"
     ]
   },
   {
@@ -45113,7 +44867,6 @@
     "genreTags": [
       "Fantasy",
       "Fiction",
-      "Audiobook",
       "High Fantasy",
       "Adult",
       "Adventure",
@@ -45361,8 +45114,7 @@
       "Fiction",
       "Urban Fantasy",
       "Magic",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -45536,7 +45288,6 @@
       "Adventure",
       "Travel",
       "Science",
-      "Audiobook",
       "Archaeology"
     ]
   },
@@ -45886,8 +45637,7 @@
       "Fiction",
       "Adult",
       "High Fantasy",
-      "Epic Fantasy",
-      "Audiobook"
+      "Epic Fantasy"
     ]
   },
   {
@@ -45956,8 +45706,7 @@
       "Cyberpunk",
       "Dystopia",
       "LGBT",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -45990,7 +45739,6 @@
       "Space Opera",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Unfinished"
     ]
@@ -46026,7 +45774,6 @@
       "Hugo Awards",
       "Science Fiction Fantasy",
       "Space Opera",
-      "Audiobook",
       "Speculative Fiction"
     ]
   },
@@ -46061,7 +45808,6 @@
       "Humor",
       "Comedy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -46269,7 +46015,6 @@
       "Fantasy",
       "Fiction",
       "Magic",
-      "Audiobook",
       "Young Adult",
       "High Fantasy",
       "LGBT"
@@ -46620,8 +46365,7 @@
       "Fiction",
       "Fantasy",
       "Science Fiction Fantasy",
-      "Speculative Fiction",
-      "Audiobook"
+      "Speculative Fiction"
     ]
   },
   {
@@ -46688,7 +46432,6 @@
       "Fantasy",
       "Young Adult",
       "Fiction",
-      "Audiobook",
       "Steampunk",
       "Magic",
       "Young Adult Fantasy"
@@ -47004,7 +46747,6 @@
       "Mystery",
       "Thriller",
       "Mystery Thriller",
-      "Audiobook",
       "Suspense",
       "Contemporary"
     ]
@@ -47038,7 +46780,6 @@
       "Fiction",
       "Science Fiction",
       "Literary Fiction",
-      "Audiobook",
       "Speculative Fiction",
       "Contemporary",
       "British Literature"
@@ -47075,8 +46816,7 @@
       "Science Fiction",
       "Adult",
       "Urban Fantasy",
-      "Horror",
-      "Audiobook"
+      "Horror"
     ]
   },
   {
@@ -47179,7 +46919,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Magic",
       "Epic"
     ]
@@ -47250,7 +46989,6 @@
       "Dystopia",
       "Novella",
       "Adult",
-      "Audiobook",
       "Short Stories"
     ]
   },
@@ -47390,7 +47128,6 @@
       "Fantasy",
       "LGBT",
       "Mystery",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -47459,7 +47196,6 @@
       "Fiction",
       "Fantasy",
       "Thriller",
-      "Audiobook",
       "Paranormal",
       "Vampires"
     ]
@@ -47565,8 +47301,7 @@
       "Thriller",
       "Mystery",
       "Paranormal",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -47600,8 +47335,7 @@
       "Fantasy",
       "Lovecraftian",
       "Weird Fiction",
-      "Thriller",
-      "Audiobook"
+      "Thriller"
     ]
   },
   {
@@ -47670,7 +47404,6 @@
       "Thriller",
       "Mystery",
       "Mystery Thriller",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -47705,7 +47438,6 @@
       "Fiction",
       "Thriller",
       "Mystery",
-      "Audiobook",
       "Mystery Thriller"
     ]
   },
@@ -47810,8 +47542,7 @@
       "Fiction",
       "Magical Realism",
       "Mystery",
-      "Urban Fantasy",
-      "Audiobook"
+      "Urban Fantasy"
     ]
   },
   {
@@ -47843,7 +47574,6 @@
       "Science Fiction",
       "Fiction",
       "Young Adult",
-      "Audiobook",
       "Fantasy",
       "Science Fiction Fantasy",
       "Adventure"
@@ -47950,8 +47680,7 @@
       "Fiction",
       "Science Fiction Fantasy",
       "Speculative Fiction",
-      "Adventure",
-      "Audiobook"
+      "Adventure"
     ]
   },
   {
@@ -47984,7 +47713,6 @@
       "Fantasy",
       "Fiction",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Adventure",
       "Speculative Fiction"
     ]
@@ -48054,7 +47782,6 @@
       "Self Help",
       "Philosophy",
       "Personal Development",
-      "Audiobook",
       "Poetry",
       "Spirituality"
     ]
@@ -48089,7 +47816,6 @@
       "Science Fiction",
       "Young Adult",
       "Fiction",
-      "Audiobook",
       "Adventure",
       "Science Fiction Fantasy"
     ]
@@ -48369,7 +48095,6 @@
       "Fiction",
       "Space Opera",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Fantasy",
       "Space"
     ]
@@ -48440,7 +48165,6 @@
       "Young Adult",
       "Magic",
       "Adult",
-      "Audiobook",
       "Romance"
     ]
   },
@@ -48504,7 +48228,12 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Science Fiction", "Fiction", "Dystopia", "20th Century"]
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Dystopia",
+      "20th Century"
+    ]
   },
   {
     "Book Id": 18966806,
@@ -48537,7 +48266,6 @@
       "Fiction",
       "Dystopia",
       "Young Adult",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -48572,7 +48300,6 @@
       "Dystopia",
       "Thriller",
       "Mystery",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -48642,8 +48369,7 @@
       "Science Fiction",
       "Steampunk",
       "Dystopia",
-      "Horror",
-      "Audiobook"
+      "Horror"
     ]
   },
   {
@@ -48677,7 +48403,6 @@
       "Crime",
       "Mystery Thriller",
       "Thriller",
-      "Audiobook",
       "Suspense"
     ]
   },
@@ -48711,7 +48436,6 @@
       "Fiction",
       "Mythology",
       "Urban Fantasy",
-      "Audiobook",
       "Science Fiction",
       "Science Fiction Fantasy"
     ]
@@ -48887,7 +48611,6 @@
       "Space",
       "Fantasy",
       "China",
-      "Audiobook",
       "Space Opera"
     ]
   },
@@ -49027,8 +48750,7 @@
       "Fantasy",
       "Cyberpunk",
       "Science Fiction Fantasy",
-      "Speculative Fiction",
-      "Audiobook"
+      "Speculative Fiction"
     ]
   },
   {
@@ -49167,8 +48889,7 @@
       "Fiction",
       "Young Adult",
       "Time Travel",
-      "Mystery",
-      "Audiobook"
+      "Mystery"
     ]
   },
   {
@@ -49412,7 +49133,6 @@
       "Historical Fiction",
       "Literary Fiction",
       "Novels",
-      "Audiobook",
       "Turkish"
     ]
   },
@@ -49482,7 +49202,6 @@
       "Animals",
       "Science",
       "Psychology",
-      "Audiobook",
       "Nature"
     ]
   },
@@ -49622,8 +49341,7 @@
       "Fiction",
       "Science Fiction Fantasy",
       "Mystery",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -49929,8 +49647,7 @@
       "Fantasy",
       "Science Fiction Fantasy",
       "Young Adult",
-      "Space",
-      "Audiobook"
+      "Space"
     ]
   },
   {
@@ -50311,7 +50028,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Magic",
       "Science Fiction Fantasy"
     ]
@@ -50557,8 +50273,7 @@
       "Epic Fantasy",
       "Magic",
       "High Fantasy",
-      "Young Adult",
-      "Audiobook"
+      "Young Adult"
     ]
   },
   {
@@ -50592,8 +50307,7 @@
       "Crime",
       "History",
       "Horror",
-      "Biography",
-      "Audiobook"
+      "Biography"
     ]
   },
   {
@@ -50627,8 +50341,7 @@
       "Science Fiction",
       "Fiction",
       "Dystopia",
-      "Urban Fantasy",
-      "Audiobook"
+      "Urban Fantasy"
     ]
   },
   {
@@ -50802,7 +50515,6 @@
       "Fiction",
       "Steampunk",
       "Alternate History",
-      "Audiobook",
       "Science Fiction"
     ]
   },
@@ -50834,7 +50546,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Space Opera",
       "Humor",
       "Fantasy",
@@ -50907,7 +50618,6 @@
       "Fiction",
       "Dystopia",
       "Young Adult",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -50977,8 +50687,7 @@
       "Fantasy",
       "Africa",
       "Science Fiction Fantasy",
-      "Aliens",
-      "Audiobook"
+      "Aliens"
     ]
   },
   {
@@ -51186,7 +50895,6 @@
       "Horror",
       "Novella",
       "Fiction",
-      "Audiobook",
       "Short Stories",
       "Space"
     ]
@@ -51219,7 +50927,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Space Opera",
       "Fantasy",
       "Space",
@@ -51257,7 +50964,6 @@
       "Thriller",
       "Fantasy",
       "Mystery Thriller",
-      "Audiobook",
       "Crime"
     ]
   },
@@ -51397,8 +51103,7 @@
       "World War II",
       "Historical",
       "War",
-      "Italy",
-      "Audiobook"
+      "Italy"
     ]
   },
   {
@@ -51502,7 +51207,6 @@
       "Time Travel",
       "War",
       "LGBT",
-      "Audiobook",
       "Dystopia"
     ]
   },
@@ -51607,8 +51311,7 @@
       "Horror",
       "Science Fiction",
       "Adventure",
-      "Westerns",
-      "Audiobook"
+      "Westerns"
     ]
   },
   {
@@ -51675,7 +51378,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy",
       "Fantasy"
@@ -51746,7 +51448,6 @@
       "Fantasy",
       "Fiction",
       "Dystopia",
-      "Audiobook",
       "Post Apocalyptic",
       "Science Fiction Fantasy"
     ]
@@ -51782,8 +51483,7 @@
       "Humor",
       "Comedy",
       "History",
-      "Psychology",
-      "Audiobook"
+      "Psychology"
     ]
   },
   {
@@ -51887,7 +51587,6 @@
       "Fantasy",
       "Science Fiction Fantasy",
       "Young Adult",
-      "Audiobook",
       "Space"
     ]
   },
@@ -51922,8 +51621,7 @@
       "Fiction",
       "Suspense",
       "Psychological Thriller",
-      "Mystery Thriller",
-      "Audiobook"
+      "Mystery Thriller"
     ]
   },
   {
@@ -51957,8 +51655,7 @@
       "Productivity",
       "Business",
       "Psychology",
-      "Personal Development",
-      "Audiobook"
+      "Personal Development"
     ]
   },
   {
@@ -51992,8 +51689,7 @@
       "Fantasy",
       "Philosophy",
       "Speculative Fiction",
-      "Science Fiction Fantasy",
-      "Audiobook"
+      "Science Fiction Fantasy"
     ]
   },
   {
@@ -52126,7 +51822,11 @@
     "Private Notes": "",
     "Read Count": 0,
     "Owned Copies": 0,
-    "genreTags": ["Nonfiction", "Games", "Role Playing Games"]
+    "genreTags": [
+      "Nonfiction",
+      "Games",
+      "Role Playing Games"
+    ]
   },
   {
     "Book Id": 19139420,
@@ -52851,8 +52551,7 @@
       "Politics",
       "World History",
       "Sociology",
-      "Historical",
-      "Audiobook"
+      "Historical"
     ]
   },
   {
@@ -52991,7 +52690,6 @@
       "Fiction",
       "Dystopia",
       "Young Adult",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -53096,8 +52794,7 @@
       "History",
       "Sociology",
       "War",
-      "Philosophy",
-      "Audiobook"
+      "Philosophy"
     ]
   },
   {
@@ -53166,8 +52863,7 @@
       "Horror",
       "Science Fiction",
       "Adventure",
-      "Westerns",
-      "Audiobook"
+      "Westerns"
     ]
   },
   {
@@ -53198,7 +52894,6 @@
     "genreTags": [
       "Fiction",
       "Historical Fiction",
-      "Audiobook",
       "Fantasy",
       "Literary Fiction",
       "Historical",
@@ -53472,7 +53167,6 @@
       "Fiction",
       "Young Adult",
       "Contemporary",
-      "Audiobook",
       "LGBT",
       "Fantasy"
     ]
@@ -53681,7 +53375,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy",
       "Fantasy"
@@ -53752,7 +53445,6 @@
       "Nonfiction",
       "Physics",
       "Philosophy",
-      "Audiobook",
       "Astronomy",
       "Popular Science"
     ]
@@ -53893,8 +53585,7 @@
       "Fiction",
       "Historical Fiction",
       "Science Fiction Fantasy",
-      "Speculative Fiction",
-      "Audiobook"
+      "Speculative Fiction"
     ]
   },
   {
@@ -54033,8 +53724,7 @@
       "Fantasy",
       "Dystopia",
       "Fiction",
-      "Romance",
-      "Audiobook"
+      "Romance"
     ]
   },
   {
@@ -54099,7 +53789,6 @@
     "Owned Copies": 0,
     "genreTags": [
       "Nonfiction",
-      "Audiobook",
       "Classics",
       "Historical",
       "Retellings",
@@ -54207,7 +53896,6 @@
       "Fiction",
       "High Fantasy",
       "Epic Fantasy",
-      "Audiobook",
       "Steampunk",
       "Adult"
     ]
@@ -54313,7 +54001,6 @@
       "Politics",
       "Business",
       "Philosophy",
-      "Audiobook",
       "History"
     ]
   },
@@ -54453,8 +54140,7 @@
       "Nonfiction",
       "Personal Development",
       "Leadership",
-      "Christian",
-      "Audiobook"
+      "Christian"
     ]
   },
   {
@@ -54486,7 +54172,6 @@
       "Nonfiction",
       "Self Help",
       "Psychology",
-      "Audiobook",
       "Philosophy",
       "Personal Development",
       "Denmark"
@@ -54557,7 +54242,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Adult",
       "Magic"
     ]
@@ -54801,7 +54485,6 @@
       "Science Fiction",
       "Fiction",
       "Thriller",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Space Opera",
       "Adventure"
@@ -54872,7 +54555,6 @@
       "Fiction",
       "Science Fiction Fantasy",
       "Space",
-      "Audiobook",
       "Fantasy",
       "Space Opera"
     ]
@@ -54906,7 +54588,6 @@
       "Science Fiction",
       "Fiction",
       "China",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Fantasy",
       "Aliens"
@@ -54978,7 +54659,6 @@
       "Young Adult",
       "Fantasy",
       "Dystopia",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -55046,7 +54726,6 @@
       "Science Fiction",
       "Fiction",
       "China",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Fantasy",
       "Space"
@@ -55081,7 +54760,6 @@
       "Science Fiction",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Adult",
       "Mystery",
       "Science Fiction Fantasy"
@@ -55115,7 +54793,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Fantasy",
       "Adult",
       "Aliens",
@@ -55258,8 +54935,7 @@
       "Epic Fantasy",
       "High Fantasy",
       "Magic",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -55293,7 +54969,6 @@
       "Fantasy",
       "Science Fiction Fantasy",
       "Young Adult",
-      "Audiobook",
       "Space"
     ]
   },
@@ -55327,7 +55002,6 @@
       "Fiction",
       "Space",
       "Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Mystery"
     ]
@@ -55468,7 +55142,6 @@
       "Space Opera",
       "Romance",
       "Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -55538,8 +55211,7 @@
       "War",
       "Historical",
       "Russia",
-      "World War II",
-      "Audiobook"
+      "World War II"
     ]
   },
   {
@@ -55570,7 +55242,6 @@
     "genreTags": [
       "Science Fiction",
       "Fiction",
-      "Audiobook",
       "Adventure",
       "Space",
       "Adult",
@@ -55607,7 +55278,6 @@
       "Fiction",
       "Space Opera",
       "Fantasy",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy"
     ]
@@ -55643,7 +55313,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Magic",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -55878,7 +55547,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy",
       "Fantasy"
@@ -55941,7 +55609,6 @@
       "Fiction",
       "Space Opera",
       "Hugo Awards",
-      "Audiobook",
       "Fantasy",
       "Romance"
     ]
@@ -55976,7 +55643,6 @@
       "Space Opera",
       "Fiction",
       "Fantasy",
-      "Audiobook",
       "Science Fiction Fantasy",
       "Adventure"
     ]
@@ -56152,8 +55818,7 @@
       "Self Help",
       "Business",
       "Personal Development",
-      "Philosophy",
-      "Audiobook"
+      "Philosophy"
     ]
   },
   {
@@ -56220,7 +55885,6 @@
       "Nonfiction",
       "Self Help",
       "Psychology",
-      "Audiobook",
       "Humor",
       "Personal Development",
       "Mental Health"
@@ -56257,7 +55921,6 @@
       "Fantasy",
       "Time Travel",
       "Historical Fiction",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -56359,7 +56022,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy",
       "Fantasy"
@@ -56396,7 +56058,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Magic",
-      "Audiobook",
       "Science Fiction Fantasy"
     ]
   },
@@ -56569,7 +56230,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy",
       "Fantasy"
@@ -56676,7 +56336,6 @@
       "History",
       "Law",
       "American History",
-      "Audiobook",
       "The United States Of America"
     ]
   },
@@ -56709,7 +56368,6 @@
       "Nonfiction",
       "Science",
       "History",
-      "Audiobook",
       "Humor",
       "Physics",
       "Popular Science"
@@ -56746,7 +56404,6 @@
       "Young Adult",
       "Magic",
       "Adult",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -56915,7 +56572,12 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": ["Nonfiction", "Technology", "Politics", "21st Century"]
+    "genreTags": [
+      "Nonfiction",
+      "Technology",
+      "Politics",
+      "21st Century"
+    ]
   },
   {
     "Book Id": 23341580,
@@ -56946,7 +56608,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy",
       "Fantasy"
@@ -57053,8 +56714,7 @@
       "Fiction",
       "Hugo Awards",
       "Science Fiction Fantasy",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -57122,7 +56782,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Adult",
       "Magic"
     ]
@@ -57156,7 +56815,6 @@
       "Science Fiction",
       "Fiction",
       "Space Opera",
-      "Audiobook",
       "Space",
       "Science Fiction Fantasy",
       "Fantasy"
@@ -57227,7 +56885,6 @@
       "Fantasy",
       "Young Adult",
       "Fiction",
-      "Audiobook",
       "Space",
       "Adventure"
     ]
@@ -57508,8 +57165,7 @@
       "Historical Fiction",
       "Adult",
       "Historical",
-      "High Fantasy",
-      "Audiobook"
+      "High Fantasy"
     ]
   },
   {
@@ -57578,8 +57234,7 @@
       "Young Adult",
       "Novella",
       "LGBT",
-      "Science Fiction",
-      "Audiobook"
+      "Science Fiction"
     ]
   },
   {
@@ -57611,7 +57266,6 @@
       "Science Fiction",
       "Fiction",
       "Aliens",
-      "Audiobook",
       "Adult",
       "Science Fiction Fantasy",
       "Fantasy"
@@ -57646,7 +57300,6 @@
       "Nonfiction",
       "Memoir",
       "Biography",
-      "Audiobook",
       "Biography Memoir",
       "Autobiography",
       "Book Club"
@@ -57683,7 +57336,6 @@
       "Fiction",
       "Young Adult Fantasy",
       "Magic",
-      "Audiobook",
       "Romance"
     ]
   },
@@ -57718,8 +57370,7 @@
       "Adult",
       "Dystopia",
       "Science Fiction Fantasy",
-      "Speculative Fiction",
-      "Audiobook"
+      "Speculative Fiction"
     ]
   },
   {
@@ -57788,8 +57439,7 @@
       "Psychology",
       "Health",
       "Self Help",
-      "Philosophy",
-      "Audiobook"
+      "Philosophy"
     ]
   },
   {
@@ -57823,8 +57473,7 @@
       "Dystopia",
       "Thriller",
       "Science Fiction",
-      "Fantasy",
-      "Audiobook"
+      "Fantasy"
     ]
   },
   {
@@ -57962,7 +57611,6 @@
       "Fiction",
       "Space Opera",
       "Fantasy",
-      "Audiobook",
       "Speculative Fiction",
       "Science Fiction Fantasy"
     ]
@@ -58663,7 +58311,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -58698,7 +58345,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -58733,7 +58379,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Epic"
     ]
   },
@@ -58768,7 +58413,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -58803,7 +58447,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -58838,7 +58481,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -58873,7 +58515,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Science Fiction Fantasy",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -58908,7 +58549,6 @@
       "Steampunk",
       "High Fantasy",
       "Epic Fantasy",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -58943,7 +58583,6 @@
       "Steampunk",
       "High Fantasy",
       "Epic Fantasy",
-      "Audiobook",
       "Adult"
     ]
   },
@@ -58978,7 +58617,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Adult",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -59013,7 +58651,6 @@
       "Epic Fantasy",
       "High Fantasy",
       "Adult",
-      "Audiobook",
       "Magic"
     ]
   },
@@ -59048,8 +58685,7 @@
       "High Fantasy",
       "Epic Fantasy",
       "Adult",
-      "Magic",
-      "Audiobook"
+      "Magic"
     ]
   },
   {
@@ -59153,8 +58789,7 @@
       "Epic Fantasy",
       "Science Fiction Fantasy",
       "High Fantasy",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   },
   {
@@ -59328,7 +58963,6 @@
       "Epic Fantasy",
       "Dark Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Adventure"
     ]
   },
@@ -59362,7 +58996,6 @@
       "Fiction",
       "Epic Fantasy",
       "High Fantasy",
-      "Audiobook",
       "Dark Fantasy",
       "Adventure"
     ]
@@ -59398,8 +59031,7 @@
       "Epic Fantasy",
       "High Fantasy",
       "Dark Fantasy",
-      "Adult",
-      "Audiobook"
+      "Adult"
     ]
   }
 ]
