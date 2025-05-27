@@ -4,8 +4,15 @@ import bookList from "./bookList.json" with { type: "json" };
 let i = 1;
 bookList.forEach((book) => {
   if (!Object.hasOwn(book, "readingData")) {
-    console.log("no readingData", i);
-    i++;
+    book.readingData = [
+      {
+        started: "",
+        finished: book["Date Read"] || "",
+        format: "",
+        rating: book["My Rating"] || "",
+        review: "",
+      },
+    ];
   }
 });
 
