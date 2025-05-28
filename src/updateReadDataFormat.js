@@ -1,7 +1,6 @@
 import { writeFileSync } from "fs";
 import bookList from "./bookList.json" with { type: "json" };
 
-let i = 1;
 bookList.forEach((book) => {
   if (!Object.hasOwn(book, "readingData")) {
     book.readingData = [
@@ -16,4 +15,4 @@ bookList.forEach((book) => {
   }
 });
 
-// writeFileSync("src/testUpdate.json", JSON.stringify(bookList, null, 2));
+writeFileSync("src/testreadingData.json", JSON.stringify(bookList, null, 2));
