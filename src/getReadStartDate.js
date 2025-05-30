@@ -8,7 +8,7 @@ const maxRetries = 3;
 const main = async () => {
   let browser;
 
-  browser = await puppeteer.launch({ headless: false, slowMo: 100 });
+  browser = await puppeteer.launch();
   let retries = 0;
 
   // consider const page
@@ -16,6 +16,11 @@ const main = async () => {
 
   while (retries < maxRetries) {
     try {
+      let bookID;
+      bookList.forEach((book) => {
+        if (book["Date Read"]) bookID = book["Book Id"];
+      });
+
       const url = "https://www.goodreads.com/book/show/" + bookID;
       page = await browser.newPage();
       await page.goto(url);
