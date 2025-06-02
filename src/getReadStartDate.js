@@ -21,7 +21,7 @@ const main = async () => {
         if (book["Date Read"]) bookID = book["Book Id"];
       });
 
-      const url = "https://www.goodreads.com/book/show/" + bookID;
+      const url = "https://www.goodreads.com/review/edit/" + bookID;
       page = await browser.newPage();
       await page.goto(url);
       await page.content();
