@@ -8,7 +8,7 @@ const maxRetries = 3;
 const main = async () => {
   let browser;
 
-  browser = await puppeteer.launch();
+  browser = await puppeteer.launch({ headless: false, slowMo: 100 });
   let retries = 0;
 
   // consider const page
@@ -24,7 +24,11 @@ const main = async () => {
       const url = "https://www.goodreads.com/review/edit/" + bookID;
       page = await browser.newPage();
       await page.goto(url);
-      await page.content();
+
+      // XPath to find link with 'Review' text content
+      const [reviewLink] = await page.$x("//a[text()='Review']");
+      await reviewLink.click();
+      await page.waitForNavigation({ waitUntil: "networkidle0" });
 
       // If successful, break out of the loop
       break;
