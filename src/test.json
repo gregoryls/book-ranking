@@ -51,5 +51,31 @@
         "review": ""
       }
     ]
+  },
+  {
+    "Title": "Blindsight",
+    "Author": "Peter Watts",
+    "Additional Authors": "",
+    "ISBN13": "9780765312181",
+    "Average Rating": "4.01",
+    "Original Publication Year": "2006",
+    "genreTags": [
+      "Science Fiction",
+      "Fiction",
+      "Horror",
+      "Vampires",
+      "Aliens",
+      "Fantasy"
+    ],
+    "exactRanking": "",
+    "readingData": [
+      {
+        "started": "",
+        "finished": "",
+        "format": "",
+        "rating": "",
+        "review": ""
+      }
+    ]
   }
 ]

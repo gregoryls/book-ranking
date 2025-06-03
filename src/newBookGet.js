@@ -21,15 +21,16 @@ const main = async () => {
   // consider const page
   let page;
 
-  const bookID = 37970853;
+  const bookID = 48484;
 
   while (retries < maxRetries) {
     try {
       const url = "https://www.goodreads.com/book/show/" + bookID;
       page = await browser.newPage();
       await page.goto(url);
+      await page.waitForNetworkIdle();
       await page.content();
-      // await page.waitForNetworkIdle();
+
       // await page.waitForSelector('script[type="application/ld+json"]');
 
       // testing
