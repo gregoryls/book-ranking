@@ -18,37 +18,44 @@ const main = async () => {
   // consider const page
   let page;
 
-  // while (retries < maxRetries) {
-  //   try {
-  //     let bookID;
-  //     bookList.forEach((book) => {
-  //       if (book["Date Read"]) bookID = book["Book Id"];
-  //     });
+  while (retries < maxRetries) {
+    try {
+      let bookID;
 
-  //     const url = "https://www.goodreads.com/review/edit/" + bookID;
-  //     page = await browser.newPage();
-  //     await page.goto(url);
+      // foreach does not support async, so use discrete for...of loop
+      for (const book of bookList) {
+        if (book["Date Read"]) {
+          bookID = book["Book Id"];
+        } else {
+          // skip unread books
+          continue;
+        }
+      }
 
-  //     // XPath to find link with 'Review' text content
-  //     const [reviewLink] = await page.$x("//a[text()='Review']");
-  //     await reviewLink.click();
-  //     await page.waitForNavigation({ waitUntil: "networkidle0" });
+      const url = "https://www.goodreads.com/review/edit/" + bookID;
+      page = await browser.newPage();
+      await page.goto(url);
 
-  //     // If successful, break out of the loop
-  //     break;
-  //   } catch (error) {
-  //     console.error(
-  //       `Error fetching data for bookID ${bookID}: ${error.message}`,
-  //     );
-  //   } finally {
-  //     await page.close();
-  //     await browser.close();
-  //   }
+      // XPath to find link with 'Review' text content
+      const [reviewLink] = await page.$x("//a[text()='Review']");
+      await reviewLink.click();
+      await page.waitForNavigation({ waitUntil: "networkidle0" });
 
-  //   // Increment retries and wait for a short time before the next attempt
-  //   retries += 1;
-  //   await new Promise((resolve) => setTimeout(resolve, 1000));
-  // }
+      // If successful, break out of the loop
+      // break;
+    } catch (error) {
+      console.error(
+        `Error fetching data for bookID ${bookID}: ${error.message}`,
+      );
+    } finally {
+      await page.close();
+      await browser.close();
+    }
+
+    // Increment retries and wait for a short time before the next attempt
+    retries += 1;
+    await new Promise((resolve) => setTimeout(resolve, 1000));
+  }
 };
 
 main();
