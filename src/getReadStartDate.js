@@ -1,9 +1,8 @@
 import fs, { writeFileSync } from "fs";
-import puppeteer from "puppeteer";
+import * as puppeteer from "puppeteer";
 import bookList from "./bookList.json" with { type: "json" };
 
 const maxRetries = 3;
-// todo duplicate entries check
 
 const main = async () => {
   const userDataDir = "./puppeteerProfile";
@@ -27,6 +26,7 @@ const main = async () => {
         const page = await browser.newPage();
         await page.goto(url);
 
+        console.log("typeof page.$x:", typeof page.$x);
         const [reviewLink] = await page.$x("//a[text()='Review']");
         await reviewLink.click();
         await page.waitForNavigation({ waitUntil: "networkidle0" });
