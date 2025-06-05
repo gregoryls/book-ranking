@@ -15,46 +15,33 @@ const main = async () => {
   });
   let retries = 0;
 
-  // consider const page
-  let page;
+  for (const book of bookList) {
+  if (!book["Date Read"]) continue;
 
+  let retries = 0;
   while (retries < maxRetries) {
     try {
-      let bookID;
+      const bookID = book["Book Id"];
+      const url = "https://www.goodreads.com/review/edit/" + bookID;
+      
+      const page = await browser.newPage();
+      await page.goto(url);
 
-      // foreach does not support async, so use discrete for...of loop
-      for (const book of bookList) {
-        if (book["Date Read"]) {
-          bookID = book["Book Id"];
-          console.log(bookID);
+      const [reviewLink] = await page.$x("//a[text()='Review']");
+      await reviewLink.click();
+      await page.waitForNavigation({ waitUntil: "networkidle0" });
 
-          const url = "https://www.goodreads.com/review/edit/" + bookID;
-          page = await browser.newPage();
-          await page.goto(url);
+      // await page.close();
 
-          // XPath to find link with 'Review' text content
-          const [reviewLink] = await page.$x("//a[text()='Review']");
-          await reviewLink.click();
-          await page.waitForNavigation({ waitUntil: "networkidle0" });
-
-          // If successful, break out of the loop
-          // break;
-        } else {
-          // skip unread books
-          continue;
-        }
-      }
+      // break on success
+      break; 
     } catch (error) {
-      console.error(error.message);
-    } finally {
-      await page.close();
-      await browser.close();
+      console.error(`Failed for book ${book["Book Id"]}:`, error.message);
+      retries += 1;
+      await new Promise(res => setTimeout(res, 1000));
     }
-
-    // Increment retries and wait for a short time before the next attempt
-    retries += 1;
-    await new Promise((resolve) => setTimeout(resolve, 1000));
   }
-};
+}
+
 
 main();
