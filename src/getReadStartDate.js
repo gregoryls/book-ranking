@@ -26,27 +26,26 @@ const main = async () => {
       for (const book of bookList) {
         if (book["Date Read"]) {
           bookID = book["Book Id"];
+          console.log(bookID);
+
+          const url = "https://www.goodreads.com/review/edit/" + bookID;
+          page = await browser.newPage();
+          await page.goto(url);
+
+          // XPath to find link with 'Review' text content
+          const [reviewLink] = await page.$x("//a[text()='Review']");
+          await reviewLink.click();
+          await page.waitForNavigation({ waitUntil: "networkidle0" });
+
+          // If successful, break out of the loop
+          // break;
         } else {
           // skip unread books
           continue;
         }
       }
-
-      const url = "https://www.goodreads.com/review/edit/" + bookID;
-      page = await browser.newPage();
-      await page.goto(url);
-
-      // XPath to find link with 'Review' text content
-      const [reviewLink] = await page.$x("//a[text()='Review']");
-      await reviewLink.click();
-      await page.waitForNavigation({ waitUntil: "networkidle0" });
-
-      // If successful, break out of the loop
-      // break;
     } catch (error) {
-      console.error(
-        `Error fetching data for bookID ${bookID}: ${error.message}`,
-      );
+      console.error(error.message);
     } finally {
       await page.close();
       await browser.close();
