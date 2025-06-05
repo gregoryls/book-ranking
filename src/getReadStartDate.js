@@ -16,32 +16,32 @@ const main = async () => {
   let retries = 0;
 
   for (const book of bookList) {
-  if (!book["Date Read"]) continue;
+    if (!book["Date Read"]) continue;
 
-  let retries = 0;
-  while (retries < maxRetries) {
-    try {
-      const bookID = book["Book Id"];
-      const url = "https://www.goodreads.com/review/edit/" + bookID;
-      
-      const page = await browser.newPage();
-      await page.goto(url);
+    let retries = 0;
+    while (retries < maxRetries) {
+      try {
+        const bookID = book["Book Id"];
+        const url = "https://www.goodreads.com/review/edit/" + bookID;
 
-      const [reviewLink] = await page.$x("//a[text()='Review']");
-      await reviewLink.click();
-      await page.waitForNavigation({ waitUntil: "networkidle0" });
+        const page = await browser.newPage();
+        await page.goto(url);
 
-      // await page.close();
+        const [reviewLink] = await page.$x("//a[text()='Review']");
+        await reviewLink.click();
+        await page.waitForNavigation({ waitUntil: "networkidle0" });
 
-      // break on success
-      break; 
-    } catch (error) {
-      console.error(`Failed for book ${book["Book Id"]}:`, error.message);
-      retries += 1;
-      await new Promise(res => setTimeout(res, 1000));
+        // await page.close();
+
+        // break on success
+        // break;
+      } catch (error) {
+        console.error(`Failed for book ${book["Book Id"]}:`, error.message);
+        retries += 1;
+        await new Promise((res) => setTimeout(res, 1000));
+      }
     }
   }
-}
-
+};
 
 main();
