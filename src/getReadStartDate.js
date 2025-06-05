@@ -27,8 +27,11 @@ const main = async () => {
         await page.goto(url);
 
         console.log("typeof page.$x:", typeof page.$x);
-        const [reviewLink] = await page.$x("//a[text()='Review']");
+        const reviewLink = await page.waitForSelector(
+          "::-p-xpath(//a[text()='Review'])",
+        );
         await reviewLink.click();
+
         await page.waitForNavigation({ waitUntil: "networkidle0" });
 
         // await page.close();
