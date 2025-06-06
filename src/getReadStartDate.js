@@ -26,7 +26,6 @@ const main = async () => {
         const page = await browser.newPage();
         await page.goto(url);
 
-        console.log("typeof page.$x:", typeof page.$x);
         const reviewLink = await page.waitForSelector(
           "::-p-xpath(//a[text()='Review'])",
         );
@@ -34,7 +33,14 @@ const main = async () => {
 
         await page.waitForNavigation({ waitUntil: "networkidle0" });
 
+        const dateDiv = await page.waitForSelector(
+          "::-p-xpath(//span[text()='Started Reading']/parent::div)",
+        );
+
         // await page.close();
+
+        // pause script here. Testing only
+        await new Promise(() => {});
 
         // break on success
         // break;
