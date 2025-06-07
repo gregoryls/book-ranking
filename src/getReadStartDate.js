@@ -32,15 +32,15 @@ const main = async () => {
         await reviewLink.click();
 
         await page.waitForNavigation({ waitUntil: "networkidle0" });
-        // await page.content();
 
-        const spans = await page.$$eval("span", (els) =>
-          els.map((el) => el.textContent.trim()),
-        );
-        console.log(spans);
+        // const spans = await page.$$eval("span", (els) =>
+        //   els.map((el) => el.textContent.trim()),
+        // );
+        // console.log(spans);
 
+        // strip known newline characters from span with normalize-space(.)
         const dateDiv = await page.waitForSelector(
-          "::-p-xpath(//span[text()='Started Reading']/parent::div)",
+          "::-p-xpath(//span[normalize-space(.)='Started Reading']/parent::div)",
         );
 
         const dateText = await dateDiv.evaluate((el) => el.textContent.trim());
