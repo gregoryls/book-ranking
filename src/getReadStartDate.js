@@ -43,8 +43,12 @@ const main = async () => {
           "::-p-xpath(//span[normalize-space(.)='Started Reading']/parent::div)",
         );
 
-        const dateText = await dateDiv.evaluate((el) => el.textContent.trim());
-        console.log(dateText);
+        const fullDateText = await dateDiv.evaluate((el) =>
+          el.textContent.trim(),
+        );
+
+        // Date comes out 'January 01, 2000'. Note endash character from goodreads format
+        const splitDate = fullDateText.split("\n–");
 
         // await page.close();
 
