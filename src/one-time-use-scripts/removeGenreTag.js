@@ -1,5 +1,5 @@
 import { writeFileSync } from "fs";
-import bookList from "./bookList.json" with { type: "json" };
+import bookList from "../bookList.json" with { type: "json" };
 
 const tagToDelete = "Audiobook";
 

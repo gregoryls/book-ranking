@@ -1,5 +1,5 @@
 import { writeFileSync } from "fs";
-import bookList from "./bookList.json" with { type: "json" };
+import bookList from "../bookList.json" with { type: "json" };
 
 bookList.forEach((book) => {
   if (!Object.hasOwn(book, "readingData")) {
