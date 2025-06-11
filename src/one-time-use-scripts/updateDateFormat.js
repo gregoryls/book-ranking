@@ -14,4 +14,4 @@ bookList.forEach((book) => {
   }
 });
 
-// writeFileSync("src/testreadingData.json", JSON.stringify(bookList, null, 2));
+writeFileSync("src/testDateChange.json", JSON.stringify(bookList, null, 2));
