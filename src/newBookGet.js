@@ -95,6 +95,7 @@ const main = async () => {
 
           genreTags: genreText || "",
           exactRanking: "",
+          "Date Added": "",
           readingData: [
             {
               started: "",
