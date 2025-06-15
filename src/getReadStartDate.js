@@ -49,9 +49,8 @@ const main = async () => {
 
         // Date comes out 'January 01, 2000'. Note endash character from goodreads format
         const splitDateText = fullDateText.split("\n–");
-        const dateObj = new Date(splitDateText);
+        const dateObj = new Date(splitDateText[0]);
         const dateISO = dateObj.toISOString().split("T")[0];
-        console.log(dateISO);
 
         // await page.close();
 
