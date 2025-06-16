@@ -52,6 +52,8 @@ const main = async () => {
         const dateObj = new Date(splitDateText[0]);
         const dateISO = dateObj.toISOString().split("T")[0];
 
+        book.readingData[0].started = dateISO;
+
         // await page.close();
 
         // pause script here. Testing only
