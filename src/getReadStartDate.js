@@ -16,6 +16,7 @@ const main = async () => {
 
   for (const book of bookList) {
     if (!book["Date Read"]) continue;
+    if (book["Date Read"].match(/\d{4}-\d{2}-\d{2}/)) continue;
 
     let retries = 0;
     while (retries < maxRetries) {
