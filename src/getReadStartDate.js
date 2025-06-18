@@ -35,11 +35,6 @@ const main = async () => {
 
         await page.waitForNavigation({ waitUntil: "networkidle0" });
 
-        // const spans = await page.$$eval("span", (els) =>
-        //   els.map((el) => el.textContent.trim()),
-        // );
-        // console.log(spans);
-
         // strip known newline characters from span with normalize-space(.)
         const dateDiv = await page.waitForSelector(
           "::-p-xpath(//span[normalize-space(.)='Started Reading']/parent::div)",
