@@ -45,9 +45,10 @@ const main = async () => {
         );
 
         // Date comes out 'January 01, 2000'. Note endash character from goodreads format
-        const splitDateText = fullDateText.split("\n–");
+        const splitDateText = fullDateText.split("–");
         const dateObj = new Date(splitDateText[0]);
         const dateISO = dateObj.toISOString().split("T")[0];
+        console.log(splitDateText, dateObj, dateISO);
 
         book.readingData[0].started = dateISO;
 
@@ -57,7 +58,8 @@ const main = async () => {
         await new Promise(() => {});
 
         // break on success
-        // break;
+        await page.close();
+        break;
       } catch (error) {
         console.error(`Failed for book ${book["Book Id"]}:`, error.message);
         retries += 1;
