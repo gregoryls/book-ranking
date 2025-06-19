@@ -47,6 +47,11 @@ const main = async () => {
         const splitDateText = fullDateText.split("–");
 
         const dateObj = new Date(splitDateText[0].trim());
+        if (isNaN(dateObj)) {
+          throw new Error(
+            `Invalid date format for book ${book.Title} (date: ${splitDateText[0].trim()})`,
+          );
+        }
         const dateISO = dateObj.toISOString().split("T")[0];
 
         book.readingData[0].started = dateISO;
