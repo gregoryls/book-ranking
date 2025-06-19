@@ -16,7 +16,7 @@ const main = async () => {
   for (const book of bookList) {
     if (!book["Date Read"]) continue;
     //check for YYYY-MM-DD format if a book has already been processed
-    if (/^\d{4}-\d{2}-\d{2}$/.test(book["Date Read"])) continue;
+    // if (/^\d{4}-\d{2}-\d{2}$/.test(book["Date Read"])) continue;
 
     let retries = 0;
     while (retries < maxRetries) {
@@ -45,9 +45,9 @@ const main = async () => {
 
         // Date comes out 'January 01, 2000'. Note endash character from goodreads format
         const splitDateText = fullDateText.split("–");
-        const dateObj = new Date(splitDateText[0]);
+
+        const dateObj = new Date(splitDateText[0].trim());
         const dateISO = dateObj.toISOString().split("T")[0];
-        console.log(splitDateText, dateObj, dateISO);
 
         book.readingData[0].started = dateISO;
 
