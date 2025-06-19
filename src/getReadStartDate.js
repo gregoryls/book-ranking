@@ -12,7 +12,6 @@ const main = async () => {
     slowMo: 100,
     userDataDir,
   });
-  let retries = 0;
 
   for (const book of bookList) {
     if (!book["Date Read"]) continue;
