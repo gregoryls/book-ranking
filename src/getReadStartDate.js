@@ -10,13 +10,7 @@ const main = async () => {
 
   const browser = await puppeteer.launch({
     headless: false,
-    // slowMo: 100,
     userDataDir,
-    // args: ["--window-size=1280,800"],
-    // defaultViewport: {
-    //   width: 1280,
-    //   height: 800,
-    // },
   });
 
   let processed = 0;
@@ -65,14 +59,13 @@ const main = async () => {
 
         book.readingData[0].started = dateISO;
 
-        // await page.close();
-
         // pause script here. Testing only
         // await new Promise(() => {});
 
         // break on success
         await page.close();
-        // console.log(`writing book: ${book.bookID}`);
+
+        // batch file writing into groups of 50 to save partial progress
         processed++;
         console.log(processed);
         if (processed % 50 === 0) {
