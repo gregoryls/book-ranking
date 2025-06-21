@@ -9,14 +9,14 @@ const main = async () => {
   const userDataDir = "./puppeteerProfile";
 
   const browser = await puppeteer.launch({
-    // headless: false,
+    headless: false,
     // slowMo: 100,
     userDataDir,
-    args: ["--window-size=1280,800"],
-    defaultViewport: {
-      width: 1280,
-      height: 800,
-    },
+    // args: ["--window-size=1280,800"],
+    // defaultViewport: {
+    //   width: 1280,
+    //   height: 800,
+    // },
   });
 
   let processed = 0;
