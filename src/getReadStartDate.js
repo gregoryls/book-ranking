@@ -8,8 +8,8 @@ const main = async () => {
   const userDataDir = "./puppeteerProfile";
 
   const browser = await puppeteer.launch({
-    headless: false,
-    slowMo: 100,
+    // headless: false,
+    // slowMo: 100,
     userDataDir,
   });
 
@@ -30,6 +30,7 @@ const main = async () => {
         const reviewLink = await page.waitForSelector(
           "::-p-xpath(//a[text()='Review'])",
         );
+
         await reviewLink.click();
 
         await page.waitForNavigation({ waitUntil: "networkidle0" });
@@ -59,10 +60,11 @@ const main = async () => {
         // await page.close();
 
         // pause script here. Testing only
-        await new Promise(() => {});
+        // await new Promise(() => {});
 
         // break on success
         await page.close();
+        console.log(`writing book: ${book.bookID}`);
         break;
       } catch (error) {
         console.error(`Failed for book ${book["Book Id"]}:`, error.message);
