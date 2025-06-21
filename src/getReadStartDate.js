@@ -2,13 +2,14 @@ import fs, { writeFileSync } from "fs";
 import * as puppeteer from "puppeteer";
 import bookList from "./bookList.json" with { type: "json" };
 
+class MissingDateError extends Error {}
 const maxRetries = 3;
 
 const main = async () => {
   const userDataDir = "./puppeteerProfile";
 
   const browser = await puppeteer.launch({
-    // headless: false,
+    headless: false,
     // slowMo: 100,
     userDataDir,
   });
@@ -51,7 +52,7 @@ const main = async () => {
 
         const dateObj = new Date(splitDateText[0].trim());
         if (isNaN(dateObj)) {
-          throw new Error(
+          throw new MissingDateError(
             `Invalid date format for book ${book.Title} (date: ${splitDateText[0].trim()})`,
           );
         }
@@ -78,6 +79,11 @@ const main = async () => {
         }
         break;
       } catch (error) {
+        if (error instanceof MissingDateError) {
+          // skip retry for malformed dates - almost always because there is no start date present
+          console.warn(`Skipping book ${book.Title}: ${error.message}`);
+          break;
+        }
         console.error(`Failed for book ${book["Book Id"]}:`, error.message);
         retries += 1;
         await new Promise((res) => setTimeout(res, 1000));
