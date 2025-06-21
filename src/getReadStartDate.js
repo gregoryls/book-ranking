@@ -68,6 +68,7 @@ const main = async () => {
         await page.close();
         // console.log(`writing book: ${book.bookID}`);
         processed++;
+        console.log(processed);
         if (processed % 50 === 0) {
           writeFileSync(
             "./src/startDateDataUpdated.json",
