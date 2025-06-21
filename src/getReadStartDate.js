@@ -84,6 +84,7 @@ const main = async () => {
           console.warn(`Skipping book ${book.Title}: ${error.message}`);
           break;
         }
+
         console.error(`Failed for book ${book["Book Id"]}:`, error.message);
         retries += 1;
         await new Promise((res) => setTimeout(res, 1000));
