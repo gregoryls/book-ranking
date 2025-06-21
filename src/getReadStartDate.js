@@ -13,6 +13,8 @@ const main = async () => {
     userDataDir,
   });
 
+  let processed = 0;
+
   for (const book of bookList) {
     if (!book["Date Read"]) continue;
     //check for YYYY-MM-DD format if a book has already been processed
@@ -64,7 +66,15 @@ const main = async () => {
 
         // break on success
         await page.close();
-        console.log(`writing book: ${book.bookID}`);
+        // console.log(`writing book: ${book.bookID}`);
+        processed++;
+        if (processed % 50 === 0) {
+          writeFileSync(
+            "./src/startDateDataUpdated.json",
+            JSON.stringify(bookList, null, 2),
+          );
+          console.log(`Progress written at ${processed} books.`);
+        }
         break;
       } catch (error) {
         console.error(`Failed for book ${book["Book Id"]}:`, error.message);
