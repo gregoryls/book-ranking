@@ -87,11 +87,13 @@ const main = async () => {
         if (error instanceof MissingDateError) {
           // skip retry for malformed dates - almost always because there is no start date present
           console.warn(`Skipping book ${book.Title}: ${error.message}`);
+          await page.close();
           break;
         }
 
         console.error(`Failed for book ${book["Book Id"]}:`, error.message);
         retries += 1;
+        await page.close();
         await new Promise((res) => setTimeout(res, 1000));
       }
     }
