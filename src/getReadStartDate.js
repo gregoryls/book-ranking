@@ -22,7 +22,7 @@ const main = async () => {
   for (const book of bookList) {
     if (!book["Date Read"]) continue;
     //check for YYYY-MM-DD format if a book has already been processed
-    if (/^\d{4}-\d{2}-\d{2}$/.test(book.readingData.started)) continue;
+    if (/^\d{4}-\d{2}-\d{2}$/.test(book.readingData[0].started)) continue;
 
     let retries = 0;
     let page;
