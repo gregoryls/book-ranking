@@ -4,6 +4,7 @@ import bookList from "./bookList.json" with { type: "json" };
 
 // disney 2 gettable
 // maybe 7 1/2 deaths
+// add unknown for missing dates
 
 class MissingDateError extends Error {}
 const maxRetries = 3;
