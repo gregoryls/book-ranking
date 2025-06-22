@@ -14,6 +14,7 @@ const main = async () => {
   });
 
   let processed = 0;
+  let page;
 
   for (const book of bookList) {
     if (!book["Date Read"]) continue;
@@ -21,12 +22,14 @@ const main = async () => {
     if (/^\d{4}-\d{2}-\d{2}$/.test(book.readingData.started)) continue;
 
     let retries = 0;
+    let page;
+
     while (retries < maxRetries) {
       try {
         const bookID = book["Book Id"];
         const url = "https://www.goodreads.com/review/edit/" + bookID;
 
-        const page = await browser.newPage();
+        page = await browser.newPage();
         await page.goto(url);
 
         const reviewLink = await page.waitForSelector(
