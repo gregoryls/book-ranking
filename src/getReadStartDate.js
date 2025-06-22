@@ -2,6 +2,9 @@ import fs, { writeFileSync } from "fs";
 import * as puppeteer from "puppeteer";
 import bookList from "./bookList.json" with { type: "json" };
 
+// disney 2 gettable
+// maybe 7 1/2 deaths
+
 class MissingDateError extends Error {}
 const maxRetries = 3;
 
