@@ -25,6 +25,9 @@ const main = async () => {
     //check for YYYY-MM-DD format if a book has already been processed
     if (/^\d{4}-\d{2}-\d{2}$/.test(book.readingData[0].started)) continue;
 
+    //skip processed, but missing data
+    if (book.readingData[0].started === "unknown") continue;
+
     let retries = 0;
     let page;
 
@@ -57,14 +60,16 @@ const main = async () => {
         const splitDateText = fullDateText.split("–");
 
         const dateObj = new Date(splitDateText[0].trim());
-        if (isNaN(dateObj)) {
-          throw new MissingDateError(
-            `Invalid date format for book ${book.Title} (date: ${splitDateText[0].trim()})`,
-          );
-        }
+
         const dateISO = dateObj.toISOString().split("T")[0];
 
-        book.readingData[0].started = dateISO;
+        // separate logic for assigning books that exist, but have no start date
+        if (isNaN(dateObj)) {
+          book.readingData[0].started = "unknown";
+          console.log(`Writing unknown for ${book.Title}`);
+        } else {
+          book.readingData[0].started = dateISO;
+        }
 
         // pause script here. Testing only
         // await new Promise(() => {});
