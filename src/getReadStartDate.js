@@ -109,5 +109,6 @@ const main = async () => {
     JSON.stringify(bookList, null, 2),
   );
 };
+console.log("script complete");
 
 main();
