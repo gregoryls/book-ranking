@@ -6,7 +6,6 @@ import bookList from "./bookList.json" with { type: "json" };
 // maybe 7 1/2 deaths
 // add unknown for missing dates
 
-class MissingDateError extends Error {}
 const maxRetries = 3;
 
 const main = async () => {
@@ -89,13 +88,6 @@ const main = async () => {
         }
         break;
       } catch (error) {
-        if (error instanceof MissingDateError) {
-          // skip retry for malformed dates - almost always because there is no start date present
-          console.warn(`Skipping book ${book.Title}: ${error.message}`);
-          await page.close();
-          break;
-        }
-
         console.error(`Failed for book ${book["Book Id"]}:`, error.message);
         retries += 1;
         await page.close();
