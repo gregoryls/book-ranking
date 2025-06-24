@@ -100,7 +100,7 @@ const main = async () => {
     "./src/startDateDataUpdated.json",
     JSON.stringify(bookList, null, 2),
   );
+  console.log("script complete");
 };
-console.log("script complete");
 
 main();
