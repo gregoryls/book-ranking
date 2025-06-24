@@ -57,19 +57,33 @@ const main = async () => {
 
         // Date comes out 'January 01, 2000'. Note endash character from goodreads format
         const splitDateText = fullDateText.split("–");
-        console.log(fullDateText, splitDateText);
 
         const dateObj = new Date(splitDateText[0].trim());
+
+        if (isNaN(dateObj)) {
+          book.readingData[0].started = "unknown";
+          console.log(`Writing unknown for ${book.Title}`);
+
+          await page.close();
+
+          // batch file writing into groups of 50 to save partial progress
+          processed++;
+          console.log(processed);
+          if (processed % 50 === 0) {
+            writeFileSync(
+              "./src/startDateDataUpdated.json",
+              JSON.stringify(bookList, null, 2),
+            );
+            console.log(`Progress written at ${processed} books.`);
+          }
+          break;
+        }
 
         const dateISO = dateObj.toISOString().split("T")[0];
 
         // separate logic for assigning books that exist, but have no start date
-        if (isNaN(dateObj)) {
-          book.readingData[0].started = "unknown";
-          console.log(`Writing unknown for ${book.Title}`);
-        } else {
-          book.readingData[0].started = dateISO;
-        }
+
+        book.readingData[0].started = dateISO;
 
         // pause script here. Testing only
         // await new Promise(() => {});
