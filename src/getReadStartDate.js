@@ -60,6 +60,7 @@ const main = async () => {
 
         const dateObj = new Date(splitDateText[0].trim());
 
+        // separate logic for unkown/malformed dates, otherwise breaks on ISO
         if (isNaN(dateObj)) {
           book.readingData[0].started = "unknown";
           console.log(`Writing unknown for ${book.Title}`);
