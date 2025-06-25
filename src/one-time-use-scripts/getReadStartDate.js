@@ -1,13 +1,15 @@
 import fs, { writeFileSync } from "fs";
 import * as puppeteer from "puppeteer";
-import bookList from "./bookList.json" with { type: "json" };
+import bookList from "../bookList.json" with { type: "json" };
 
 const maxRetries = 3;
 
 const main = async () => {
+  // goodreads reviews require being logged in to view as done via this script
   const userDataDir = "./puppeteerProfile";
 
   const browser = await puppeteer.launch({
+    // first xpath does not work with headless: true
     headless: false,
     userDataDir,
   });
@@ -76,8 +78,6 @@ const main = async () => {
         }
 
         const dateISO = dateObj.toISOString().split("T")[0];
-
-        // separate logic for assigning books that exist, but have no start date
 
         book.readingData[0].started = dateISO;
 
