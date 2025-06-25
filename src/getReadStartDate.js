@@ -2,11 +2,6 @@ import fs, { writeFileSync } from "fs";
 import * as puppeteer from "puppeteer";
 import bookList from "./bookList.json" with { type: "json" };
 
-// disney 2 gettable
-// maybe 7 1/2 deaths
-// add unknown for missing dates
-// 53152636, 421861, 36337550, 2295534
-
 const maxRetries = 3;
 
 const main = async () => {
