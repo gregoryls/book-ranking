@@ -24,7 +24,6 @@ const main = async () => {
     if (book.readingData[0].started === "unknown") continue;
 
     let retries = 0;
-    let page;
 
     while (retries < maxRetries) {
       try {
