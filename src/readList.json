@@ -68,12 +68,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fitness",
-      "Health",
-      "Nonfiction",
-      "Sports"
-    ],
+    "genreTags": ["Fitness", "Health", "Nonfiction", "Sports"],
     "readingData": [
       {
         "started": "2022-05-24",
@@ -1239,11 +1234,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Star Wars",
-      "Science Fiction",
-      "Fiction"
-    ],
+    "genreTags": ["Star Wars", "Science Fiction", "Fiction"],
     "readingData": [
       {
         "started": "2023-11-01",
@@ -1892,11 +1883,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Manga",
-      "Fantasy",
-      "Humor"
-    ],
+    "genreTags": ["Manga", "Fantasy", "Humor"],
     "readingData": [
       {
         "started": "2023-08-25",
@@ -2019,13 +2006,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Mystery",
-      "Cozy Mystery",
-      "Fiction",
-      "Halloween",
-      "Adult"
-    ],
+    "genreTags": ["Mystery", "Cozy Mystery", "Fiction", "Halloween", "Adult"],
     "readingData": [
       {
         "started": "2023-08-08",
@@ -2455,13 +2436,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Manga",
-      "Fiction",
-      "Adventure"
-    ],
+    "genreTags": ["Fantasy", "Light Novel", "Manga", "Fiction", "Adventure"],
     "readingData": [
       {
         "started": "2023-06-14",
@@ -2584,12 +2559,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Manga",
-      "Fiction"
-    ],
+    "genreTags": ["Fantasy", "Light Novel", "Manga", "Fiction"],
     "readingData": [
       {
         "started": "2023-06-12",
@@ -2625,11 +2595,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Fiction"
-    ],
+    "genreTags": ["Fantasy", "Light Novel", "Fiction"],
     "readingData": [
       {
         "started": "2023-06-10",
@@ -2836,13 +2802,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Fantasy",
-      "Light Novel",
-      "Fiction",
-      "Comics",
-      "Action"
-    ],
+    "genreTags": ["Fantasy", "Light Novel", "Fiction", "Comics", "Action"],
     "readingData": [
       {
         "started": "2023-06-01",
@@ -6677,11 +6637,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Music",
-      "Nonfiction",
-      "History"
-    ],
+    "genreTags": ["Music", "Nonfiction", "History"],
     "readingData": [
       {
         "started": "2022-11-07",
@@ -9926,13 +9882,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Manga",
-      "Comics",
-      "Fantasy",
-      "Pirates",
-      "Adventure"
-    ],
+    "genreTags": ["Manga", "Comics", "Fantasy", "Pirates", "Adventure"],
     "readingData": [
       {
         "started": "2022-02-08",
@@ -12871,12 +12821,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Zombies",
-      "Horror",
-      "Science Fiction",
-      "Space"
-    ],
+    "genreTags": ["Zombies", "Horror", "Science Fiction", "Space"],
     "readingData": [
       {
         "started": "2021-06-29",
@@ -14299,10 +14244,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science",
-      "Nonfiction"
-    ],
+    "genreTags": ["Science", "Nonfiction"],
     "readingData": [
       {
         "started": "2021-03-03",
@@ -20641,12 +20583,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Science Fiction",
-      "Fiction",
-      "Dystopia",
-      "20th Century"
-    ],
+    "genreTags": ["Science Fiction", "Fiction", "Dystopia", "20th Century"],
     "readingData": [
       {
         "started": "2019-08-27",
@@ -26681,12 +26618,7 @@
     "Private Notes": "",
     "Read Count": 1,
     "Owned Copies": 0,
-    "genreTags": [
-      "Nonfiction",
-      "Technology",
-      "Politics",
-      "21st Century"
-    ],
+    "genreTags": ["Nonfiction", "Technology", "Politics", "21st Century"],
     "readingData": [
       {
         "started": "2018-12-14",
@@ -27216,6 +27148,1264 @@
         "finished": "2018-08-08",
         "format": "",
         "rating": 2,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 18713259,
+    "Title": "Worm (Parahumans, #1)",
+    "Author": "Wildbow",
+    "Author l-f": "Wildbow, Wildbow",
+    "Additional Authors": "",
+    "ISBN": "",
+    "ISBN13": null,
+    "My Rating": 5,
+    "Average Rating": 4.61,
+    "Publisher": "https://parahumans.wordpress.com",
+    "Binding": "ebook",
+    "Number of Pages": 6680,
+    "Year Published": 2013,
+    "Original Publication Year": 2013,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Science Fiction",
+      "Superheroes",
+      "Urban Fantasy",
+      "Horror",
+      "Dystopia"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 18512,
+    "Title": "The Return of the King (The Lord of the Rings, #3)",
+    "Author": "J.R.R. Tolkien",
+    "Author l-f": "Tolkien, J.R.R.",
+    "Additional Authors": "Maria Skibniewska",
+    "ISBN": "",
+    "ISBN13": 9780261102378,
+    "My Rating": 3,
+    "Average Rating": 4.56,
+    "Publisher": "Del Rey",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 404,
+    "Year Published": 2003,
+    "Original Publication Year": 1955,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Adventure",
+      "Classics",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Epic Fantasy"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 3,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 15241,
+    "Title": "The Two Towers (The Lord of the Rings, #2)",
+    "Author": "J.R.R. Tolkien",
+    "Author l-f": "Tolkien, J.R.R.",
+    "Additional Authors": "Peter S. Beagle, Дж.Р.Р. Толкін, Аліна Немірова, П. Риженко",
+    "ISBN": "0618346260",
+    "ISBN13": 9780618346264,
+    "My Rating": 3,
+    "Average Rating": 4.48,
+    "Publisher": "Houghton Mifflin",
+    "Binding": "Paperback",
+    "Number of Pages": 322,
+    "Year Published": 1993,
+    "Original Publication Year": 1954,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Adventure",
+      "Classics",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Epic Fantasy"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 3,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 34,
+    "Title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+    "Author": "J.R.R. Tolkien",
+    "Author l-f": "Tolkien, J.R.R.",
+    "Additional Authors": "Francis Ledoux, Maria Skibniewska",
+    "ISBN": "0618346252",
+    "ISBN13": 9780618346257,
+    "My Rating": 3,
+    "Average Rating": 4.39,
+    "Publisher": "Houghton Mifflin Harcourt",
+    "Binding": "Paperback",
+    "Number of Pages": 398,
+    "Year Published": 2003,
+    "Original Publication Year": 1954,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Classics",
+      "Fiction",
+      "Adventure",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Epic Fantasy"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 3,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 13890,
+    "Title": "A Crown of Swords (The Wheel of Time, #7)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "0812550285",
+    "ISBN13": 9780812550283,
+    "My Rating": 4,
+    "Average Rating": 4.06,
+    "Publisher": "Tor Books",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 880,
+    "Year Published": 1997,
+    "Original Publication Year": 1996,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Epic"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 35231,
+    "Title": "Lord of Chaos (The Wheel of Time, #6)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "0812513754",
+    "ISBN13": 9780812513752,
+    "My Rating": 4,
+    "Average Rating": 4.18,
+    "Publisher": "Tom Doherty Associates",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 1011,
+    "Year Published": 1995,
+    "Original Publication Year": 1994,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Epic"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 13895,
+    "Title": "The Fires of Heaven (The Wheel of Time, #5)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "1857232097",
+    "ISBN13": 9781857232097,
+    "My Rating": 4,
+    "Average Rating": 4.19,
+    "Publisher": "Orbit",
+    "Binding": "Paperback",
+    "Number of Pages": 912,
+    "Year Published": 1994,
+    "Original Publication Year": 1993,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Epic"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 9539,
+    "Title": "The Shadow Rising (The Wheel of Time, #4)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "0812513738",
+    "ISBN13": 9780812513738,
+    "My Rating": 4,
+    "Average Rating": 4.27,
+    "Publisher": "Tom Doherty Tor Fantasy",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 1007,
+    "Year Published": 1993,
+    "Original Publication Year": 1992,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 233649,
+    "Title": "The Great Hunt (The Wheel of Time #2)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "0812517725",
+    "ISBN13": 9780812517729,
+    "My Rating": 4,
+    "Average Rating": 4.26,
+    "Publisher": "Tor",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 705,
+    "Year Published": 1991,
+    "Original Publication Year": 1990,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 34897,
+    "Title": "The Dragon Reborn (The Wheel of Time #3)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "0765305119",
+    "ISBN13": 9780765305114,
+    "My Rating": 4,
+    "Average Rating": 4.27,
+    "Publisher": "Tor Fantasy",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 624,
+    "Year Published": 2002,
+    "Original Publication Year": 1991,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 228665,
+    "Title": "The Eye of the World (The Wheel of Time, #1)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "0812511816",
+    "ISBN13": 9780812511819,
+    "My Rating": 4,
+    "Average Rating": 4.19,
+    "Publisher": "Tor Books",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 800,
+    "Year Published": 1990,
+    "Original Publication Year": 1990,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 16065004,
+    "Title": "Shadows of Self (Mistborn, #5)",
+    "Author": "Brandon Sanderson",
+    "Author l-f": "Sanderson, Brandon",
+    "Additional Authors": "",
+    "ISBN": "0765378558",
+    "ISBN13": 9780765378552,
+    "My Rating": 5,
+    "Average Rating": 4.28,
+    "Publisher": "Tor Books",
+    "Binding": "Hardcover",
+    "Number of Pages": 383,
+    "Year Published": 2015,
+    "Original Publication Year": 2015,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Steampunk",
+      "High Fantasy",
+      "Epic Fantasy",
+      "Adult"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 10803121,
+    "Title": "The Alloy of Law (Mistborn, #4)",
+    "Author": "Brandon Sanderson",
+    "Author l-f": "Sanderson, Brandon",
+    "Additional Authors": "",
+    "ISBN": "0765330423",
+    "ISBN13": 9780765330420,
+    "My Rating": 5,
+    "Average Rating": 4.21,
+    "Publisher": "Tor Books",
+    "Binding": "Hardcover",
+    "Number of Pages": 332,
+    "Year Published": 2011,
+    "Original Publication Year": 2011,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Steampunk",
+      "High Fantasy",
+      "Epic Fantasy",
+      "Adult"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 2767793,
+    "Title": "The Hero of Ages (Mistborn, #3)",
+    "Author": "Brandon Sanderson",
+    "Author l-f": "Sanderson, Brandon",
+    "Additional Authors": "",
+    "ISBN": "0765316897",
+    "ISBN13": 9780765316899,
+    "My Rating": 5,
+    "Average Rating": 4.53,
+    "Publisher": "Tor Books",
+    "Binding": "Hardcover",
+    "Number of Pages": 572,
+    "Year Published": 2008,
+    "Original Publication Year": 2008,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Adult",
+      "Magic"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 68429,
+    "Title": "The Well of Ascension (Mistborn, #2)",
+    "Author": "Brandon Sanderson",
+    "Author l-f": "Sanderson, Brandon",
+    "Additional Authors": "",
+    "ISBN": "0765316889",
+    "ISBN13": 9780765316882,
+    "My Rating": 5,
+    "Average Rating": 4.38,
+    "Publisher": "Tor Books",
+    "Binding": "Hardcover",
+    "Number of Pages": 578,
+    "Year Published": 2007,
+    "Original Publication Year": 2007,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Adult",
+      "Magic"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 68428,
+    "Title": "The Final Empire (Mistborn, #1)",
+    "Author": "Brandon Sanderson",
+    "Author l-f": "Sanderson, Brandon",
+    "Additional Authors": "",
+    "ISBN": "",
+    "ISBN13": 9780765311788,
+    "My Rating": 5,
+    "Average Rating": 4.48,
+    "Publisher": "Tor Books",
+    "Binding": "Hardcover",
+    "Number of Pages": 537,
+    "Year Published": 2006,
+    "Original Publication Year": 2006,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "High Fantasy",
+      "Epic Fantasy",
+      "Adult",
+      "Magic"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 10664113,
+    "Title": "A Dance with Dragons (A Song of Ice and Fire, #5)",
+    "Author": "George R.R. Martin",
+    "Author l-f": "Martin, George R.R.",
+    "Additional Authors": "",
+    "ISBN": "",
+    "ISBN13": 9780553582017,
+    "My Rating": 4,
+    "Average Rating": 4.33,
+    "Publisher": "Bantam",
+    "Binding": "Kindle Edition",
+    "Number of Pages": 1125,
+    "Year Published": 2011,
+    "Original Publication Year": 2011,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Dragons",
+      "Adult"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 13497,
+    "Title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+    "Author": "George R.R. Martin",
+    "Author l-f": "Martin, George R.R.",
+    "Additional Authors": "",
+    "ISBN": "055358202X",
+    "ISBN13": 9780553582024,
+    "My Rating": 4,
+    "Average Rating": 4.16,
+    "Publisher": "Bantam Books",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 1060,
+    "Year Published": 2011,
+    "Original Publication Year": 2005,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Adult",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 62291,
+    "Title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+    "Author": "George R.R. Martin",
+    "Author l-f": "Martin, George R.R.",
+    "Additional Authors": "",
+    "ISBN": "055357342X",
+    "ISBN13": 9780553573428,
+    "My Rating": 4,
+    "Average Rating": 4.54,
+    "Publisher": "Bantam",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 1177,
+    "Year Published": 2003,
+    "Original Publication Year": 2000,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "Science Fiction Fantasy",
+      "High Fantasy",
+      "Adult"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 10572,
+    "Title": "A Clash of Kings  (A Song of Ice and Fire, #2)",
+    "Author": "George R.R. Martin",
+    "Author l-f": "Martin, George R.R.",
+    "Additional Authors": "",
+    "ISBN": "0553381695",
+    "ISBN13": 9780553381696,
+    "My Rating": 4,
+    "Average Rating": 4.42,
+    "Publisher": "Bantam",
+    "Binding": "Paperback",
+    "Number of Pages": 784,
+    "Year Published": 2002,
+    "Original Publication Year": 1998,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Adult",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 13496,
+    "Title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+    "Author": "George R.R. Martin",
+    "Author l-f": "Martin, George R.R.",
+    "Additional Authors": "",
+    "ISBN": "0553588486",
+    "ISBN13": 9780553588484,
+    "My Rating": 4,
+    "Average Rating": 4.44,
+    "Publisher": "Bantam",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 835,
+    "Year Published": 2005,
+    "Original Publication Year": 1996,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Adult",
+      "Science Fiction Fantasy",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 186074,
+    "Title": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+    "Author": "Patrick Rothfuss",
+    "Author l-f": "Rothfuss, Patrick",
+    "Additional Authors": "",
+    "ISBN": "075640407X",
+    "ISBN13": 9780756404079,
+    "My Rating": 5,
+    "Average Rating": 4.52,
+    "Publisher": "Penguin Group DAW",
+    "Binding": "Hardcover",
+    "Number of Pages": 662,
+    "Year Published": 2007,
+    "Original Publication Year": 2007,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Magic",
+      "Science Fiction Fantasy",
+      "Adult",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 1215032,
+    "Title": "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+    "Author": "Patrick Rothfuss",
+    "Author l-f": "Rothfuss, Patrick",
+    "Additional Authors": "",
+    "ISBN": "0756404738",
+    "ISBN13": 9780756404734,
+    "My Rating": 5,
+    "Average Rating": 4.55,
+    "Publisher": "DAW Books",
+    "Binding": "Hardcover",
+    "Number of Pages": 994,
+    "Year Published": 2011,
+    "Original Publication Year": 2011,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Magic",
+      "Science Fiction Fantasy",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 944076,
+    "Title": "Last Argument of Kings (The First Law, #3)",
+    "Author": "Joe Abercrombie",
+    "Author l-f": "Abercrombie, Joe",
+    "Additional Authors": "",
+    "ISBN": "0575077905",
+    "ISBN13": 9780575077904,
+    "My Rating": 4,
+    "Average Rating": 4.33,
+    "Publisher": "Gollancz",
+    "Binding": "Trade Paperback",
+    "Number of Pages": 536,
+    "Year Published": 2008,
+    "Original Publication Year": 2008,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "Dark Fantasy",
+      "High Fantasy",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 902715,
+    "Title": "Before They Are Hanged (The First Law, #2)",
+    "Author": "Joe Abercrombie",
+    "Author l-f": "Abercrombie, Joe",
+    "Additional Authors": "",
+    "ISBN": "0575077883",
+    "ISBN13": 9780575077881,
+    "My Rating": 4,
+    "Average Rating": 4.34,
+    "Publisher": "Gollancz",
+    "Binding": "Trade Paperback",
+    "Number of Pages": 441,
+    "Year Published": 2007,
+    "Original Publication Year": 2007,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Dark Fantasy",
+      "Adventure"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 944073,
+    "Title": "The Blade Itself (The First Law, #1)",
+    "Author": "Joe Abercrombie",
+    "Author l-f": "Abercrombie, Joe",
+    "Additional Authors": "",
+    "ISBN": "0575079797",
+    "ISBN13": 9780575079793,
+    "My Rating": 4,
+    "Average Rating": 4.21,
+    "Publisher": "Gollancz",
+    "Binding": "Paperback",
+    "Number of Pages": 515,
+    "Year Published": 2007,
+    "Original Publication Year": 2006,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Dark Fantasy",
+      "Adult"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 10644930,
+    "Title": "11/22/63",
+    "Author": "Stephen King",
+    "Author l-f": "King, Stephen",
+    "Additional Authors": "",
+    "ISBN": "1451627289",
+    "ISBN13": 9781451627282,
+    "My Rating": 5,
+    "Average Rating": 4.33,
+    "Publisher": "Scribner",
+    "Binding": "Hardcover",
+    "Number of Pages": 849,
+    "Year Published": 2011,
+    "Original Publication Year": 2011,
+    "Date Read": "",
+    "Date Added": "2020-03-27",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fiction",
+      "Historical Fiction",
+      "Science Fiction",
+      "Time Travel",
+      "Horror",
+      "Fantasy",
+      "Thriller"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 5,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 13891,
+    "Title": "Winter's Heart (The Wheel of Time, #9)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "081257558X",
+    "ISBN13": 9780812575583,
+    "My Rating": 4,
+    "Average Rating": 3.97,
+    "Publisher": "Tor Fantasy",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 780,
+    "Year Published": 2002,
+    "Original Publication Year": 2000,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Epic"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
+        "review": ""
+      }
+    ]
+  },
+  {
+    "Book Id": 140974,
+    "Title": "The Path of Daggers (The Wheel of Time, #8)",
+    "Author": "Robert Jordan",
+    "Author l-f": "Jordan, Robert",
+    "Additional Authors": "",
+    "ISBN": "0812550293",
+    "ISBN13": 9780812550290,
+    "My Rating": 4,
+    "Average Rating": 3.93,
+    "Publisher": "Tor Books",
+    "Binding": "Mass Market Paperback",
+    "Number of Pages": 685,
+    "Year Published": 1999,
+    "Original Publication Year": 1998,
+    "Date Read": "",
+    "Date Added": "2017-01-13",
+    "Bookshelves": "",
+    "Bookshelves with positions": "",
+    "Exclusive Shelf": "read",
+    "My Review": "",
+    "Spoiler": "",
+    "Private Notes": "",
+    "Read Count": 1,
+    "Owned Copies": 0,
+    "genreTags": [
+      "Fantasy",
+      "Fiction",
+      "Epic Fantasy",
+      "High Fantasy",
+      "Science Fiction Fantasy",
+      "Epic"
+    ],
+    "readingData": [
+      {
+        "started": "unknown",
+        "finished": "unknown",
+        "format": "",
+        "rating": 4,
         "review": ""
       }
     ]
