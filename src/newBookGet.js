@@ -5,7 +5,9 @@ import isbn10ToIsbn13 from "./isbnConversion.js";
 import testList from "./test.json" with { type: "json" };
 
 const maxRetries = 3;
-// todo duplicate entries check
+// todo
+// duplicate entries check
+// get book cover
 
 function normalizeISBN(isbn) {
   if (isbn === "") return "";
