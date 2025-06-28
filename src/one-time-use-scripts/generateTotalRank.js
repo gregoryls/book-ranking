@@ -1,7 +1,7 @@
 import { writeFileSync } from "fs";
-import bookList from "../bookList.json" with { type: "json" };
+import readList from "../readList.json" with { type: "json" };
 
-for (const book of bookList) {
+for (const book of readList) {
 }
 
 writeFileSync("src/testTotalRanks.json", JSON.stringify(bookList, null, 2));
