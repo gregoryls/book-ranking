@@ -18,6 +18,9 @@ function normalizeISBN(isbn) {
 
 function checkForDuplicate(ID, list) {
   for (const book of list) {
+    if (book["Book Id"] === ID) {
+      throw new DuplicateEntryError();
+    }
   }
 }
 const main = async () => {
@@ -30,6 +33,8 @@ const main = async () => {
   let page;
 
   const bookID = 48484;
+  checkForDuplicate(bookID, readList);
+  checkForDuplicate(bookID, unreadList);
 
   while (retries < maxRetries) {
     try {
