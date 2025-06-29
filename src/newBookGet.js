@@ -5,7 +5,14 @@ import readList from "./readList.json" with { type: "json" };
 import unreadList from "./unreadList.json" with { type: "json" };
 import testList from "./test.json" with { type: "json" };
 
-class DuplicateEntryError extends Error {}
+class DuplicateEntryError extends Error {
+  constructor(bookID) {
+    // error message
+    super(`Duplicate entry detected with ID: ${bookID}`);
+    // Error.name should be automatic, this is here for best practice
+    this.name = "DuplicateEntryError";
+  }
+}
 const maxRetries = 3;
 // todo
 // duplicate entries check
@@ -19,7 +26,7 @@ function normalizeISBN(isbn) {
 function checkForDuplicate(ID, list) {
   for (const book of list) {
     if (book["Book Id"] === ID) {
-      throw new DuplicateEntryError();
+      throw new DuplicateEntryError(ID);
     }
   }
 }
