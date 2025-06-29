@@ -24,17 +24,16 @@ function checkForDuplicate(ID, list) {
   }
 }
 const main = async () => {
+  const bookID = 6186357;
+  checkForDuplicate(bookID, readList);
+  checkForDuplicate(bookID, unreadList);
+
   let browser;
 
   browser = await puppeteer.launch({ headless: false, slowMo: 100 });
   let retries = 0;
 
-  // consider const page
   let page;
-
-  const bookID = 48484;
-  checkForDuplicate(bookID, readList);
-  checkForDuplicate(bookID, unreadList);
 
   while (retries < maxRetries) {
     try {
@@ -130,13 +129,9 @@ const main = async () => {
       // If successful, break out of the loop
       break;
     } catch (error) {
-      if (error instanceof DuplicateEntryError) {
-        console.error(`Duplicate entry detected with ID: ${bookID}`);
-      } else {
-        console.error(
-          `Error fetching data for bookID ${bookID}: ${error.message}`,
-        );
-      }
+      console.error(
+        `Error fetching data for bookID ${bookID}: ${error.message}`,
+      );
     } finally {
       await page.close();
       await browser.close();
