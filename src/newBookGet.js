@@ -1,9 +1,11 @@
 import fs, { writeFileSync } from "fs";
 import puppeteer from "puppeteer";
 import isbn10ToIsbn13 from "./isbnConversion.js";
-// import bookList from "./bookList.json" with { type: "json" };
+import readList from "./readList.json" with { type: "json" };
+import unreadList from "./unreadList.json" with { type: "json" };
 import testList from "./test.json" with { type: "json" };
 
+class DuplicateEntryError extends Error {}
 const maxRetries = 3;
 // todo
 // duplicate entries check
@@ -14,6 +16,10 @@ function normalizeISBN(isbn) {
   return isbn.length === 10 ? isbn10ToIsbn13(isbn) : isbn;
 }
 
+function checkForDuplicate(ID, list) {
+  for (const book of list) {
+  }
+}
 const main = async () => {
   let browser;
 
@@ -119,9 +125,13 @@ const main = async () => {
       // If successful, break out of the loop
       break;
     } catch (error) {
-      console.error(
-        `Error fetching data for bookID ${bookID}: ${error.message}`,
-      );
+      if (error instanceof DuplicateEntryError) {
+        console.error(`Duplicate entry detected with ID: ${bookID}`);
+      } else {
+        console.error(
+          `Error fetching data for bookID ${bookID}: ${error.message}`,
+        );
+      }
     } finally {
       await page.close();
       await browser.close();
