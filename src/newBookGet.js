@@ -1,4 +1,4 @@
-import { writeFileSync } from "fs";
+import { writeFile, writeFileSync } from "fs";
 import puppeteer from "puppeteer";
 import isbn10ToIsbn13 from "./isbnConversion.js";
 import readList from "./readList.json" with { type: "json" };
@@ -130,11 +130,14 @@ const main = async () => {
       // normalize outside evaluate() due to limited scope inside the browser
       newBook.ISBN13 = normalizeISBN(newBook.ISBN13);
 
-      if (newBook.imageURL) {
-        const response = await fetch(newBook.imageURL);
-        const buffer = Buffer.from(await response.arrayBuffer());
-        // mixing writeFile and sync below for no real reason other than to leave the example here
+      const response = await fetch(newBook.imageURL);
+      const buffer = Buffer.from(await response.arrayBuffer());
+      // mixing writeFile and sync below for no real reason other than to leave the example here
+      // fallback to title if ISBN is missing (usually obscure webnovels)
+      if (newBook.ISBN13) {
         await writeFile(`./src/covers/${newBook.ISBN13}.jpg`, buffer);
+      } else {
+        await writeFile(`/src/covers/${newBook.Title}.jpg`, buffer);
       }
 
       // bookList.push(newBook);
