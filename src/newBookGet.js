@@ -30,9 +30,13 @@ function checkForDuplicate(ID, list) {
   }
 }
 const main = async () => {
+  // manually enter ID here to begin
   const bookID = 6186357;
   checkForDuplicate(bookID, readList);
   checkForDuplicate(bookID, unreadList);
+
+  const date = new Date();
+  const dateISO = date.toISOString().split("T")[0];
 
   let browser;
 
@@ -95,6 +99,7 @@ const main = async () => {
         const yearMatch = publicationText.match(/\b\d{4}\b/);
 
         return {
+          "Book Id": bookID,
           Title:
             document
               .querySelector('[data-testid="bookTitle"]')
@@ -117,6 +122,7 @@ const main = async () => {
           "Date Added": "",
           readingData: [
             {
+              added: dateISO,
               started: "",
               finished: "",
               format: "",
