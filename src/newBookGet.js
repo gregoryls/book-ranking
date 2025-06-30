@@ -15,7 +15,6 @@ class DuplicateEntryError extends Error {
 }
 const maxRetries = 3;
 // todo
-// duplicate entries check
 // get book cover
 
 function normalizeISBN(isbn) {
@@ -54,7 +53,7 @@ const main = async () => {
 
       // testing
       // const html = await page.content();
-      // fs.writeFileSync("debug-page.html", html);
+      // writeFileSync("debug-page.html", html);
 
       // testing
 
@@ -105,6 +104,7 @@ const main = async () => {
           "Additional Authors":
             authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
           ISBN13: scrapeJSON.isbn || "",
+          imageURL: scrapeJSON.image || "",
 
           // average rating data source comes in as a number
           // optional chaining to account for missing rating data
@@ -129,6 +129,13 @@ const main = async () => {
 
       // normalize outside evaluate() due to limited scope inside the browser
       newBook.ISBN13 = normalizeISBN(newBook.ISBN13);
+
+      if (newBook.imageURL) {
+        const response = await fetch(newBook.imageURL);
+        const buffer = Buffer.from(await response.arrayBuffer());
+        // mixing writeFile and sync below for no real reason other than to leave the example here
+        await writeFile(`./src/covers/${newBook.ISBN13}.jpg`, buffer);
+      }
 
       // bookList.push(newBook);
       testList.push(newBook);
