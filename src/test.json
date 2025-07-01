@@ -77,5 +77,35 @@
         "review": ""
       }
     ]
+  },
+  {
+    "Book Id": 217304298,
+    "Title": "Strangers in Time",
+    "Author": "David Baldacci",
+    "Additional Authors": "",
+    "ISBN13": "9781538742082",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1723141784i/217304298.jpg",
+    "Average Rating": "4.24",
+    "Original Publication Year": "2025",
+    "genreTags": [
+      "Historical Fiction",
+      "Fiction",
+      "Mystery",
+      "Thriller",
+      "World War II",
+      "Historical"
+    ],
+    "totalRanking": "",
+    "Date Added": "",
+    "readingData": [
+      {
+        "added": "2025-07-01",
+        "started": "",
+        "finished": "",
+        "format": "",
+        "rating": "",
+        "review": ""
+      }
+    ]
   }
 ]

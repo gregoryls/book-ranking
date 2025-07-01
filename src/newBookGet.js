@@ -4,7 +4,6 @@ import puppeteer from "puppeteer";
 import isbn10ToIsbn13 from "./isbnConversion.js";
 import readList from "./readList.json" with { type: "json" };
 import unreadList from "./unreadList.json" with { type: "json" };
-import testList from "./test.json" with { type: "json" };
 
 class DuplicateEntryError extends Error {
   constructor(bookID) {
@@ -15,8 +14,6 @@ class DuplicateEntryError extends Error {
   }
 }
 const maxRetries = 3;
-// todo
-// hook up to real list
 
 function normalizeISBN(isbn) {
   if (isbn === "") return "";
@@ -57,14 +54,6 @@ const main = async () => {
       await page.goto(url);
       await page.waitForNetworkIdle();
       await page.content();
-
-      // await page.waitForSelector('script[type="application/ld+json"]');
-
-      // testing
-      // const html = await page.content();
-      // writeFileSync("debug-page.html", html);
-
-      // testing
 
       // use evaluate to only query the page once instead of multiple $eval calls
       const newBook = await page.evaluate(
@@ -150,14 +139,17 @@ const main = async () => {
       // mixing writeFile and sync below for no real reason other than to leave the example here
       // fallback to title if ISBN is missing (usually obscure webnovels)
       if (newBook.ISBN13) {
-        await writeFile(`./src/${newBook.ISBN13}.jpg`, buffer);
+        await writeFile(`./src/covers/${newBook.ISBN13}.jpg`, buffer);
       } else {
-        await writeFile(`/src/${newBook.Title}.jpg`, buffer);
+        await writeFile(`/src/covers/${newBook.Title}.jpg`, buffer);
       }
 
       // bookList.push(newBook);
-      testList.push(newBook);
-      writeFileSync("./src/test.json", JSON.stringify(testList, null, 2));
+      unreadList.push(newBook);
+      writeFileSync(
+        "./src/unreadList.json",
+        JSON.stringify(unreadList, null, 2),
+      );
       // If successful, break out of the loop
       break;
     } catch (error) {
