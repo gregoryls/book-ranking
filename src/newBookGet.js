@@ -66,76 +66,80 @@ const main = async () => {
       // testing
 
       // use evaluate to only query the page once instead of multiple $eval calls
-      const newBook = await page.evaluate((bookID) => {
-        // goodreads structured data
-        const scriptTag = document.querySelector(
-          'script[type="application/ld+json"]',
-        );
-        console.log(scriptTag?.textContent);
-        const scrapeJSON = scriptTag ? JSON.parse(scriptTag.textContent) : {};
+      const newBook = await page.evaluate(
+        (bookID, localDate) => {
+          // goodreads structured data
+          const scriptTag = document.querySelector(
+            'script[type="application/ld+json"]',
+          );
+          console.log(scriptTag?.textContent);
+          const scrapeJSON = scriptTag ? JSON.parse(scriptTag.textContent) : {};
 
-        //convert to array from nodelist
-        const authors = Array.from(
-          document.querySelectorAll(
-            ".BookPageMetadataSection__contributor .ContributorLink__name",
-          ),
-        );
-        // filter Boolean in case site has issues
-        const authorsText = authors
-          .map((author) => author.textContent.trim())
-          .filter(Boolean);
+          //convert to array from nodelist
+          const authors = Array.from(
+            document.querySelectorAll(
+              ".BookPageMetadataSection__contributor .ContributorLink__name",
+            ),
+          );
+          // filter Boolean in case site has issues
+          const authorsText = authors
+            .map((author) => author.textContent.trim())
+            .filter(Boolean);
 
-        const genreElements = Array.from(
-          document.querySelectorAll(
-            ".BookPageMetadataSection__genreButton a span",
-          ),
-        );
-        const genreText = genreElements
-          .map((genre) => genre.textContent.trim())
-          .filter((genre) => genre && genre !== "Audiobook");
+          const genreElements = Array.from(
+            document.querySelectorAll(
+              ".BookPageMetadataSection__genreButton a span",
+            ),
+          );
+          const genreText = genreElements
+            .map((genre) => genre.textContent.trim())
+            .filter((genre) => genre && genre !== "Audiobook");
 
-        // optional chaining to check for good element, then regex
-        // match to find the four digits of a year.
-        // text source usually reads, "First Published Januray 1, 1900"
-        const publicationText =
-          document.querySelector('[data-testid="publicationInfo"]')
-            ?.textContent || "";
-        const yearMatch = publicationText.match(/\b\d{4}\b/);
+          // optional chaining to check for good element, then regex
+          // match to find the four digits of a year.
+          // text source usually reads, "First Published Januray 1, 1900"
+          const publicationText =
+            document.querySelector('[data-testid="publicationInfo"]')
+              ?.textContent || "";
+          const yearMatch = publicationText.match(/\b\d{4}\b/);
 
-        return {
-          "Book Id": bookID,
-          Title:
-            document
-              .querySelector('[data-testid="bookTitle"]')
-              ?.textContent.trim() || "",
-          Author: authorsText[0] || "",
-          // additional authors in comma separated string to match bookList format
-          "Additional Authors":
-            authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
-          ISBN13: scrapeJSON.isbn || "",
-          imageURL: scrapeJSON.image || "",
+          return {
+            "Book Id": bookID,
+            Title:
+              document
+                .querySelector('[data-testid="bookTitle"]')
+                ?.textContent.trim() || "",
+            Author: authorsText[0] || "",
+            // additional authors in comma separated string to match bookList format
+            "Additional Authors":
+              authorsText.length > 1 ? authorsText.slice(1).join(", ") : "",
+            ISBN13: scrapeJSON.isbn || "",
+            imageURL: scrapeJSON.image || "",
 
-          // average rating data source comes in as a number
-          // optional chaining to account for missing rating data
-          "Average Rating":
-            scrapeJSON.aggregateRating?.ratingValue?.toString() || "",
-          "Original Publication Year": yearMatch ? yearMatch[0] : "",
+            // average rating data source comes in as a number
+            // optional chaining to account for missing rating data
+            "Average Rating":
+              scrapeJSON.aggregateRating?.ratingValue?.toString() || "",
+            "Original Publication Year": yearMatch ? yearMatch[0] : "",
 
-          genreTags: genreText || "",
-          totalRanking: "",
-          "Date Added": "",
-          readingData: [
-            {
-              added: localDate,
-              started: "",
-              finished: "",
-              format: "",
-              rating: "",
-              review: "",
-            },
-          ],
-        };
-      }, bookID);
+            genreTags: genreText || "",
+            totalRanking: "",
+            "Date Added": "",
+            readingData: [
+              {
+                added: localDate,
+                started: "",
+                finished: "",
+                format: "",
+                rating: "",
+                review: "",
+              },
+            ],
+          };
+        },
+        bookID,
+        localDate,
+      );
 
       // normalize outside evaluate() due to limited scope inside the browser
       newBook.ISBN13 = normalizeISBN(newBook.ISBN13);
