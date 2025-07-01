@@ -66,7 +66,7 @@ const main = async () => {
       // testing
 
       // use evaluate to only query the page once instead of multiple $eval calls
-      const newBook = await page.evaluate(() => {
+      const newBook = await page.evaluate((bookID) => {
         // goodreads structured data
         const scriptTag = document.querySelector(
           'script[type="application/ld+json"]',
@@ -135,7 +135,7 @@ const main = async () => {
             },
           ],
         };
-      });
+      }, bookID);
 
       // normalize outside evaluate() due to limited scope inside the browser
       newBook.ISBN13 = normalizeISBN(newBook.ISBN13);
