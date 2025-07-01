@@ -15,7 +15,7 @@ class DuplicateEntryError extends Error {
 }
 const maxRetries = 3;
 // todo
-// get book cover
+// hook up to real list
 
 function normalizeISBN(isbn) {
   if (isbn === "") return "";
@@ -31,7 +31,7 @@ function checkForDuplicate(ID, list) {
 }
 const main = async () => {
   // manually enter ID here to begin
-  const bookID = 6186357;
+  const bookID = 217304298;
   checkForDuplicate(bookID, readList);
   checkForDuplicate(bookID, unreadList);
 
@@ -145,9 +145,9 @@ const main = async () => {
       // mixing writeFile and sync below for no real reason other than to leave the example here
       // fallback to title if ISBN is missing (usually obscure webnovels)
       if (newBook.ISBN13) {
-        await writeFile(`./src/covers/${newBook.ISBN13}.jpg`, buffer);
+        await writeFile(`./src/${newBook.ISBN13}.jpg`, buffer);
       } else {
-        await writeFile(`/src/covers/${newBook.Title}.jpg`, buffer);
+        await writeFile(`/src/${newBook.Title}.jpg`, buffer);
       }
 
       // bookList.push(newBook);
@@ -161,13 +161,14 @@ const main = async () => {
       );
     } finally {
       await page.close();
-      await browser.close();
     }
 
     // Increment retries and wait for a short time before the next attempt
     retries += 1;
     await new Promise((resolve) => setTimeout(resolve, 1000));
   }
+
+  await browser.close();
 };
 
 main();
