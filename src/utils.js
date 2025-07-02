@@ -1,38 +1,16 @@
-// function importAll(r) {
-//   const images = {};
-//   // enclosing bracket around return to avoid ambiguous assignment in a return
-//   r.keys().forEach((key) => {
-//     // remove leading ./ from file names
-//     const temp = key.replace("./", "");
-//     // or option fix case where lastIndexOf === -1
-//     // remove trailing file extensions from file names (e.g. .png)
-//     const temp2 = temp.substr(0, temp.lastIndexOf(".")) || temp;
-//     images[temp2] = r(key);
-//   });
-//   // alternate map method
-//   // r.keys().map((item, index) => {
-//   //   images[item.replace("./", "")] = r(item);
-//   // });
-//   return images;
-// }
-
-// const covers = importAll(
-//   require.context("./covers", false, /\.(png|jpe?g|svg)$/),
-// );
-
 const coverContext = import.meta.webpackContext("./covers", {
   recursive: false,
-  regex: /\.(png|jpe?g|svg)$/i,
+  regExp: /\.(png|jpe?g|svg)$/i,
 });
 
+console.log(coverContext.keys());
+
 const covers = {};
-for (const key of coverContext.keys()) {
+coverContext.keys().forEach((key) => {
   // remove prefix and extension from image file names
   const fileName = key.replace("./", "").replace(/\.[^/.]+$/, "");
-  covers.fileName = coverContext(key);
-}
-
-console.log(covers);
+  covers[fileName] = coverContext(key);
+});
 
 // Now use like:
 // img.src = covers[book.ISBN13] || covers[book.Title];
