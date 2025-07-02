@@ -4,7 +4,7 @@ import Sortable from "sortablejs";
 
 import bookList from "./bookList.json";
 
-import * as utils from "./utils";
+import * as utils from "./utils.js";
 
 // TODO
 // arrange dist images into a folder via webpack

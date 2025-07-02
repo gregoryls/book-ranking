@@ -12,6 +12,21 @@
   "rules": {
     "no-console": "off",
     "linebreak-style": "off",
-    "no-param-reassign": ["error", { "props": false }]
+    "no-param-reassign": ["error", { "props": false }],
+    "import/extenstions": [
+      "error",
+      "ignorePackages",
+      {
+        "js": "always",
+        "json": "always"
+      }
+    ]
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extenstions": [".js", ".json"]
+      }
+    }
   }
 }
