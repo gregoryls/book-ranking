@@ -1,9 +1,8 @@
 import "./style.css";
-
 import Sortable from "sortablejs";
-
 import bookList from "./bookList.json";
-
+import readList from "./readList.json";
+import unreadList from "./unreadList.json";
 import * as utils from "./utils.js";
 
 // TODO
