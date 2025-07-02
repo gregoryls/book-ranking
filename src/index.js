@@ -3,7 +3,7 @@ import Sortable from "sortablejs";
 import bookList from "./bookList.json";
 import readList from "./readList.json";
 import unreadList from "./unreadList.json";
-import * as utils from "./utils.js";
+// import * as utils from "./utils.js";
 
 // TODO
 // arrange dist images into a folder via webpack
@@ -21,7 +21,22 @@ import * as utils from "./utils.js";
 // placeholder cover when one doesn't exist
 // remove audiobook from genres
 
-console.log(bookList[1051]);
+const coverContext = import.meta.webpackContext("./covers", {
+  recursive: false,
+  regExp: /\.(png|jpe?g|svg)$/i,
+});
+
+console.log(coverContext.keys());
+
+const covers = {};
+coverContext.keys().forEach((key) => {
+  // remove prefix and extension from image file names
+  const fileName = key.replace("./", "").replace(/\.[^/.]+$/, "");
+  covers[fileName] = coverContext(key);
+});
+
+console.log(covers);
+
 const readBooks = [];
 const rating1Books = [];
 const rating2Books = [];
@@ -50,8 +65,6 @@ for (let i = 0; i < bookList.length; i += 1) {
   }
 }
 
-console.log(readBooks);
-console.log(rating1Books);
 utils.renderBookList(readBooks);
 
 // utils.dragAndDrop();

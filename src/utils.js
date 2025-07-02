@@ -20,10 +20,19 @@
 //   require.context("./covers", false, /\.(png|jpe?g|svg)$/),
 // );
 
-const context = import.meta.webpackContext("./covers", {
+const coverContext = import.meta.webpackContext("./covers", {
   recursive: false,
   regex: /\.(png|jpe?g|svg)$/i,
 });
+
+const covers = {};
+for (const key of coverContext.keys()) {
+  // remove prefix and extension from image file names
+  const fileName = key.replace("./", "").replace(/\.[^/.]+$/, "");
+  covers.fileName = coverContext(key);
+}
+
+console.log(covers);
 
 // Now use like:
 // img.src = covers[book.ISBN13] || covers[book.Title];
