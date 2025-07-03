@@ -1,30 +1,32 @@
 import { writeFileSync } from "fs";
 import readList from "../readList.json" with { type: "json" };
 
-let count1 = 1,
+let count = 1,
+  count1 = 1,
   count2 = 1,
   count3 = 1,
   count4 = 1,
   count5 = 1;
 for (const book of readList) {
+  book.totalRanking = count;
   if (book.readingData.at(-1).rating === 1) {
-    book.totalRanking = count1;
+    book.ratingRanking = count1;
     count1++;
   }
   if (book.readingData.at(-1).rating === 2) {
-    book.totalRanking = count2;
+    book.ratingRanking = count2;
     count2++;
   }
   if (book.readingData.at(-1).rating === 3) {
-    book.totalRanking = count3;
+    book.ratingRanking = count3;
     count3++;
   }
   if (book.readingData.at(-1).rating === 4) {
-    book.totalRanking = count4;
+    book.ratingRanking = count4;
     count4++;
   }
   if (book.readingData.at(-1).rating === 5) {
-    book.totalRanking = count5;
+    book.ratingRanking = count5;
     count5++;
   }
 }
