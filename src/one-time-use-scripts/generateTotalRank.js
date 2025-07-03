@@ -9,6 +9,7 @@ let count = 1,
   count5 = 1;
 for (const book of readList) {
   book.totalRanking = count;
+  count++;
   if (book.readingData.at(-1).rating === 1) {
     book.ratingRanking = count1;
     count1++;
