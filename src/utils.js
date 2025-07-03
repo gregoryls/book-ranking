@@ -39,6 +39,7 @@ export function renderBookList(bookList) {
   }
 }
 
+// currently unused, slate for delete
 export function dragAndDrop() {
   const container = document.getElementById("bookWrap");
   let draggedElement;
