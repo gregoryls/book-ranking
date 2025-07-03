@@ -12,9 +12,6 @@ coverContext.keys().forEach((key) => {
   covers[fileName] = coverContext(key);
 });
 
-// Now use like:
-// img.src = covers[book.ISBN13] || covers[book.Title];
-
 export function renderBookList(bookList) {
   console.log(covers);
   const bookWrap = document.getElementById("bookWrap");
@@ -30,10 +27,9 @@ export function renderBookList(bookList) {
     h3.textContent = i + 1;
 
     // most books have an ISBN13 and the cover is stored with that as a filename
-    img.src = covers[bookList[i].ISBN13];
     // Alternative filename uses book title instead when ISBN13 is missing
-    if (covers[bookList[i].ISBN13] === undefined)
-      img.src = covers[bookList[i].Title];
+
+    img.src = covers[bookList[i].ISBN13] || covers[bookList[i].Title];
 
     img.classList.add("bookCover");
     p.textContent = bookList[i].Title;
@@ -42,11 +38,6 @@ export function renderBookList(bookList) {
     bookWrap.append(div);
   }
 }
-
-// export function getNewBookInputs() {
-//   const goodreadsID = document.getElementById("goodreadsID").value;
-//   console.log(goodreadsID);
-// }
 
 export function dragAndDrop() {
   const container = document.getElementById("bookWrap");
