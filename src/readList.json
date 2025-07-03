@@ -42,7 +42,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 1
+    "totalRanking": 1,
+    "ratingRanking": 1
   },
   {
     "Book Id": 226004,
@@ -87,7 +88,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 2
+    "totalRanking": 1,
+    "ratingRanking": 2
   },
   {
     "Book Id": 173338910,
@@ -131,7 +133,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 3
+    "totalRanking": 1,
+    "ratingRanking": 3
   },
   {
     "Book Id": 32758901,
@@ -176,7 +179,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 4
+    "totalRanking": 1,
+    "ratingRanking": 4
   },
   {
     "Book Id": 60508036,
@@ -220,7 +224,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 5
+    "totalRanking": 1,
+    "ratingRanking": 5
   },
   {
     "Book Id": 60105192,
@@ -265,7 +270,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 6
+    "totalRanking": 1,
+    "ratingRanking": 6
   },
   {
     "Book Id": 20318855,
@@ -310,7 +316,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 7
+    "totalRanking": 1,
+    "ratingRanking": 7
   },
   {
     "Book Id": 20569355,
@@ -355,7 +362,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 8
+    "totalRanking": 1,
+    "ratingRanking": 8
   },
   {
     "Book Id": 22459982,
@@ -400,7 +408,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 9
+    "totalRanking": 1,
+    "ratingRanking": 9
   },
   {
     "Book Id": 28254384,
@@ -445,7 +454,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 10
+    "totalRanking": 1,
+    "ratingRanking": 10
   },
   {
     "Book Id": 51412650,
@@ -490,7 +500,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 11
+    "totalRanking": 1,
+    "ratingRanking": 11
   },
   {
     "Book Id": 34703445,
@@ -534,7 +545,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 12
+    "totalRanking": 1,
+    "ratingRanking": 12
   },
   {
     "Book Id": 28698036,
@@ -579,7 +591,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 13
+    "totalRanking": 1,
+    "ratingRanking": 13
   },
   {
     "Book Id": 20518872,
@@ -623,7 +636,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 14
+    "totalRanking": 1,
+    "ratingRanking": 14
   },
   {
     "Book Id": 26546888,
@@ -667,7 +681,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 15
+    "totalRanking": 1,
+    "ratingRanking": 15
   },
   {
     "Book Id": 17332218,
@@ -711,7 +726,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 16
+    "totalRanking": 1,
+    "ratingRanking": 16
   },
   {
     "Book Id": 9647295,
@@ -755,7 +771,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 17
+    "totalRanking": 1,
+    "ratingRanking": 17
   },
   {
     "Book Id": 68427,
@@ -799,7 +816,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 18
+    "totalRanking": 1,
+    "ratingRanking": 18
   },
   {
     "Book Id": 5980975,
@@ -843,7 +861,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 19
+    "totalRanking": 1,
+    "ratingRanking": 19
   },
   {
     "Book Id": 106835,
@@ -888,7 +907,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 20
+    "totalRanking": 1,
+    "ratingRanking": 20
   },
   {
     "Book Id": 23947089,
@@ -932,7 +952,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 21
+    "totalRanking": 1,
+    "ratingRanking": 21
   },
   {
     "Book Id": 44552037,
@@ -969,7 +990,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 22
+    "totalRanking": 1,
+    "ratingRanking": 22
   },
   {
     "Book Id": 41716946,
@@ -1013,7 +1035,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 23
+    "totalRanking": 1,
+    "ratingRanking": 23
   },
   {
     "Book Id": 52537460,
@@ -1058,7 +1081,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 24
+    "totalRanking": 1,
+    "ratingRanking": 24
   },
   {
     "Book Id": 50623864,
@@ -1103,7 +1127,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 25
+    "totalRanking": 1,
+    "ratingRanking": 25
   },
   {
     "Book Id": 55535618,
@@ -1148,7 +1173,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 26
+    "totalRanking": 1,
+    "ratingRanking": 26
   },
   {
     "Book Id": 59515764,
@@ -1192,7 +1218,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 27
+    "totalRanking": 1,
+    "ratingRanking": 27
   },
   {
     "Book Id": 26114545,
@@ -1237,7 +1264,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 28
+    "totalRanking": 1,
+    "ratingRanking": 28
   },
   {
     "Book Id": 32075825,
@@ -1281,7 +1309,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 29
+    "totalRanking": 1,
+    "ratingRanking": 29
   },
   {
     "Book Id": 38633526,
@@ -1326,7 +1355,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 30
+    "totalRanking": 1,
+    "ratingRanking": 30
   },
   {
     "Book Id": 53260935,
@@ -1371,7 +1401,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 31
+    "totalRanking": 1,
+    "ratingRanking": 31
   },
   {
     "Book Id": 43575115,
@@ -1415,7 +1446,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 32
+    "totalRanking": 1,
+    "ratingRanking": 32
   },
   {
     "Book Id": 29588376,
@@ -1459,7 +1491,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 33
+    "totalRanking": 1,
+    "ratingRanking": 33
   },
   {
     "Book Id": 55361286,
@@ -1503,7 +1536,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 34
+    "totalRanking": 1,
+    "ratingRanking": 34
   },
   {
     "Book Id": 32919004,
@@ -1547,7 +1581,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 35
+    "totalRanking": 1,
+    "ratingRanking": 35
   },
   {
     "Book Id": 25813272,
@@ -1592,7 +1627,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 36
+    "totalRanking": 1,
+    "ratingRanking": 36
   },
   {
     "Book Id": 17571386,
@@ -1637,7 +1673,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 37
+    "totalRanking": 1,
+    "ratingRanking": 37
   },
   {
     "Book Id": 28335699,
@@ -1681,7 +1718,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 38
+    "totalRanking": 1,
+    "ratingRanking": 38
   },
   {
     "Book Id": 54493401,
@@ -1725,7 +1763,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 39
+    "totalRanking": 1,
+    "ratingRanking": 39
   },
   {
     "Book Id": 55481226,
@@ -1769,7 +1808,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 40
+    "totalRanking": 1,
+    "ratingRanking": 40
   },
   {
     "Book Id": 41817486,
@@ -1814,7 +1854,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 41
+    "totalRanking": 1,
+    "ratingRanking": 41
   },
   {
     "Book Id": 51862863,
@@ -1859,7 +1900,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 42
+    "totalRanking": 1,
+    "ratingRanking": 42
   },
   {
     "Book Id": 40604556,
@@ -1903,7 +1945,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 43
+    "totalRanking": 1,
+    "ratingRanking": 43
   },
   {
     "Book Id": 40280403,
@@ -1947,7 +1990,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 44
+    "totalRanking": 1,
+    "ratingRanking": 44
   },
   {
     "Book Id": 50789354,
@@ -1991,7 +2035,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 45
+    "totalRanking": 1,
+    "ratingRanking": 45
   },
   {
     "Book Id": 34928122,
@@ -2035,7 +2080,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 46
+    "totalRanking": 1,
+    "ratingRanking": 46
   },
   {
     "Book Id": 28780969,
@@ -2079,7 +2125,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 47
+    "totalRanking": 1,
+    "ratingRanking": 47
   },
   {
     "Book Id": 55423083,
@@ -2123,7 +2170,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 48
+    "totalRanking": 1,
+    "ratingRanking": 48
   },
   {
     "Book Id": 40651883,
@@ -2168,7 +2216,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 49
+    "totalRanking": 1,
+    "ratingRanking": 49
   },
   {
     "Book Id": 10371118,
@@ -2212,7 +2261,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 50
+    "totalRanking": 1,
+    "ratingRanking": 50
   },
   {
     "Book Id": 36223860,
@@ -2257,7 +2307,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 51
+    "totalRanking": 1,
+    "ratingRanking": 51
   },
   {
     "Book Id": 45064996,
@@ -2301,7 +2352,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 52
+    "totalRanking": 1,
+    "ratingRanking": 52
   },
   {
     "Book Id": 22733729,
@@ -2346,7 +2398,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 53
+    "totalRanking": 1,
+    "ratingRanking": 53
   },
   {
     "Book Id": 49021976,
@@ -2390,7 +2443,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 54
+    "totalRanking": 1,
+    "ratingRanking": 54
   },
   {
     "Book Id": 871186,
@@ -2427,7 +2481,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 55
+    "totalRanking": 1,
+    "ratingRanking": 55
   },
   {
     "Book Id": 43419431,
@@ -2471,7 +2526,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 56
+    "totalRanking": 1,
+    "ratingRanking": 56
   },
   {
     "Book Id": 6462121,
@@ -2516,7 +2572,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 57
+    "totalRanking": 1,
+    "ratingRanking": 57
   },
   {
     "Book Id": 9063832,
@@ -2561,7 +2618,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 58
+    "totalRanking": 1,
+    "ratingRanking": 58
   },
   {
     "Book Id": 9361589,
@@ -2606,7 +2664,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 59
+    "totalRanking": 1,
+    "ratingRanking": 59
   },
   {
     "Book Id": 8411648,
@@ -2650,7 +2709,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 60
+    "totalRanking": 1,
+    "ratingRanking": 60
   },
   {
     "Book Id": 9646992,
@@ -2694,7 +2754,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 61
+    "totalRanking": 1,
+    "ratingRanking": 61
   },
   {
     "Book Id": 61880,
@@ -2738,7 +2799,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 62
+    "totalRanking": 1,
+    "ratingRanking": 62
   },
   {
     "Book Id": 34502,
@@ -2782,7 +2844,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 63
+    "totalRanking": 1,
+    "ratingRanking": 63
   },
   {
     "Book Id": 89186,
@@ -2826,7 +2889,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 64
+    "totalRanking": 1,
+    "ratingRanking": 64
   },
   {
     "Book Id": 22816087,
@@ -2870,7 +2934,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 65
+    "totalRanking": 1,
+    "ratingRanking": 65
   },
   {
     "Book Id": 45100,
@@ -2915,7 +2980,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 66
+    "totalRanking": 1,
+    "ratingRanking": 66
   },
   {
     "Book Id": 75786,
@@ -2960,7 +3026,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 67
+    "totalRanking": 1,
+    "ratingRanking": 67
   },
   {
     "Book Id": 37173847,
@@ -3005,7 +3072,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 68
+    "totalRanking": 1,
+    "ratingRanking": 68
   },
   {
     "Book Id": 2930299,
@@ -3050,7 +3118,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 69
+    "totalRanking": 1,
+    "ratingRanking": 69
   },
   {
     "Book Id": 39508663,
@@ -3095,7 +3164,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 70
+    "totalRanking": 1,
+    "ratingRanking": 70
   },
   {
     "Book Id": 41952199,
@@ -3139,7 +3209,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 71
+    "totalRanking": 1,
+    "ratingRanking": 71
   },
   {
     "Book Id": 1260578,
@@ -3184,7 +3255,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 72
+    "totalRanking": 1,
+    "ratingRanking": 72
   },
   {
     "Book Id": 37677977,
@@ -3229,7 +3301,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 73
+    "totalRanking": 1,
+    "ratingRanking": 73
   },
   {
     "Book Id": 33080122,
@@ -3274,7 +3347,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 74
+    "totalRanking": 1,
+    "ratingRanking": 74
   },
   {
     "Book Id": 40277241,
@@ -3318,7 +3392,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 75
+    "totalRanking": 1,
+    "ratingRanking": 75
   },
   {
     "Book Id": 22299763,
@@ -3363,7 +3438,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 76
+    "totalRanking": 1,
+    "ratingRanking": 76
   },
   {
     "Book Id": 18739426,
@@ -3407,7 +3483,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 77
+    "totalRanking": 1,
+    "ratingRanking": 77
   },
   {
     "Book Id": 23437156,
@@ -3452,7 +3529,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 78
+    "totalRanking": 1,
+    "ratingRanking": 78
   },
   {
     "Book Id": 6945594,
@@ -3497,7 +3575,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 79
+    "totalRanking": 1,
+    "ratingRanking": 79
   },
   {
     "Book Id": 3041,
@@ -3541,7 +3620,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 80
+    "totalRanking": 1,
+    "ratingRanking": 80
   },
   {
     "Book Id": 25622748,
@@ -3586,7 +3666,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 81
+    "totalRanking": 1,
+    "ratingRanking": 81
   },
   {
     "Book Id": 34002132,
@@ -3630,7 +3711,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 82
+    "totalRanking": 1,
+    "ratingRanking": 82
   },
   {
     "Book Id": 23397921,
@@ -3675,7 +3757,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 83
+    "totalRanking": 1,
+    "ratingRanking": 83
   },
   {
     "Book Id": 23168817,
@@ -3719,7 +3802,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 84
+    "totalRanking": 1,
+    "ratingRanking": 84
   },
   {
     "Book Id": 25451264,
@@ -3763,7 +3847,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 85
+    "totalRanking": 1,
+    "ratingRanking": 85
   },
   {
     "Book Id": 25733990,
@@ -3807,7 +3892,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 86
+    "totalRanking": 1,
+    "ratingRanking": 86
   },
   {
     "Book Id": 30134847,
@@ -3851,7 +3937,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 87
+    "totalRanking": 1,
+    "ratingRanking": 87
   },
   {
     "Book Id": 888628,
@@ -3896,7 +3983,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 88
+    "totalRanking": 1,
+    "ratingRanking": 88
   },
   {
     "Book Id": 284066,
@@ -3941,7 +4029,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 89
+    "totalRanking": 1,
+    "ratingRanking": 89
   },
   {
     "Book Id": 8855321,
@@ -3985,7 +4074,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 90
+    "totalRanking": 1,
+    "ratingRanking": 90
   },
   {
     "Book Id": 685390,
@@ -4030,7 +4120,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 91
+    "totalRanking": 1,
+    "ratingRanking": 91
   },
   {
     "Book Id": 18007564,
@@ -4074,7 +4165,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 92
+    "totalRanking": 1,
+    "ratingRanking": 92
   },
   {
     "Book Id": 29501976,
@@ -4118,7 +4210,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 93
+    "totalRanking": 1,
+    "ratingRanking": 93
   },
   {
     "Book Id": 28604673,
@@ -4163,7 +4256,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 94
+    "totalRanking": 1,
+    "ratingRanking": 94
   },
   {
     "Book Id": 226973,
@@ -4208,7 +4302,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 95
+    "totalRanking": 1,
+    "ratingRanking": 95
   },
   {
     "Book Id": 26214666,
@@ -4253,7 +4348,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 96
+    "totalRanking": 1,
+    "ratingRanking": 96
   },
   {
     "Book Id": 12591698,
@@ -4297,7 +4393,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 97
+    "totalRanking": 1,
+    "ratingRanking": 97
   },
   {
     "Book Id": 11298,
@@ -4334,7 +4431,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 98
+    "totalRanking": 1,
+    "ratingRanking": 98
   },
   {
     "Book Id": 33517576,
@@ -4379,7 +4477,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 99
+    "totalRanking": 1,
+    "ratingRanking": 99
   },
   {
     "Book Id": 11468377,
@@ -4423,7 +4522,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 100
+    "totalRanking": 1,
+    "ratingRanking": 100
   },
   {
     "Book Id": 13345,
@@ -4468,7 +4568,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 101
+    "totalRanking": 1,
+    "ratingRanking": 101
   },
   {
     "Book Id": 16131032,
@@ -4512,7 +4613,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 102
+    "totalRanking": 1,
+    "ratingRanking": 102
   },
   {
     "Book Id": 19161794,
@@ -4556,7 +4658,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 103
+    "totalRanking": 1,
+    "ratingRanking": 103
   },
   {
     "Book Id": 4929,
@@ -4601,7 +4704,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 104
+    "totalRanking": 1,
+    "ratingRanking": 104
   },
   {
     "Book Id": 18656030,
@@ -4645,7 +4749,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 105
+    "totalRanking": 1,
+    "ratingRanking": 105
   },
   {
     "Book Id": 47624,
@@ -4690,7 +4795,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 106
+    "totalRanking": 1,
+    "ratingRanking": 106
   },
   {
     "Book Id": 19477623,
@@ -4735,7 +4841,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 107
+    "totalRanking": 1,
+    "ratingRanking": 107
   },
   {
     "Book Id": 10327184,
@@ -4780,7 +4887,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 108
+    "totalRanking": 1,
+    "ratingRanking": 108
   },
   {
     "Book Id": 28355463,
@@ -4825,7 +4933,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 109
+    "totalRanking": 1,
+    "ratingRanking": 109
   },
   {
     "Book Id": 23341580,
@@ -4869,7 +4978,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 110
+    "totalRanking": 1,
+    "ratingRanking": 110
   },
   {
     "Book Id": 28053798,
@@ -4913,7 +5023,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 111
+    "totalRanking": 1,
+    "ratingRanking": 111
   },
   {
     "Book Id": 39348113,
@@ -4957,7 +5068,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 112
+    "totalRanking": 1,
+    "ratingRanking": 112
   },
   {
     "Book Id": 23363928,
@@ -5002,7 +5114,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 113
+    "totalRanking": 1,
+    "ratingRanking": 113
   },
   {
     "Book Id": 18713259,
@@ -5047,7 +5160,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 114
+    "totalRanking": 1,
+    "ratingRanking": 114
   },
   {
     "Book Id": 16065004,
@@ -5091,7 +5205,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 115
+    "totalRanking": 1,
+    "ratingRanking": 115
   },
   {
     "Book Id": 10803121,
@@ -5135,7 +5250,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 116
+    "totalRanking": 1,
+    "ratingRanking": 116
   },
   {
     "Book Id": 2767793,
@@ -5179,7 +5295,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 117
+    "totalRanking": 1,
+    "ratingRanking": 117
   },
   {
     "Book Id": 68429,
@@ -5223,7 +5340,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 118
+    "totalRanking": 1,
+    "ratingRanking": 118
   },
   {
     "Book Id": 68428,
@@ -5267,7 +5385,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 119
+    "totalRanking": 1,
+    "ratingRanking": 119
   },
   {
     "Book Id": 186074,
@@ -5312,7 +5431,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 120
+    "totalRanking": 1,
+    "ratingRanking": 120
   },
   {
     "Book Id": 1215032,
@@ -5357,7 +5477,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 121
+    "totalRanking": 1,
+    "ratingRanking": 121
   },
   {
     "Book Id": 10644930,
@@ -5402,7 +5523,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 122
+    "totalRanking": 1,
+    "ratingRanking": 122
   },
   {
     "Book Id": 25713878,
@@ -5444,7 +5566,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 1
+    "totalRanking": 1,
+    "ratingRanking": 1
   },
   {
     "Book Id": 36538848,
@@ -5489,7 +5612,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 2
+    "totalRanking": 1,
+    "ratingRanking": 2
   },
   {
     "Book Id": 32145,
@@ -5533,7 +5657,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 3
+    "totalRanking": 1,
+    "ratingRanking": 3
   },
   {
     "Book Id": 25398914,
@@ -5578,7 +5703,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 4
+    "totalRanking": 1,
+    "ratingRanking": 4
   },
   {
     "Book Id": 2670427,
@@ -5615,7 +5741,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 5
+    "totalRanking": 1,
+    "ratingRanking": 5
   },
   {
     "Book Id": 22545983,
@@ -5660,7 +5787,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 6
+    "totalRanking": 1,
+    "ratingRanking": 6
   },
   {
     "Book Id": 66287,
@@ -5705,7 +5833,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 7
+    "totalRanking": 1,
+    "ratingRanking": 7
   },
   {
     "Book Id": 299801,
@@ -5750,7 +5879,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 8
+    "totalRanking": 1,
+    "ratingRanking": 8
   },
   {
     "Book Id": 58986604,
@@ -5795,7 +5925,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 9
+    "totalRanking": 1,
+    "ratingRanking": 9
   },
   {
     "Book Id": 10100051,
@@ -5840,7 +5971,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 10
+    "totalRanking": 1,
+    "ratingRanking": 10
   },
   {
     "Book Id": 60784471,
@@ -5884,7 +6016,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 11
+    "totalRanking": 1,
+    "ratingRanking": 11
   },
   {
     "Book Id": 9461562,
@@ -5929,7 +6062,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 12
+    "totalRanking": 1,
+    "ratingRanking": 12
   },
   {
     "Book Id": 57693362,
@@ -5973,7 +6107,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 13
+    "totalRanking": 1,
+    "ratingRanking": 13
   },
   {
     "Book Id": 20600271,
@@ -6018,7 +6153,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 14
+    "totalRanking": 1,
+    "ratingRanking": 14
   },
   {
     "Book Id": 67035,
@@ -6063,7 +6199,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 15
+    "totalRanking": 1,
+    "ratingRanking": 15
   },
   {
     "Book Id": 113435,
@@ -6107,7 +6244,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 16
+    "totalRanking": 1,
+    "ratingRanking": 16
   },
   {
     "Book Id": 59838811,
@@ -6151,7 +6289,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 17
+    "totalRanking": 1,
+    "ratingRanking": 17
   },
   {
     "Book Id": 40864030,
@@ -6195,7 +6334,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 18
+    "totalRanking": 1,
+    "ratingRanking": 18
   },
   {
     "Book Id": 40180017,
@@ -6239,7 +6379,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 19
+    "totalRanking": 1,
+    "ratingRanking": 19
   },
   {
     "Book Id": 16981,
@@ -6284,7 +6425,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 20
+    "totalRanking": 1,
+    "ratingRanking": 20
   },
   {
     "Book Id": 12974372,
@@ -6329,7 +6471,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 21
+    "totalRanking": 1,
+    "ratingRanking": 21
   },
   {
     "Book Id": 44290183,
@@ -6374,7 +6517,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 22
+    "totalRanking": 1,
+    "ratingRanking": 22
   },
   {
     "Book Id": 30071,
@@ -6419,7 +6563,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 23
+    "totalRanking": 1,
+    "ratingRanking": 23
   },
   {
     "Book Id": 24180564,
@@ -6463,7 +6608,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 24
+    "totalRanking": 1,
+    "ratingRanking": 24
   },
   {
     "Book Id": 21411388,
@@ -6508,7 +6654,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 25
+    "totalRanking": 1,
+    "ratingRanking": 25
   },
   {
     "Book Id": 34964830,
@@ -6553,7 +6700,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 26
+    "totalRanking": 1,
+    "ratingRanking": 26
   },
   {
     "Book Id": 34127174,
@@ -6598,7 +6746,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 27
+    "totalRanking": 1,
+    "ratingRanking": 27
   },
   {
     "Book Id": 33551363,
@@ -6643,7 +6792,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 28
+    "totalRanking": 1,
+    "ratingRanking": 28
   },
   {
     "Book Id": 30753989,
@@ -6688,7 +6838,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 29
+    "totalRanking": 1,
+    "ratingRanking": 29
   },
   {
     "Book Id": 28862254,
@@ -6733,7 +6884,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 30
+    "totalRanking": 1,
+    "ratingRanking": 30
   },
   {
     "Book Id": 22823333,
@@ -6778,7 +6930,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 31
+    "totalRanking": 1,
+    "ratingRanking": 31
   },
   {
     "Book Id": 10852065,
@@ -6823,7 +6976,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 32
+    "totalRanking": 1,
+    "ratingRanking": 32
   },
   {
     "Book Id": 35171984,
@@ -6868,7 +7022,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 33
+    "totalRanking": 1,
+    "ratingRanking": 33
   },
   {
     "Book Id": 46039234,
@@ -6912,7 +7067,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 34
+    "totalRanking": 1,
+    "ratingRanking": 34
   },
   {
     "Book Id": 12391741,
@@ -6956,7 +7112,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 35
+    "totalRanking": 1,
+    "ratingRanking": 35
   },
   {
     "Book Id": 4978,
@@ -7000,7 +7157,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 36
+    "totalRanking": 1,
+    "ratingRanking": 36
   },
   {
     "Book Id": 29430670,
@@ -7044,7 +7202,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 37
+    "totalRanking": 1,
+    "ratingRanking": 37
   },
   {
     "Book Id": 43615,
@@ -7088,7 +7247,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 38
+    "totalRanking": 1,
+    "ratingRanking": 38
   },
   {
     "Book Id": 33123591,
@@ -7133,7 +7293,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 39
+    "totalRanking": 1,
+    "ratingRanking": 39
   },
   {
     "Book Id": 18657790,
@@ -7177,7 +7338,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 40
+    "totalRanking": 1,
+    "ratingRanking": 40
   },
   {
     "Book Id": 49628,
@@ -7222,7 +7384,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 41
+    "totalRanking": 1,
+    "ratingRanking": 41
   },
   {
     "Book Id": 32195178,
@@ -7267,7 +7430,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 42
+    "totalRanking": 1,
+    "ratingRanking": 42
   },
   {
     "Book Id": 93251,
@@ -7312,7 +7476,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 43
+    "totalRanking": 1,
+    "ratingRanking": 43
   },
   {
     "Book Id": 2493,
@@ -7357,7 +7522,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 44
+    "totalRanking": 1,
+    "ratingRanking": 44
   },
   {
     "Book Id": 2767052,
@@ -7401,7 +7567,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 45
+    "totalRanking": 1,
+    "ratingRanking": 45
   },
   {
     "Book Id": 17837762,
@@ -7446,7 +7613,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 46
+    "totalRanking": 1,
+    "ratingRanking": 46
   },
   {
     "Book Id": 60715988,
@@ -7491,7 +7659,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 47
+    "totalRanking": 1,
+    "ratingRanking": 47
   },
   {
     "Book Id": 58041115,
@@ -7528,7 +7697,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 48
+    "totalRanking": 1,
+    "ratingRanking": 48
   },
   {
     "Book Id": 8728667,
@@ -7573,7 +7743,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 49
+    "totalRanking": 1,
+    "ratingRanking": 49
   },
   {
     "Book Id": 13615,
@@ -7618,7 +7789,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 50
+    "totalRanking": 1,
+    "ratingRanking": 50
   },
   {
     "Book Id": 60222807,
@@ -7662,7 +7834,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 51
+    "totalRanking": 1,
+    "ratingRanking": 51
   },
   {
     "Book Id": 20821042,
@@ -7706,7 +7879,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 52
+    "totalRanking": 1,
+    "ratingRanking": 52
   },
   {
     "Book Id": 816,
@@ -7751,7 +7925,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 53
+    "totalRanking": 1,
+    "ratingRanking": 53
   },
   {
     "Book Id": 248871,
@@ -7796,7 +7971,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 54
+    "totalRanking": 1,
+    "ratingRanking": 54
   },
   {
     "Book Id": 20890584,
@@ -7841,7 +8017,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 55
+    "totalRanking": 1,
+    "ratingRanking": 55
   },
   {
     "Book Id": 7562764,
@@ -7886,7 +8063,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 56
+    "totalRanking": 1,
+    "ratingRanking": 56
   },
   {
     "Book Id": 42956284,
@@ -7931,7 +8109,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 57
+    "totalRanking": 1,
+    "ratingRanking": 57
   },
   {
     "Book Id": 35251116,
@@ -7976,7 +8155,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 58
+    "totalRanking": 1,
+    "ratingRanking": 58
   },
   {
     "Book Id": 34720060,
@@ -8021,7 +8201,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 59
+    "totalRanking": 1,
+    "ratingRanking": 59
   },
   {
     "Book Id": 34215764,
@@ -8065,7 +8246,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 60
+    "totalRanking": 1,
+    "ratingRanking": 60
   },
   {
     "Book Id": 38926386,
@@ -8108,7 +8290,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 61
+    "totalRanking": 1,
+    "ratingRanking": 61
   },
   {
     "Book Id": 34466594,
@@ -8153,7 +8336,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 62
+    "totalRanking": 1,
+    "ratingRanking": 62
   },
   {
     "Book Id": 17333324,
@@ -8197,7 +8381,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 63
+    "totalRanking": 1,
+    "ratingRanking": 63
   },
   {
     "Book Id": 22609567,
@@ -8242,7 +8427,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 64
+    "totalRanking": 1,
+    "ratingRanking": 64
   },
   {
     "Book Id": 7165204,
@@ -8287,7 +8473,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 65
+    "totalRanking": 1,
+    "ratingRanking": 65
   },
   {
     "Book Id": 41477610,
@@ -8332,7 +8519,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 66
+    "totalRanking": 1,
+    "ratingRanking": 66
   },
   {
     "Book Id": 15790883,
@@ -8377,7 +8565,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 67
+    "totalRanking": 1,
+    "ratingRanking": 67
   },
   {
     "Book Id": 33998338,
@@ -8421,7 +8610,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 68
+    "totalRanking": 1,
+    "ratingRanking": 68
   },
   {
     "Book Id": 35959733,
@@ -8465,7 +8655,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 69
+    "totalRanking": 1,
+    "ratingRanking": 69
   },
   {
     "Book Id": 57903879,
@@ -8509,7 +8700,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 70
+    "totalRanking": 1,
+    "ratingRanking": 70
   },
   {
     "Book Id": 57903876,
@@ -8553,7 +8745,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 71
+    "totalRanking": 1,
+    "ratingRanking": 71
   },
   {
     "Book Id": 28143118,
@@ -8597,7 +8790,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 72
+    "totalRanking": 1,
+    "ratingRanking": 72
   },
   {
     "Book Id": 9995541,
@@ -8642,7 +8836,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 73
+    "totalRanking": 1,
+    "ratingRanking": 73
   },
   {
     "Book Id": 57640065,
@@ -8686,7 +8881,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 74
+    "totalRanking": 1,
+    "ratingRanking": 74
   },
   {
     "Book Id": 47212,
@@ -8730,7 +8926,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 75
+    "totalRanking": 1,
+    "ratingRanking": 75
   },
   {
     "Book Id": 35061748,
@@ -8775,7 +8972,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 76
+    "totalRanking": 1,
+    "ratingRanking": 76
   },
   {
     "Book Id": 153747,
@@ -8820,7 +9018,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 77
+    "totalRanking": 1,
+    "ratingRanking": 77
   },
   {
     "Book Id": 40864002,
@@ -8864,7 +9063,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 78
+    "totalRanking": 1,
+    "ratingRanking": 78
   },
   {
     "Book Id": 28767931,
@@ -8908,7 +9108,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 79
+    "totalRanking": 1,
+    "ratingRanking": 79
   },
   {
     "Book Id": 54109215,
@@ -8953,7 +9154,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 80
+    "totalRanking": 1,
+    "ratingRanking": 80
   },
   {
     "Book Id": 41241968,
@@ -8997,7 +9199,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 81
+    "totalRanking": 1,
+    "ratingRanking": 81
   },
   {
     "Book Id": 52761887,
@@ -9042,7 +9245,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 82
+    "totalRanking": 1,
+    "ratingRanking": 82
   },
   {
     "Book Id": 9317452,
@@ -9087,7 +9291,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 83
+    "totalRanking": 1,
+    "ratingRanking": 83
   },
   {
     "Book Id": 55595995,
@@ -9131,7 +9336,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 84
+    "totalRanking": 1,
+    "ratingRanking": 84
   },
   {
     "Book Id": 43895031,
@@ -9175,7 +9381,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 85
+    "totalRanking": 1,
+    "ratingRanking": 85
   },
   {
     "Book Id": 36332410,
@@ -9219,7 +9426,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 86
+    "totalRanking": 1,
+    "ratingRanking": 86
   },
   {
     "Book Id": 28137887,
@@ -9263,7 +9471,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 87
+    "totalRanking": 1,
+    "ratingRanking": 87
   },
   {
     "Book Id": 35023786,
@@ -9307,7 +9516,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 88
+    "totalRanking": 1,
+    "ratingRanking": 88
   },
   {
     "Book Id": 32283608,
@@ -9351,7 +9561,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 89
+    "totalRanking": 1,
+    "ratingRanking": 89
   },
   {
     "Book Id": 30558257,
@@ -9395,7 +9606,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 90
+    "totalRanking": 1,
+    "ratingRanking": 90
   },
   {
     "Book Id": 54124189,
@@ -9440,7 +9652,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 91
+    "totalRanking": 1,
+    "ratingRanking": 91
   },
   {
     "Book Id": 54231969,
@@ -9484,7 +9697,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 92
+    "totalRanking": 1,
+    "ratingRanking": 92
   },
   {
     "Book Id": 41180829,
@@ -9528,7 +9742,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 93
+    "totalRanking": 1,
+    "ratingRanking": 93
   },
   {
     "Book Id": 41033158,
@@ -9572,7 +9787,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 94
+    "totalRanking": 1,
+    "ratingRanking": 94
   },
   {
     "Book Id": 5,
@@ -9616,7 +9832,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 95
+    "totalRanking": 1,
+    "ratingRanking": 95
   },
   {
     "Book Id": 44492285,
@@ -9660,7 +9877,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 96
+    "totalRanking": 1,
+    "ratingRanking": 96
   },
   {
     "Book Id": 15881,
@@ -9704,7 +9922,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 97
+    "totalRanking": 1,
+    "ratingRanking": 97
   },
   {
     "Book Id": 7745,
@@ -9749,7 +9968,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 98
+    "totalRanking": 1,
+    "ratingRanking": 98
   },
   {
     "Book Id": 16328,
@@ -9794,7 +10014,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 99
+    "totalRanking": 1,
+    "ratingRanking": 99
   },
   {
     "Book Id": 12998057,
@@ -9838,7 +10059,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 100
+    "totalRanking": 1,
+    "ratingRanking": 100
   },
   {
     "Book Id": 6342483,
@@ -9882,7 +10104,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 101
+    "totalRanking": 1,
+    "ratingRanking": 101
   },
   {
     "Book Id": 4345290,
@@ -9926,7 +10149,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 102
+    "totalRanking": 1,
+    "ratingRanking": 102
   },
   {
     "Book Id": 10836728,
@@ -9971,7 +10195,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 103
+    "totalRanking": 1,
+    "ratingRanking": 103
   },
   {
     "Book Id": 12496,
@@ -10016,7 +10241,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 104
+    "totalRanking": 1,
+    "ratingRanking": 104
   },
   {
     "Book Id": 7294421,
@@ -10060,7 +10286,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 105
+    "totalRanking": 1,
+    "ratingRanking": 105
   },
   {
     "Book Id": 16100488,
@@ -10105,7 +10332,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 106
+    "totalRanking": 1,
+    "ratingRanking": 106
   },
   {
     "Book Id": 54511226,
@@ -10149,7 +10377,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 107
+    "totalRanking": 1,
+    "ratingRanking": 107
   },
   {
     "Book Id": 48484,
@@ -10194,7 +10423,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 108
+    "totalRanking": 1,
+    "ratingRanking": 108
   },
   {
     "Book Id": 42769202,
@@ -10238,7 +10468,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 109
+    "totalRanking": 1,
+    "ratingRanking": 109
   },
   {
     "Book Id": 5225631,
@@ -10282,7 +10513,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 110
+    "totalRanking": 1,
+    "ratingRanking": 110
   },
   {
     "Book Id": 52098718,
@@ -10326,7 +10558,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 111
+    "totalRanking": 1,
+    "ratingRanking": 111
   },
   {
     "Book Id": 17554595,
@@ -10371,7 +10604,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 112
+    "totalRanking": 1,
+    "ratingRanking": 112
   },
   {
     "Book Id": 61884,
@@ -10416,7 +10650,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 113
+    "totalRanking": 1,
+    "ratingRanking": 113
   },
   {
     "Book Id": 8260859,
@@ -10460,7 +10695,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 114
+    "totalRanking": 1,
+    "ratingRanking": 114
   },
   {
     "Book Id": 43521657,
@@ -10504,7 +10740,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 115
+    "totalRanking": 1,
+    "ratingRanking": 115
   },
   {
     "Book Id": 18626839,
@@ -10549,7 +10786,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 116
+    "totalRanking": 1,
+    "ratingRanking": 116
   },
   {
     "Book Id": 8908,
@@ -10594,7 +10832,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 117
+    "totalRanking": 1,
+    "ratingRanking": 117
   },
   {
     "Book Id": 26137012,
@@ -10639,7 +10878,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 118
+    "totalRanking": 1,
+    "ratingRanking": 118
   },
   {
     "Book Id": 40604658,
@@ -10684,7 +10924,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 119
+    "totalRanking": 1,
+    "ratingRanking": 119
   },
   {
     "Book Id": 41552709,
@@ -10729,7 +10970,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 120
+    "totalRanking": 1,
+    "ratingRanking": 120
   },
   {
     "Book Id": 42046112,
@@ -10773,7 +11015,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 121
+    "totalRanking": 1,
+    "ratingRanking": 121
   },
   {
     "Book Id": 45200535,
@@ -10818,7 +11061,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 122
+    "totalRanking": 1,
+    "ratingRanking": 122
   },
   {
     "Book Id": 35187207,
@@ -10863,7 +11107,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 123
+    "totalRanking": 1,
+    "ratingRanking": 123
   },
   {
     "Book Id": 7670,
@@ -10908,7 +11153,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 124
+    "totalRanking": 1,
+    "ratingRanking": 124
   },
   {
     "Book Id": 41940385,
@@ -10952,7 +11198,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 125
+    "totalRanking": 1,
+    "ratingRanking": 125
   },
   {
     "Book Id": 45046578,
@@ -10996,7 +11243,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 126
+    "totalRanking": 1,
+    "ratingRanking": 126
   },
   {
     "Book Id": 27405006,
@@ -11040,7 +11288,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 127
+    "totalRanking": 1,
+    "ratingRanking": 127
   },
   {
     "Book Id": 20447627,
@@ -11085,7 +11334,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 128
+    "totalRanking": 1,
+    "ratingRanking": 128
   },
   {
     "Book Id": 39332065,
@@ -11129,7 +11379,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 129
+    "totalRanking": 1,
+    "ratingRanking": 129
   },
   {
     "Book Id": 43784989,
@@ -11174,7 +11425,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 130
+    "totalRanking": 1,
+    "ratingRanking": 130
   },
   {
     "Book Id": 43671778,
@@ -11218,7 +11470,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 131
+    "totalRanking": 1,
+    "ratingRanking": 131
   },
   {
     "Book Id": 46226357,
@@ -11262,7 +11515,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 132
+    "totalRanking": 1,
+    "ratingRanking": 132
   },
   {
     "Book Id": 6567829,
@@ -11306,7 +11560,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 133
+    "totalRanking": 1,
+    "ratingRanking": 133
   },
   {
     "Book Id": 41093489,
@@ -11351,7 +11606,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 134
+    "totalRanking": 1,
+    "ratingRanking": 134
   },
   {
     "Book Id": 15818566,
@@ -11395,7 +11651,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 135
+    "totalRanking": 1,
+    "ratingRanking": 135
   },
   {
     "Book Id": 7631105,
@@ -11440,7 +11697,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 136
+    "totalRanking": 1,
+    "ratingRanking": 136
   },
   {
     "Book Id": 30169100,
@@ -11484,7 +11742,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 137
+    "totalRanking": 1,
+    "ratingRanking": 137
   },
   {
     "Book Id": 18966806,
@@ -11528,7 +11787,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 138
+    "totalRanking": 1,
+    "ratingRanking": 138
   },
   {
     "Book Id": 43205859,
@@ -11573,7 +11833,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 139
+    "totalRanking": 1,
+    "ratingRanking": 139
   },
   {
     "Book Id": 16029682,
@@ -11618,7 +11879,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 140
+    "totalRanking": 1,
+    "ratingRanking": 140
   },
   {
     "Book Id": 20697410,
@@ -11662,7 +11924,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 141
+    "totalRanking": 1,
+    "ratingRanking": 141
   },
   {
     "Book Id": 36337550,
@@ -11706,7 +11969,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 142
+    "totalRanking": 1,
+    "ratingRanking": 142
   },
   {
     "Book Id": 33081262,
@@ -11751,7 +12015,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 143
+    "totalRanking": 1,
+    "ratingRanking": 143
   },
   {
     "Book Id": 34084,
@@ -11795,7 +12060,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 144
+    "totalRanking": 1,
+    "ratingRanking": 144
   },
   {
     "Book Id": 44648962,
@@ -11839,7 +12105,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 145
+    "totalRanking": 1,
+    "ratingRanking": 145
   },
   {
     "Book Id": 27216148,
@@ -11884,7 +12151,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 146
+    "totalRanking": 1,
+    "ratingRanking": 146
   },
   {
     "Book Id": 38136876,
@@ -11929,7 +12197,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 147
+    "totalRanking": 1,
+    "ratingRanking": 147
   },
   {
     "Book Id": 25744928,
@@ -11973,7 +12242,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 148
+    "totalRanking": 1,
+    "ratingRanking": 148
   },
   {
     "Book Id": 35558395,
@@ -12018,7 +12288,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 149
+    "totalRanking": 1,
+    "ratingRanking": 149
   },
   {
     "Book Id": 15839976,
@@ -12062,7 +12333,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 150
+    "totalRanking": 1,
+    "ratingRanking": 150
   },
   {
     "Book Id": 36452099,
@@ -12107,7 +12379,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 151
+    "totalRanking": 1,
+    "ratingRanking": 151
   },
   {
     "Book Id": 5094,
@@ -12151,7 +12424,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 152
+    "totalRanking": 1,
+    "ratingRanking": 152
   },
   {
     "Book Id": 42930,
@@ -12196,7 +12470,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 153
+    "totalRanking": 1,
+    "ratingRanking": 153
   },
   {
     "Book Id": 28335696,
@@ -12240,7 +12515,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 154
+    "totalRanking": 1,
+    "ratingRanking": 154
   },
   {
     "Book Id": 38212118,
@@ -12285,7 +12561,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 155
+    "totalRanking": 1,
+    "ratingRanking": 155
   },
   {
     "Book Id": 2222,
@@ -12330,7 +12607,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 156
+    "totalRanking": 1,
+    "ratingRanking": 156
   },
   {
     "Book Id": 33357675,
@@ -12375,7 +12653,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 157
+    "totalRanking": 1,
+    "ratingRanking": 157
   },
   {
     "Book Id": 4897518,
@@ -12419,7 +12698,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 158
+    "totalRanking": 1,
+    "ratingRanking": 158
   },
   {
     "Book Id": 34220713,
@@ -12464,7 +12744,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 159
+    "totalRanking": 1,
+    "ratingRanking": 159
   },
   {
     "Book Id": 535073,
@@ -12509,7 +12790,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 160
+    "totalRanking": 1,
+    "ratingRanking": 160
   },
   {
     "Book Id": 16131107,
@@ -12553,7 +12835,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 161
+    "totalRanking": 1,
+    "ratingRanking": 161
   },
   {
     "Book Id": 7669,
@@ -12598,7 +12881,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 162
+    "totalRanking": 1,
+    "ratingRanking": 162
   },
   {
     "Book Id": 25110931,
@@ -12642,7 +12926,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 163
+    "totalRanking": 1,
+    "ratingRanking": 163
   },
   {
     "Book Id": 12499290,
@@ -12686,7 +12971,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 164
+    "totalRanking": 1,
+    "ratingRanking": 164
   },
   {
     "Book Id": 25110922,
@@ -12730,7 +13016,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 165
+    "totalRanking": 1,
+    "ratingRanking": 165
   },
   {
     "Book Id": 25814166,
@@ -12774,7 +13061,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 166
+    "totalRanking": 1,
+    "ratingRanking": 166
   },
   {
     "Book Id": 27206531,
@@ -12819,7 +13107,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 167
+    "totalRanking": 1,
+    "ratingRanking": 167
   },
   {
     "Book Id": 35066358,
@@ -12863,7 +13152,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 168
+    "totalRanking": 1,
+    "ratingRanking": 168
   },
   {
     "Book Id": 22055262,
@@ -12907,7 +13197,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 169
+    "totalRanking": 1,
+    "ratingRanking": 169
   },
   {
     "Book Id": 28594830,
@@ -12952,7 +13243,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 170
+    "totalRanking": 1,
+    "ratingRanking": 170
   },
   {
     "Book Id": 29562600,
@@ -12996,7 +13288,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 171
+    "totalRanking": 1,
+    "ratingRanking": 171
   },
   {
     "Book Id": 11114465,
@@ -13041,7 +13334,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 172
+    "totalRanking": 1,
+    "ratingRanking": 172
   },
   {
     "Book Id": 13890,
@@ -13085,7 +13379,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 173
+    "totalRanking": 1,
+    "ratingRanking": 173
   },
   {
     "Book Id": 35231,
@@ -13129,7 +13424,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 174
+    "totalRanking": 1,
+    "ratingRanking": 174
   },
   {
     "Book Id": 13895,
@@ -13173,7 +13469,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 175
+    "totalRanking": 1,
+    "ratingRanking": 175
   },
   {
     "Book Id": 9539,
@@ -13217,7 +13514,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 176
+    "totalRanking": 1,
+    "ratingRanking": 176
   },
   {
     "Book Id": 233649,
@@ -13261,7 +13559,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 177
+    "totalRanking": 1,
+    "ratingRanking": 177
   },
   {
     "Book Id": 34897,
@@ -13305,7 +13604,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 178
+    "totalRanking": 1,
+    "ratingRanking": 178
   },
   {
     "Book Id": 228665,
@@ -13349,7 +13649,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 179
+    "totalRanking": 1,
+    "ratingRanking": 179
   },
   {
     "Book Id": 10664113,
@@ -13394,7 +13695,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 180
+    "totalRanking": 1,
+    "ratingRanking": 180
   },
   {
     "Book Id": 13497,
@@ -13439,7 +13741,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 181
+    "totalRanking": 1,
+    "ratingRanking": 181
   },
   {
     "Book Id": 62291,
@@ -13483,7 +13786,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 182
+    "totalRanking": 1,
+    "ratingRanking": 182
   },
   {
     "Book Id": 10572,
@@ -13528,7 +13832,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 183
+    "totalRanking": 1,
+    "ratingRanking": 183
   },
   {
     "Book Id": 13496,
@@ -13573,7 +13878,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 184
+    "totalRanking": 1,
+    "ratingRanking": 184
   },
   {
     "Book Id": 944076,
@@ -13617,7 +13923,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 185
+    "totalRanking": 1,
+    "ratingRanking": 185
   },
   {
     "Book Id": 902715,
@@ -13661,7 +13968,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 186
+    "totalRanking": 1,
+    "ratingRanking": 186
   },
   {
     "Book Id": 944073,
@@ -13705,7 +14013,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 187
+    "totalRanking": 1,
+    "ratingRanking": 187
   },
   {
     "Book Id": 13891,
@@ -13749,7 +14058,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 188
+    "totalRanking": 1,
+    "ratingRanking": 188
   },
   {
     "Book Id": 140974,
@@ -13793,7 +14103,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 189
+    "totalRanking": 1,
+    "ratingRanking": 189
   },
   {
     "Book Id": 18505792,
@@ -13837,7 +14148,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 1
+    "totalRanking": 1,
+    "ratingRanking": 1
   },
   {
     "Book Id": 203356485,
@@ -13882,7 +14194,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 2
+    "totalRanking": 1,
+    "ratingRanking": 2
   },
   {
     "Book Id": 4069,
@@ -13927,7 +14240,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 3
+    "totalRanking": 1,
+    "ratingRanking": 3
   },
   {
     "Book Id": 43606308,
@@ -13971,7 +14285,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 4
+    "totalRanking": 1,
+    "ratingRanking": 4
   },
   {
     "Book Id": 431806,
@@ -14016,7 +14331,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 5
+    "totalRanking": 1,
+    "ratingRanking": 5
   },
   {
     "Book Id": 1306115,
@@ -14061,7 +14377,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 6
+    "totalRanking": 1,
+    "ratingRanking": 6
   },
   {
     "Book Id": 66293,
@@ -14106,7 +14423,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 7
+    "totalRanking": 1,
+    "ratingRanking": 7
   },
   {
     "Book Id": 969275,
@@ -14151,7 +14469,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 8
+    "totalRanking": 1,
+    "ratingRanking": 8
   },
   {
     "Book Id": 6307034,
@@ -14196,7 +14515,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 9
+    "totalRanking": 1,
+    "ratingRanking": 9
   },
   {
     "Book Id": 91478,
@@ -14240,7 +14560,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 10
+    "totalRanking": 1,
+    "ratingRanking": 10
   },
   {
     "Book Id": 59431748,
@@ -14281,7 +14602,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 11
+    "totalRanking": 1,
+    "ratingRanking": 11
   },
   {
     "Book Id": 9540602,
@@ -14325,7 +14647,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 12
+    "totalRanking": 1,
+    "ratingRanking": 12
   },
   {
     "Book Id": 91476,
@@ -14369,7 +14692,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 13
+    "totalRanking": 1,
+    "ratingRanking": 13
   },
   {
     "Book Id": 32970179,
@@ -14413,7 +14737,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 14
+    "totalRanking": 1,
+    "ratingRanking": 14
   },
   {
     "Book Id": 43211318,
@@ -14458,7 +14783,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 15
+    "totalRanking": 1,
+    "ratingRanking": 15
   },
   {
     "Book Id": 7975411,
@@ -14503,7 +14829,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 16
+    "totalRanking": 1,
+    "ratingRanking": 16
   },
   {
     "Book Id": 25105,
@@ -14548,7 +14875,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 17
+    "totalRanking": 1,
+    "ratingRanking": 17
   },
   {
     "Book Id": 25106,
@@ -14593,7 +14921,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 18
+    "totalRanking": 1,
+    "ratingRanking": 18
   },
   {
     "Book Id": 1941607,
@@ -14638,7 +14967,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 19
+    "totalRanking": 1,
+    "ratingRanking": 19
   },
   {
     "Book Id": 17061,
@@ -14683,7 +15013,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 20
+    "totalRanking": 1,
+    "ratingRanking": 20
   },
   {
     "Book Id": 35519101,
@@ -14727,7 +15058,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 21
+    "totalRanking": 1,
+    "ratingRanking": 21
   },
   {
     "Book Id": 6053281,
@@ -14770,7 +15102,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 22
+    "totalRanking": 1,
+    "ratingRanking": 22
   },
   {
     "Book Id": 20588662,
@@ -14815,7 +15148,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 23
+    "totalRanking": 1,
+    "ratingRanking": 23
   },
   {
     "Book Id": 61634435,
@@ -14860,7 +15194,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 24
+    "totalRanking": 1,
+    "ratingRanking": 24
   },
   {
     "Book Id": 637986,
@@ -14905,7 +15240,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 25
+    "totalRanking": 1,
+    "ratingRanking": 25
   },
   {
     "Book Id": 51869310,
@@ -14948,7 +15284,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 26
+    "totalRanking": 1,
+    "ratingRanking": 26
   },
   {
     "Book Id": 43783308,
@@ -14992,7 +15329,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 27
+    "totalRanking": 1,
+    "ratingRanking": 27
   },
   {
     "Book Id": 43730448,
@@ -15035,7 +15373,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 28
+    "totalRanking": 1,
+    "ratingRanking": 28
   },
   {
     "Book Id": 41446530,
@@ -15080,7 +15419,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 29
+    "totalRanking": 1,
+    "ratingRanking": 29
   },
   {
     "Book Id": 35601772,
@@ -15124,7 +15464,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 30
+    "totalRanking": 1,
+    "ratingRanking": 30
   },
   {
     "Book Id": 34606064,
@@ -15168,7 +15509,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 31
+    "totalRanking": 1,
+    "ratingRanking": 31
   },
   {
     "Book Id": 89195,
@@ -15212,7 +15554,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 32
+    "totalRanking": 1,
+    "ratingRanking": 32
   },
   {
     "Book Id": 60433186,
@@ -15257,7 +15600,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 33
+    "totalRanking": 1,
+    "ratingRanking": 33
   },
   {
     "Book Id": 25591187,
@@ -15302,7 +15646,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 34
+    "totalRanking": 1,
+    "ratingRanking": 34
   },
   {
     "Book Id": 15783495,
@@ -15347,7 +15692,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 35
+    "totalRanking": 1,
+    "ratingRanking": 35
   },
   {
     "Book Id": 25101,
@@ -15392,7 +15738,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 36
+    "totalRanking": 1,
+    "ratingRanking": 36
   },
   {
     "Book Id": 49203374,
@@ -15436,7 +15783,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 37
+    "totalRanking": 1,
+    "ratingRanking": 37
   },
   {
     "Book Id": 295649,
@@ -15480,7 +15828,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 38
+    "totalRanking": 1,
+    "ratingRanking": 38
   },
   {
     "Book Id": 40641074,
@@ -15525,7 +15874,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 39
+    "totalRanking": 1,
+    "ratingRanking": 39
   },
   {
     "Book Id": 6050678,
@@ -15570,7 +15920,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 40
+    "totalRanking": 1,
+    "ratingRanking": 40
   },
   {
     "Book Id": 34850461,
@@ -15615,7 +15966,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 41
+    "totalRanking": 1,
+    "ratingRanking": 41
   },
   {
     "Book Id": 32920254,
@@ -15660,7 +16012,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 42
+    "totalRanking": 1,
+    "ratingRanking": 42
   },
   {
     "Book Id": 32191675,
@@ -15705,7 +16058,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 43
+    "totalRanking": 1,
+    "ratingRanking": 43
   },
   {
     "Book Id": 31434883,
@@ -15749,7 +16103,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 44
+    "totalRanking": 1,
+    "ratingRanking": 44
   },
   {
     "Book Id": 2467557,
@@ -15794,7 +16149,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 45
+    "totalRanking": 1,
+    "ratingRanking": 45
   },
   {
     "Book Id": 6535144,
@@ -15839,7 +16195,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 46
+    "totalRanking": 1,
+    "ratingRanking": 46
   },
   {
     "Book Id": 1978757,
@@ -15884,7 +16241,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 47
+    "totalRanking": 1,
+    "ratingRanking": 47
   },
   {
     "Book Id": 28814891,
@@ -15929,7 +16287,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 48
+    "totalRanking": 1,
+    "ratingRanking": 48
   },
   {
     "Book Id": 11617647,
@@ -15974,7 +16333,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 49
+    "totalRanking": 1,
+    "ratingRanking": 49
   },
   {
     "Book Id": 45876,
@@ -16019,7 +16379,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 50
+    "totalRanking": 1,
+    "ratingRanking": 50
   },
   {
     "Book Id": 56304131,
@@ -16064,7 +16425,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 51
+    "totalRanking": 1,
+    "ratingRanking": 51
   },
   {
     "Book Id": 43862305,
@@ -16109,7 +16471,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 52
+    "totalRanking": 1,
+    "ratingRanking": 52
   },
   {
     "Book Id": 7247463,
@@ -16154,7 +16517,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 53
+    "totalRanking": 1,
+    "ratingRanking": 53
   },
   {
     "Book Id": 13154150,
@@ -16199,7 +16563,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 54
+    "totalRanking": 1,
+    "ratingRanking": 54
   },
   {
     "Book Id": 56783258,
@@ -16243,7 +16608,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 55
+    "totalRanking": 1,
+    "ratingRanking": 55
   },
   {
     "Book Id": 58988177,
@@ -16284,7 +16650,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 56
+    "totalRanking": 1,
+    "ratingRanking": 56
   },
   {
     "Book Id": 13538873,
@@ -16328,7 +16695,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 57
+    "totalRanking": 1,
+    "ratingRanking": 57
   },
   {
     "Book Id": 9791,
@@ -16372,7 +16740,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 58
+    "totalRanking": 1,
+    "ratingRanking": 58
   },
   {
     "Book Id": 58146427,
@@ -16417,7 +16786,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 59
+    "totalRanking": 1,
+    "ratingRanking": 59
   },
   {
     "Book Id": 6148028,
@@ -16462,7 +16832,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 60
+    "totalRanking": 1,
+    "ratingRanking": 60
   },
   {
     "Book Id": 42779064,
@@ -16507,7 +16878,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 61
+    "totalRanking": 1,
+    "ratingRanking": 61
   },
   {
     "Book Id": 23754,
@@ -16552,7 +16924,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 62
+    "totalRanking": 1,
+    "ratingRanking": 62
   },
   {
     "Book Id": 17799,
@@ -16597,7 +16970,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 63
+    "totalRanking": 1,
+    "ratingRanking": 63
   },
   {
     "Book Id": 34684622,
@@ -16641,7 +17015,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 64
+    "totalRanking": 1,
+    "ratingRanking": 64
   },
   {
     "Book Id": 40680070,
@@ -16686,7 +17061,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 65
+    "totalRanking": 1,
+    "ratingRanking": 65
   },
   {
     "Book Id": 31140438,
@@ -16730,7 +17106,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 66
+    "totalRanking": 1,
+    "ratingRanking": 66
   },
   {
     "Book Id": 58340716,
@@ -16775,7 +17152,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 67
+    "totalRanking": 1,
+    "ratingRanking": 67
   },
   {
     "Book Id": 27406743,
@@ -16819,7 +17197,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 68
+    "totalRanking": 1,
+    "ratingRanking": 68
   },
   {
     "Book Id": 10225194,
@@ -16864,7 +17243,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 69
+    "totalRanking": 1,
+    "ratingRanking": 69
   },
   {
     "Book Id": 54968118,
@@ -16908,7 +17288,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 70
+    "totalRanking": 1,
+    "ratingRanking": 70
   },
   {
     "Book Id": 43309529,
@@ -16953,7 +17334,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 71
+    "totalRanking": 1,
+    "ratingRanking": 71
   },
   {
     "Book Id": 9557,
@@ -16998,7 +17380,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 72
+    "totalRanking": 1,
+    "ratingRanking": 72
   },
   {
     "Book Id": 49239093,
@@ -17042,7 +17425,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 73
+    "totalRanking": 1,
+    "ratingRanking": 73
   },
   {
     "Book Id": 11872850,
@@ -17087,7 +17471,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 74
+    "totalRanking": 1,
+    "ratingRanking": 74
   },
   {
     "Book Id": 31138556,
@@ -17131,7 +17516,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 75
+    "totalRanking": 1,
+    "ratingRanking": 75
   },
   {
     "Book Id": 2001695,
@@ -17176,7 +17562,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 76
+    "totalRanking": 1,
+    "ratingRanking": 76
   },
   {
     "Book Id": 20170404,
@@ -17220,7 +17607,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 77
+    "totalRanking": 1,
+    "ratingRanking": 77
   },
   {
     "Book Id": 41806641,
@@ -17264,7 +17652,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 78
+    "totalRanking": 1,
+    "ratingRanking": 78
   },
   {
     "Book Id": 248872,
@@ -17309,7 +17698,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 79
+    "totalRanking": 1,
+    "ratingRanking": 79
   },
   {
     "Book Id": 38447,
@@ -17354,7 +17744,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 80
+    "totalRanking": 1,
+    "ratingRanking": 80
   },
   {
     "Book Id": 20883847,
@@ -17398,7 +17789,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 81
+    "totalRanking": 1,
+    "ratingRanking": 81
   },
   {
     "Book Id": 59962037,
@@ -17443,7 +17835,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 82
+    "totalRanking": 1,
+    "ratingRanking": 82
   },
   {
     "Book Id": 48516235,
@@ -17488,7 +17881,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 83
+    "totalRanking": 1,
+    "ratingRanking": 83
   },
   {
     "Book Id": 40603587,
@@ -17532,7 +17926,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 84
+    "totalRanking": 1,
+    "ratingRanking": 84
   },
   {
     "Book Id": 17608111,
@@ -17577,7 +17972,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 85
+    "totalRanking": 1,
+    "ratingRanking": 85
   },
   {
     "Book Id": 27406777,
@@ -17621,7 +18017,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 86
+    "totalRanking": 1,
+    "ratingRanking": 86
   },
   {
     "Book Id": 57571215,
@@ -17665,7 +18062,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 87
+    "totalRanking": 1,
+    "ratingRanking": 87
   },
   {
     "Book Id": 8675300,
@@ -17710,7 +18108,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 88
+    "totalRanking": 1,
+    "ratingRanking": 88
   },
   {
     "Book Id": 102868,
@@ -17754,7 +18153,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 89
+    "totalRanking": 1,
+    "ratingRanking": 89
   },
   {
     "Book Id": 5907,
@@ -17799,7 +18199,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 90
+    "totalRanking": 1,
+    "ratingRanking": 90
   },
   {
     "Book Id": 91477,
@@ -17843,7 +18244,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 91
+    "totalRanking": 1,
+    "ratingRanking": 91
   },
   {
     "Book Id": 99208,
@@ -17888,7 +18290,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 92
+    "totalRanking": 1,
+    "ratingRanking": 92
   },
   {
     "Book Id": 30145147,
@@ -17933,7 +18336,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 93
+    "totalRanking": 1,
+    "ratingRanking": 93
   },
   {
     "Book Id": 19288239,
@@ -17978,7 +18382,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 94
+    "totalRanking": 1,
+    "ratingRanking": 94
   },
   {
     "Book Id": 50892360,
@@ -18022,7 +18427,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 95
+    "totalRanking": 1,
+    "ratingRanking": 95
   },
   {
     "Book Id": 25898577,
@@ -18067,7 +18473,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 96
+    "totalRanking": 1,
+    "ratingRanking": 96
   },
   {
     "Book Id": 10383194,
@@ -18112,7 +18519,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 97
+    "totalRanking": 1,
+    "ratingRanking": 97
   },
   {
     "Book Id": 53263726,
@@ -18157,7 +18565,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 98
+    "totalRanking": 1,
+    "ratingRanking": 98
   },
   {
     "Book Id": 51733546,
@@ -18201,7 +18610,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 99
+    "totalRanking": 1,
+    "ratingRanking": 99
   },
   {
     "Book Id": 32191706,
@@ -18246,7 +18656,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 100
+    "totalRanking": 1,
+    "ratingRanking": 100
   },
   {
     "Book Id": 16322,
@@ -18291,7 +18702,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 101
+    "totalRanking": 1,
+    "ratingRanking": 101
   },
   {
     "Book Id": 23277298,
@@ -18335,7 +18747,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 102
+    "totalRanking": 1,
+    "ratingRanking": 102
   },
   {
     "Book Id": 7841670,
@@ -18379,7 +18792,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 103
+    "totalRanking": 1,
+    "ratingRanking": 103
   },
   {
     "Book Id": 33257757,
@@ -18423,7 +18837,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 104
+    "totalRanking": 1,
+    "ratingRanking": 104
   },
   {
     "Book Id": 48930288,
@@ -18468,7 +18883,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 105
+    "totalRanking": 1,
+    "ratingRanking": 105
   },
   {
     "Book Id": 3,
@@ -18512,7 +18928,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 106
+    "totalRanking": 1,
+    "ratingRanking": 106
   },
   {
     "Book Id": 8793836,
@@ -18557,7 +18974,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 107
+    "totalRanking": 1,
+    "ratingRanking": 107
   },
   {
     "Book Id": 28962452,
@@ -18602,7 +19020,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 108
+    "totalRanking": 1,
+    "ratingRanking": 108
   },
   {
     "Book Id": 28876,
@@ -18647,7 +19066,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 109
+    "totalRanking": 1,
+    "ratingRanking": 109
   },
   {
     "Book Id": 8341863,
@@ -18692,7 +19112,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 110
+    "totalRanking": 1,
+    "ratingRanking": 110
   },
   {
     "Book Id": 9023471,
@@ -18737,7 +19158,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 111
+    "totalRanking": 1,
+    "ratingRanking": 111
   },
   {
     "Book Id": 13587149,
@@ -18781,7 +19203,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 112
+    "totalRanking": 1,
+    "ratingRanking": 112
   },
   {
     "Book Id": 61901,
@@ -18825,7 +19248,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 113
+    "totalRanking": 1,
+    "ratingRanking": 113
   },
   {
     "Book Id": 112537,
@@ -18870,7 +19294,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 114
+    "totalRanking": 1,
+    "ratingRanking": 114
   },
   {
     "Book Id": 11250317,
@@ -18915,7 +19340,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 115
+    "totalRanking": 1,
+    "ratingRanking": 115
   },
   {
     "Book Id": 61899,
@@ -18960,7 +19386,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 116
+    "totalRanking": 1,
+    "ratingRanking": 116
   },
   {
     "Book Id": 35959740,
@@ -19004,7 +19431,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 117
+    "totalRanking": 1,
+    "ratingRanking": 117
   },
   {
     "Book Id": 18090123,
@@ -19048,7 +19476,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 118
+    "totalRanking": 1,
+    "ratingRanking": 118
   },
   {
     "Book Id": 16315,
@@ -19092,7 +19521,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 119
+    "totalRanking": 1,
+    "ratingRanking": 119
   },
   {
     "Book Id": 853510,
@@ -19136,7 +19566,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 120
+    "totalRanking": 1,
+    "ratingRanking": 120
   },
   {
     "Book Id": 56616,
@@ -19181,7 +19612,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 121
+    "totalRanking": 1,
+    "ratingRanking": 121
   },
   {
     "Book Id": 53152636,
@@ -19226,7 +19658,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 122
+    "totalRanking": 1,
+    "ratingRanking": 122
   },
   {
     "Book Id": 20174424,
@@ -19271,7 +19704,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 123
+    "totalRanking": 1,
+    "ratingRanking": 123
   },
   {
     "Book Id": 30078567,
@@ -19315,7 +19749,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 124
+    "totalRanking": 1,
+    "ratingRanking": 124
   },
   {
     "Book Id": 883968,
@@ -19360,7 +19795,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 125
+    "totalRanking": 1,
+    "ratingRanking": 125
   },
   {
     "Book Id": 23763447,
@@ -19405,7 +19841,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 126
+    "totalRanking": 1,
+    "ratingRanking": 126
   },
   {
     "Book Id": 7923006,
@@ -19450,7 +19887,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 127
+    "totalRanking": 1,
+    "ratingRanking": 127
   },
   {
     "Book Id": 7904453,
@@ -19495,7 +19933,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 128
+    "totalRanking": 1,
+    "ratingRanking": 128
   },
   {
     "Book Id": 8176893,
@@ -19540,7 +19979,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 129
+    "totalRanking": 1,
+    "ratingRanking": 129
   },
   {
     "Book Id": 40886114,
@@ -19584,7 +20024,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 130
+    "totalRanking": 1,
+    "ratingRanking": 130
   },
   {
     "Book Id": 49000155,
@@ -19628,7 +20069,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 131
+    "totalRanking": 1,
+    "ratingRanking": 131
   },
   {
     "Book Id": 26195941,
@@ -19673,7 +20115,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 132
+    "totalRanking": 1,
+    "ratingRanking": 132
   },
   {
     "Book Id": 7155553,
@@ -19718,7 +20161,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 133
+    "totalRanking": 1,
+    "ratingRanking": 133
   },
   {
     "Book Id": 43263680,
@@ -19763,7 +20207,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 134
+    "totalRanking": 1,
+    "ratingRanking": 134
   },
   {
     "Book Id": 40917496,
@@ -19807,7 +20252,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 135
+    "totalRanking": 1,
+    "ratingRanking": 135
   },
   {
     "Book Id": 40538681,
@@ -19851,7 +20297,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 136
+    "totalRanking": 1,
+    "ratingRanking": 136
   },
   {
     "Book Id": 44667183,
@@ -19896,7 +20343,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 137
+    "totalRanking": 1,
+    "ratingRanking": 137
   },
   {
     "Book Id": 61909,
@@ -19940,7 +20388,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 138
+    "totalRanking": 1,
+    "ratingRanking": 138
   },
   {
     "Book Id": 27833670,
@@ -19984,7 +20433,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 139
+    "totalRanking": 1,
+    "ratingRanking": 139
   },
   {
     "Book Id": 44148860,
@@ -20028,7 +20478,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 140
+    "totalRanking": 1,
+    "ratingRanking": 140
   },
   {
     "Book Id": 296182,
@@ -20072,7 +20523,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 141
+    "totalRanking": 1,
+    "ratingRanking": 141
   },
   {
     "Book Id": 76811,
@@ -20116,7 +20568,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 142
+    "totalRanking": 1,
+    "ratingRanking": 142
   },
   {
     "Book Id": 43263243,
@@ -20161,7 +20614,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 143
+    "totalRanking": 1,
+    "ratingRanking": 143
   },
   {
     "Book Id": 45296,
@@ -20206,7 +20660,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 144
+    "totalRanking": 1,
+    "ratingRanking": 144
   },
   {
     "Book Id": 23128304,
@@ -20251,7 +20706,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 145
+    "totalRanking": 1,
+    "ratingRanking": 145
   },
   {
     "Book Id": 26863057,
@@ -20295,7 +20751,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 146
+    "totalRanking": 1,
+    "ratingRanking": 146
   },
   {
     "Book Id": 990093,
@@ -20340,7 +20797,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 147
+    "totalRanking": 1,
+    "ratingRanking": 147
   },
   {
     "Book Id": 35606041,
@@ -20384,7 +20842,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 148
+    "totalRanking": 1,
+    "ratingRanking": 148
   },
   {
     "Book Id": 5933841,
@@ -20429,7 +20888,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 149
+    "totalRanking": 1,
+    "ratingRanking": 149
   },
   {
     "Book Id": 43263225,
@@ -20473,7 +20933,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 150
+    "totalRanking": 1,
+    "ratingRanking": 150
   },
   {
     "Book Id": 39603796,
@@ -20518,7 +20979,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 151
+    "totalRanking": 1,
+    "ratingRanking": 151
   },
   {
     "Book Id": 30145126,
@@ -20562,7 +21024,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 152
+    "totalRanking": 1,
+    "ratingRanking": 152
   },
   {
     "Book Id": 13662,
@@ -20607,7 +21070,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 153
+    "totalRanking": 1,
+    "ratingRanking": 153
   },
   {
     "Book Id": 2460584,
@@ -20652,7 +21116,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 154
+    "totalRanking": 1,
+    "ratingRanking": 154
   },
   {
     "Book Id": 6186357,
@@ -20697,7 +21162,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 155
+    "totalRanking": 1,
+    "ratingRanking": 155
   },
   {
     "Book Id": 22350224,
@@ -20742,7 +21208,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 156
+    "totalRanking": 1,
+    "ratingRanking": 156
   },
   {
     "Book Id": 1082754,
@@ -20787,7 +21254,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 157
+    "totalRanking": 1,
+    "ratingRanking": 157
   },
   {
     "Book Id": 40163120,
@@ -20832,7 +21300,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 158
+    "totalRanking": 1,
+    "ratingRanking": 158
   },
   {
     "Book Id": 20764879,
@@ -20876,7 +21345,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 159
+    "totalRanking": 1,
+    "ratingRanking": 159
   },
   {
     "Book Id": 35123082,
@@ -20921,7 +21391,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 160
+    "totalRanking": 1,
+    "ratingRanking": 160
   },
   {
     "Book Id": 618291,
@@ -20966,7 +21437,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 161
+    "totalRanking": 1,
+    "ratingRanking": 161
   },
   {
     "Book Id": 36407347,
@@ -21011,7 +21483,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 162
+    "totalRanking": 1,
+    "ratingRanking": 162
   },
   {
     "Book Id": 76812,
@@ -21055,7 +21528,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 163
+    "totalRanking": 1,
+    "ratingRanking": 163
   },
   {
     "Book Id": 11828537,
@@ -21100,7 +21574,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 164
+    "totalRanking": 1,
+    "ratingRanking": 164
   },
   {
     "Book Id": 31360,
@@ -21144,7 +21619,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 165
+    "totalRanking": 1,
+    "ratingRanking": 165
   },
   {
     "Book Id": 33574273,
@@ -21189,7 +21665,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 166
+    "totalRanking": 1,
+    "ratingRanking": 166
   },
   {
     "Book Id": 7126,
@@ -21234,7 +21711,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 167
+    "totalRanking": 1,
+    "ratingRanking": 167
   },
   {
     "Book Id": 21911720,
@@ -21278,7 +21756,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 168
+    "totalRanking": 1,
+    "ratingRanking": 168
   },
   {
     "Book Id": 853630,
@@ -21323,7 +21802,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 169
+    "totalRanking": 1,
+    "ratingRanking": 169
   },
   {
     "Book Id": 40523931,
@@ -21367,7 +21847,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 170
+    "totalRanking": 1,
+    "ratingRanking": 170
   },
   {
     "Book Id": 89230,
@@ -21412,7 +21893,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 171
+    "totalRanking": 1,
+    "ratingRanking": 171
   },
   {
     "Book Id": 38650329,
@@ -21457,7 +21939,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 172
+    "totalRanking": 1,
+    "ratingRanking": 172
   },
   {
     "Book Id": 8648,
@@ -21501,7 +21984,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 173
+    "totalRanking": 1,
+    "ratingRanking": 173
   },
   {
     "Book Id": 37638234,
@@ -21545,7 +22029,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 174
+    "totalRanking": 1,
+    "ratingRanking": 174
   },
   {
     "Book Id": 11350120,
@@ -21590,7 +22075,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 175
+    "totalRanking": 1,
+    "ratingRanking": 175
   },
   {
     "Book Id": 74034,
@@ -21635,7 +22121,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 176
+    "totalRanking": 1,
+    "ratingRanking": 176
   },
   {
     "Book Id": 27276408,
@@ -21680,7 +22167,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 177
+    "totalRanking": 1,
+    "ratingRanking": 177
   },
   {
     "Book Id": 24233708,
@@ -21724,7 +22212,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 178
+    "totalRanking": 1,
+    "ratingRanking": 178
   },
   {
     "Book Id": 3486989,
@@ -21769,7 +22258,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 179
+    "totalRanking": 1,
+    "ratingRanking": 179
   },
   {
     "Book Id": 9852709,
@@ -21814,7 +22304,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 180
+    "totalRanking": 1,
+    "ratingRanking": 180
   },
   {
     "Book Id": 39204073,
@@ -21859,7 +22350,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 181
+    "totalRanking": 1,
+    "ratingRanking": 181
   },
   {
     "Book Id": 1052,
@@ -21904,7 +22396,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 182
+    "totalRanking": 1,
+    "ratingRanking": 182
   },
   {
     "Book Id": 206731,
@@ -21949,7 +22442,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 183
+    "totalRanking": 1,
+    "ratingRanking": 183
   },
   {
     "Book Id": 551520,
@@ -21994,7 +22488,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 184
+    "totalRanking": 1,
+    "ratingRanking": 184
   },
   {
     "Book Id": 17348852,
@@ -22039,7 +22534,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 185
+    "totalRanking": 1,
+    "ratingRanking": 185
   },
   {
     "Book Id": 34379902,
@@ -22084,7 +22580,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 186
+    "totalRanking": 1,
+    "ratingRanking": 186
   },
   {
     "Book Id": 227735,
@@ -22129,7 +22626,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 187
+    "totalRanking": 1,
+    "ratingRanking": 187
   },
   {
     "Book Id": 908277,
@@ -22173,7 +22671,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 188
+    "totalRanking": 1,
+    "ratingRanking": 188
   },
   {
     "Book Id": 35758077,
@@ -22217,7 +22716,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 189
+    "totalRanking": 1,
+    "ratingRanking": 189
   },
   {
     "Book Id": 7967,
@@ -22261,7 +22761,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 190
+    "totalRanking": 1,
+    "ratingRanking": 190
   },
   {
     "Book Id": 20501606,
@@ -22306,7 +22807,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 191
+    "totalRanking": 1,
+    "ratingRanking": 191
   },
   {
     "Book Id": 1971304,
@@ -22350,7 +22852,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 192
+    "totalRanking": 1,
+    "ratingRanking": 192
   },
   {
     "Book Id": 768921,
@@ -22395,7 +22898,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 193
+    "totalRanking": 1,
+    "ratingRanking": 193
   },
   {
     "Book Id": 17182126,
@@ -22440,7 +22944,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 194
+    "totalRanking": 1,
+    "ratingRanking": 194
   },
   {
     "Book Id": 154091,
@@ -22485,7 +22990,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 195
+    "totalRanking": 1,
+    "ratingRanking": 195
   },
   {
     "Book Id": 35631572,
@@ -22530,7 +23036,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 196
+    "totalRanking": 1,
+    "ratingRanking": 196
   },
   {
     "Book Id": 37976542,
@@ -22574,7 +23081,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 197
+    "totalRanking": 1,
+    "ratingRanking": 197
   },
   {
     "Book Id": 18626895,
@@ -22619,7 +23127,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 198
+    "totalRanking": 1,
+    "ratingRanking": 198
   },
   {
     "Book Id": 37652932,
@@ -22664,7 +23173,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 199
+    "totalRanking": 1,
+    "ratingRanking": 199
   },
   {
     "Book Id": 25300956,
@@ -22708,7 +23218,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 200
+    "totalRanking": 1,
+    "ratingRanking": 200
   },
   {
     "Book Id": 33396914,
@@ -22753,7 +23264,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 201
+    "totalRanking": 1,
+    "ratingRanking": 201
   },
   {
     "Book Id": 18512,
@@ -22798,7 +23310,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 202
+    "totalRanking": 1,
+    "ratingRanking": 202
   },
   {
     "Book Id": 15241,
@@ -22843,7 +23356,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 203
+    "totalRanking": 1,
+    "ratingRanking": 203
   },
   {
     "Book Id": 34,
@@ -22888,7 +23402,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 204
+    "totalRanking": 1,
+    "ratingRanking": 204
   },
   {
     "Book Id": 89724,
@@ -22932,7 +23447,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 1
+    "totalRanking": 1,
+    "ratingRanking": 1
   },
   {
     "Book Id": 13129925,
@@ -22977,7 +23493,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 2
+    "totalRanking": 1,
+    "ratingRanking": 2
   },
   {
     "Book Id": 58724998,
@@ -23022,7 +23539,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 3
+    "totalRanking": 1,
+    "ratingRanking": 3
   },
   {
     "Book Id": 27424784,
@@ -23067,7 +23585,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 4
+    "totalRanking": 1,
+    "ratingRanking": 4
   },
   {
     "Book Id": 22522805,
@@ -23112,7 +23631,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 5
+    "totalRanking": 1,
+    "ratingRanking": 5
   },
   {
     "Book Id": 1798649,
@@ -23157,7 +23677,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 6
+    "totalRanking": 1,
+    "ratingRanking": 6
   },
   {
     "Book Id": 25104,
@@ -23202,7 +23723,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 7
+    "totalRanking": 1,
+    "ratingRanking": 7
   },
   {
     "Book Id": 71252,
@@ -23247,7 +23769,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 8
+    "totalRanking": 1,
+    "ratingRanking": 8
   },
   {
     "Book Id": 12091495,
@@ -23292,7 +23815,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 9
+    "totalRanking": 1,
+    "ratingRanking": 9
   },
   {
     "Book Id": 124938168,
@@ -23333,7 +23857,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 10
+    "totalRanking": 1,
+    "ratingRanking": 10
   },
   {
     "Book Id": 53419033,
@@ -23378,7 +23903,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 11
+    "totalRanking": 1,
+    "ratingRanking": 11
   },
   {
     "Book Id": 43237723,
@@ -23423,7 +23949,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 12
+    "totalRanking": 1,
+    "ratingRanking": 12
   },
   {
     "Book Id": 1001442,
@@ -23468,7 +23995,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 13
+    "totalRanking": 1,
+    "ratingRanking": 13
   },
   {
     "Book Id": 20663770,
@@ -23512,7 +24040,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 14
+    "totalRanking": 1,
+    "ratingRanking": 14
   },
   {
     "Book Id": 51099990,
@@ -23555,7 +24084,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 15
+    "totalRanking": 1,
+    "ratingRanking": 15
   },
   {
     "Book Id": 51202518,
@@ -23597,7 +24127,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 16
+    "totalRanking": 1,
+    "ratingRanking": 16
   },
   {
     "Book Id": 51803915,
@@ -23638,7 +24169,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 17
+    "totalRanking": 1,
+    "ratingRanking": 17
   },
   {
     "Book Id": 43260015,
@@ -23683,7 +24215,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 18
+    "totalRanking": 1,
+    "ratingRanking": 18
   },
   {
     "Book Id": 334123,
@@ -23728,7 +24261,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 19
+    "totalRanking": 1,
+    "ratingRanking": 19
   },
   {
     "Book Id": 13630,
@@ -23773,7 +24307,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 20
+    "totalRanking": 1,
+    "ratingRanking": 20
   },
   {
     "Book Id": 28220687,
@@ -23817,7 +24352,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 21
+    "totalRanking": 1,
+    "ratingRanking": 21
   },
   {
     "Book Id": 58950705,
@@ -23862,7 +24398,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 22
+    "totalRanking": 1,
+    "ratingRanking": 22
   },
   {
     "Book Id": 25100,
@@ -23907,7 +24444,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 23
+    "totalRanking": 1,
+    "ratingRanking": 23
   },
   {
     "Book Id": 530451,
@@ -23952,7 +24490,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 24
+    "totalRanking": 1,
+    "ratingRanking": 24
   },
   {
     "Book Id": 51373,
@@ -23997,7 +24536,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 25
+    "totalRanking": 1,
+    "ratingRanking": 25
   },
   {
     "Book Id": 22171569,
@@ -24042,7 +24582,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 26
+    "totalRanking": 1,
+    "ratingRanking": 26
   },
   {
     "Book Id": 1303,
@@ -24087,7 +24628,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 27
+    "totalRanking": 1,
+    "ratingRanking": 27
   },
   {
     "Book Id": 41223608,
@@ -24131,7 +24673,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 28
+    "totalRanking": 1,
+    "ratingRanking": 28
   },
   {
     "Book Id": 7260188,
@@ -24176,7 +24719,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 29
+    "totalRanking": 1,
+    "ratingRanking": 29
   },
   {
     "Book Id": 50659467,
@@ -24220,7 +24764,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 30
+    "totalRanking": 1,
+    "ratingRanking": 30
   },
   {
     "Book Id": 57648017,
@@ -24264,7 +24809,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 31
+    "totalRanking": 1,
+    "ratingRanking": 31
   },
   {
     "Book Id": 17910048,
@@ -24309,7 +24855,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 32
+    "totalRanking": 1,
+    "ratingRanking": 32
   },
   {
     "Book Id": 51802456,
@@ -24354,7 +24901,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 33
+    "totalRanking": 1,
+    "ratingRanking": 33
   },
   {
     "Book Id": 53288436,
@@ -24398,7 +24946,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 34
+    "totalRanking": 1,
+    "ratingRanking": 34
   },
   {
     "Book Id": 3590,
@@ -24443,7 +24992,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 35
+    "totalRanking": 1,
+    "ratingRanking": 35
   },
   {
     "Book Id": 608474,
@@ -24487,7 +25037,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 36
+    "totalRanking": 1,
+    "ratingRanking": 36
   },
   {
     "Book Id": 10865206,
@@ -24531,7 +25082,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 37
+    "totalRanking": 1,
+    "ratingRanking": 37
   },
   {
     "Book Id": 62022,
@@ -24575,7 +25127,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 38
+    "totalRanking": 1,
+    "ratingRanking": 38
   },
   {
     "Book Id": 421861,
@@ -24612,7 +25165,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 39
+    "totalRanking": 1,
+    "ratingRanking": 39
   },
   {
     "Book Id": 56328049,
@@ -24657,7 +25211,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 40
+    "totalRanking": 1,
+    "ratingRanking": 40
   },
   {
     "Book Id": 84979,
@@ -24701,7 +25256,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 41
+    "totalRanking": 1,
+    "ratingRanking": 41
   },
   {
     "Book Id": 12341557,
@@ -24745,7 +25301,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 42
+    "totalRanking": 1,
+    "ratingRanking": 42
   },
   {
     "Book Id": 53112442,
@@ -24789,7 +25346,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 43
+    "totalRanking": 1,
+    "ratingRanking": 43
   },
   {
     "Book Id": 35120549,
@@ -24834,7 +25392,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 44
+    "totalRanking": 1,
+    "ratingRanking": 44
   },
   {
     "Book Id": 104089,
@@ -24879,7 +25438,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 45
+    "totalRanking": 1,
+    "ratingRanking": 45
   },
   {
     "Book Id": 53331568,
@@ -24923,7 +25483,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 46
+    "totalRanking": 1,
+    "ratingRanking": 46
   },
   {
     "Book Id": 25155958,
@@ -24967,7 +25528,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 47
+    "totalRanking": 1,
+    "ratingRanking": 47
   },
   {
     "Book Id": 18652002,
@@ -25011,7 +25573,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 48
+    "totalRanking": 1,
+    "ratingRanking": 48
   },
   {
     "Book Id": 52838315,
@@ -25055,7 +25618,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 49
+    "totalRanking": 1,
+    "ratingRanking": 49
   },
   {
     "Book Id": 43521682,
@@ -25100,7 +25664,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 50
+    "totalRanking": 1,
+    "ratingRanking": 50
   },
   {
     "Book Id": 632907,
@@ -25140,7 +25705,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 51
+    "totalRanking": 1,
+    "ratingRanking": 51
   },
   {
     "Book Id": 578587,
@@ -25185,7 +25751,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 52
+    "totalRanking": 1,
+    "ratingRanking": 52
   },
   {
     "Book Id": 30288282,
@@ -25229,7 +25796,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 53
+    "totalRanking": 1,
+    "ratingRanking": 53
   },
   {
     "Book Id": 18616975,
@@ -25273,7 +25841,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 54
+    "totalRanking": 1,
+    "ratingRanking": 54
   },
   {
     "Book Id": 44795646,
@@ -25310,7 +25879,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 55
+    "totalRanking": 1,
+    "ratingRanking": 55
   },
   {
     "Book Id": 24611751,
@@ -25355,7 +25925,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 56
+    "totalRanking": 1,
+    "ratingRanking": 56
   },
   {
     "Book Id": 119322,
@@ -25400,7 +25971,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 57
+    "totalRanking": 1,
+    "ratingRanking": 57
   },
   {
     "Book Id": 23411635,
@@ -25444,7 +26016,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 58
+    "totalRanking": 1,
+    "ratingRanking": 58
   },
   {
     "Book Id": 17245,
@@ -25489,7 +26062,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 59
+    "totalRanking": 1,
+    "ratingRanking": 59
   },
   {
     "Book Id": 4655234,
@@ -25534,7 +26108,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 60
+    "totalRanking": 1,
+    "ratingRanking": 60
   },
   {
     "Book Id": 18431,
@@ -25579,7 +26154,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 61
+    "totalRanking": 1,
+    "ratingRanking": 61
   },
   {
     "Book Id": 23692271,
@@ -25623,7 +26199,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 62
+    "totalRanking": 1,
+    "ratingRanking": 62
   },
   {
     "Book Id": 11559662,
@@ -25668,7 +26245,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 63
+    "totalRanking": 1,
+    "ratingRanking": 63
   },
   {
     "Book Id": 35629744,
@@ -25713,7 +26291,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 64
+    "totalRanking": 1,
+    "ratingRanking": 64
   },
   {
     "Book Id": 27276428,
@@ -25758,7 +26337,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 65
+    "totalRanking": 1,
+    "ratingRanking": 65
   },
   {
     "Book Id": 39063,
@@ -25803,7 +26383,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 66
+    "totalRanking": 1,
+    "ratingRanking": 66
   },
   {
     "Book Id": 40536331,
@@ -25847,7 +26428,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 67
+    "totalRanking": 1,
+    "ratingRanking": 67
   },
   {
     "Book Id": 34272565,
@@ -25892,7 +26474,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 68
+    "totalRanking": 1,
+    "ratingRanking": 68
   },
   {
     "Book Id": 43263556,
@@ -25937,7 +26520,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 69
+    "totalRanking": 1,
+    "ratingRanking": 69
   },
   {
     "Book Id": 25904495,
@@ -25982,7 +26566,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 70
+    "totalRanking": 1,
+    "ratingRanking": 70
   },
   {
     "Book Id": 45553812,
@@ -26026,7 +26611,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 71
+    "totalRanking": 1,
+    "ratingRanking": 71
   },
   {
     "Book Id": 42086897,
@@ -26070,7 +26656,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 72
+    "totalRanking": 1,
+    "ratingRanking": 72
   },
   {
     "Book Id": 113436,
@@ -26115,7 +26702,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 73
+    "totalRanking": 1,
+    "ratingRanking": 73
   },
   {
     "Book Id": 13667,
@@ -26160,7 +26748,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 74
+    "totalRanking": 1,
+    "ratingRanking": 74
   },
   {
     "Book Id": 24819449,
@@ -26204,7 +26793,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 75
+    "totalRanking": 1,
+    "ratingRanking": 75
   },
   {
     "Book Id": 7864437,
@@ -26249,7 +26839,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 76
+    "totalRanking": 1,
+    "ratingRanking": 76
   },
   {
     "Book Id": 92610,
@@ -26294,7 +26885,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 77
+    "totalRanking": 1,
+    "ratingRanking": 77
   },
   {
     "Book Id": 16278318,
@@ -26338,7 +26930,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 78
+    "totalRanking": 1,
+    "ratingRanking": 78
   },
   {
     "Book Id": 40775118,
@@ -26382,7 +26975,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 79
+    "totalRanking": 1,
+    "ratingRanking": 79
   },
   {
     "Book Id": 6683549,
@@ -26427,7 +27021,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 80
+    "totalRanking": 1,
+    "ratingRanking": 80
   },
   {
     "Book Id": 41887321,
@@ -26472,7 +27067,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 81
+    "totalRanking": 1,
+    "ratingRanking": 81
   },
   {
     "Book Id": 9464129,
@@ -26516,7 +27112,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 82
+    "totalRanking": 1,
+    "ratingRanking": 82
   },
   {
     "Book Id": 5864120,
@@ -26561,7 +27158,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 83
+    "totalRanking": 1,
+    "ratingRanking": 83
   },
   {
     "Book Id": 6332526,
@@ -26605,7 +27203,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 84
+    "totalRanking": 1,
+    "ratingRanking": 84
   },
   {
     "Book Id": 29467232,
@@ -26649,7 +27248,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 85
+    "totalRanking": 1,
+    "ratingRanking": 85
   },
   {
     "Book Id": 10483171,
@@ -26694,7 +27294,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 86
+    "totalRanking": 1,
+    "ratingRanking": 86
   },
   {
     "Book Id": 37534869,
@@ -26739,7 +27340,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 87
+    "totalRanking": 1,
+    "ratingRanking": 87
   },
   {
     "Book Id": 38589832,
@@ -26784,7 +27386,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 88
+    "totalRanking": 1,
+    "ratingRanking": 88
   },
   {
     "Book Id": 38232376,
@@ -26829,7 +27432,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 89
+    "totalRanking": 1,
+    "ratingRanking": 89
   },
   {
     "Book Id": 17910054,
@@ -26874,7 +27478,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 90
+    "totalRanking": 1,
+    "ratingRanking": 90
   },
   {
     "Book Id": 40940205,
@@ -26918,7 +27523,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 91
+    "totalRanking": 1,
+    "ratingRanking": 91
   },
   {
     "Book Id": 29844228,
@@ -26963,7 +27569,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 92
+    "totalRanking": 1,
+    "ratingRanking": 92
   },
   {
     "Book Id": 8216968,
@@ -27008,7 +27615,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 93
+    "totalRanking": 1,
+    "ratingRanking": 93
   },
   {
     "Book Id": 17167088,
@@ -27053,7 +27661,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 94
+    "totalRanking": 1,
+    "ratingRanking": 94
   },
   {
     "Book Id": 9848799,
@@ -27098,7 +27707,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 95
+    "totalRanking": 1,
+    "ratingRanking": 95
   },
   {
     "Book Id": 28504537,
@@ -27143,7 +27753,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 96
+    "totalRanking": 1,
+    "ratingRanking": 96
   },
   {
     "Book Id": 35820656,
@@ -27188,7 +27799,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 97
+    "totalRanking": 1,
+    "ratingRanking": 97
   },
   {
     "Book Id": 35276865,
@@ -27232,7 +27844,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 98
+    "totalRanking": 1,
+    "ratingRanking": 98
   },
   {
     "Book Id": 36518479,
@@ -27277,7 +27890,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 99
+    "totalRanking": 1,
+    "ratingRanking": 99
   },
   {
     "Book Id": 76799,
@@ -27321,7 +27935,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 100
+    "totalRanking": 1,
+    "ratingRanking": 100
   },
   {
     "Book Id": 36739738,
@@ -27363,7 +27978,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 101
+    "totalRanking": 1,
+    "ratingRanking": 101
   },
   {
     "Book Id": 20761075,
@@ -27408,7 +28024,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 102
+    "totalRanking": 1,
+    "ratingRanking": 102
   },
   {
     "Book Id": 35629742,
@@ -27453,7 +28070,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 103
+    "totalRanking": 1,
+    "ratingRanking": 103
   },
   {
     "Book Id": 60652997,
@@ -27498,7 +28116,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 1
+    "totalRanking": 1,
+    "ratingRanking": 1
   },
   {
     "Book Id": 20706284,
@@ -27542,7 +28161,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 2
+    "totalRanking": 1,
+    "ratingRanking": 2
   },
   {
     "Book Id": 1103544,
@@ -27587,7 +28207,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 3
+    "totalRanking": 1,
+    "ratingRanking": 3
   },
   {
     "Book Id": 53879204,
@@ -27632,7 +28253,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 4
+    "totalRanking": 1,
+    "ratingRanking": 4
   },
   {
     "Book Id": 40672036,
@@ -27676,7 +28298,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 5
+    "totalRanking": 1,
+    "ratingRanking": 5
   },
   {
     "Book Id": 25102,
@@ -27721,7 +28344,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 6
+    "totalRanking": 1,
+    "ratingRanking": 6
   },
   {
     "Book Id": 59805612,
@@ -27766,7 +28390,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 7
+    "totalRanking": 1,
+    "ratingRanking": 7
   },
   {
     "Book Id": 29939230,
@@ -27811,7 +28436,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 8
+    "totalRanking": 1,
+    "ratingRanking": 8
   },
   {
     "Book Id": 6708,
@@ -27855,7 +28481,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 9
+    "totalRanking": 1,
+    "ratingRanking": 9
   },
   {
     "Book Id": 48757,
@@ -27899,7 +28526,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 10
+    "totalRanking": 1,
+    "ratingRanking": 10
   },
   {
     "Book Id": 36569910,
@@ -27944,7 +28572,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 11
+    "totalRanking": 1,
+    "ratingRanking": 11
   },
   {
     "Book Id": 51901147,
@@ -27988,7 +28617,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 12
+    "totalRanking": 1,
+    "ratingRanking": 12
   },
   {
     "Book Id": 25733442,
@@ -28032,7 +28662,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 13
+    "totalRanking": 1,
+    "ratingRanking": 13
   },
   {
     "Book Id": 24100285,
@@ -28076,7 +28707,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 14
+    "totalRanking": 1,
+    "ratingRanking": 14
   },
   {
     "Book Id": 52578297,
@@ -28120,7 +28752,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 15
+    "totalRanking": 1,
+    "ratingRanking": 15
   },
   {
     "Book Id": 54864319,
@@ -28165,7 +28798,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 16
+    "totalRanking": 1,
+    "ratingRanking": 16
   },
   {
     "Book Id": 26082916,
@@ -28209,7 +28843,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 17
+    "totalRanking": 1,
+    "ratingRanking": 17
   },
   {
     "Book Id": 25810610,
@@ -28254,7 +28889,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 18
+    "totalRanking": 1,
+    "ratingRanking": 18
   },
   {
     "Book Id": 51637946,
@@ -28298,7 +28934,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 19
+    "totalRanking": 1,
+    "ratingRanking": 19
   },
   {
     "Book Id": 39864306,
@@ -28340,7 +28977,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 20
+    "totalRanking": 1,
+    "ratingRanking": 20
   },
   {
     "Book Id": 54735156,
@@ -28385,7 +29023,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 21
+    "totalRanking": 1,
+    "ratingRanking": 21
   },
   {
     "Book Id": 44286477,
@@ -28430,7 +29069,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 22
+    "totalRanking": 1,
+    "ratingRanking": 22
   },
   {
     "Book Id": 320,
@@ -28475,7 +29115,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 23
+    "totalRanking": 1,
+    "ratingRanking": 23
   },
   {
     "Book Id": 45047384,
@@ -28520,7 +29161,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 24
+    "totalRanking": 1,
+    "ratingRanking": 24
   },
   {
     "Book Id": 6776969,
@@ -28564,7 +29206,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 25
+    "totalRanking": 1,
+    "ratingRanking": 25
   },
   {
     "Book Id": 40524312,
@@ -28609,7 +29252,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 26
+    "totalRanking": 1,
+    "ratingRanking": 26
   },
   {
     "Book Id": 26245850,
@@ -28653,7 +29297,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 27
+    "totalRanking": 1,
+    "ratingRanking": 27
   },
   {
     "Book Id": 23460958,
@@ -28698,7 +29343,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 28
+    "totalRanking": 1,
+    "ratingRanking": 28
   },
   {
     "Book Id": 302503,
@@ -28740,7 +29386,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 29
+    "totalRanking": 1,
+    "ratingRanking": 29
   },
   {
     "Book Id": 105992,
@@ -28784,7 +29431,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 30
+    "totalRanking": 1,
+    "ratingRanking": 30
   },
   {
     "Book Id": 477543,
@@ -28829,7 +29477,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 31
+    "totalRanking": 1,
+    "ratingRanking": 31
   },
   {
     "Book Id": 3538130,
@@ -28873,7 +29522,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 32
+    "totalRanking": 1,
+    "ratingRanking": 32
   },
   {
     "Book Id": 22556994,
@@ -28917,7 +29567,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 33
+    "totalRanking": 1,
+    "ratingRanking": 33
   },
   {
     "Book Id": 30045683,
@@ -28961,7 +29612,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 34
+    "totalRanking": 1,
+    "ratingRanking": 34
   },
   {
     "Book Id": 34669350,
@@ -29006,7 +29658,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 35
+    "totalRanking": 1,
+    "ratingRanking": 35
   },
   {
     "Book Id": 2295534,
@@ -29043,7 +29696,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 36
+    "totalRanking": 1,
+    "ratingRanking": 36
   },
   {
     "Book Id": 6275997,
@@ -29088,7 +29742,8 @@
         "review": ""
       }
     ],
-    "totalRanking": 37
+    "totalRanking": 1,
+    "ratingRanking": 37
   },
   {
     "Book Id": 25898044,
@@ -29132,6 +29787,7 @@
         "review": ""
       }
     ],
-    "totalRanking": 38
+    "totalRanking": 1,
+    "ratingRanking": 38
   }
 ]
