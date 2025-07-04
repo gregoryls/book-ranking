@@ -19,6 +19,7 @@ export function renderBookList(bookList) {
     const div = document.createElement("div");
     const p = document.createElement("p");
     const authorP = document.createElement("p");
+    const starP = document.createElement("p");
     const h3 = document.createElement("h3");
     const img = document.createElement("img");
 
@@ -35,7 +36,11 @@ export function renderBookList(bookList) {
     img.classList.add("bookCover");
     p.textContent = bookList[i].Title;
     authorP.textContent = bookList[i].Author;
-    div.append(h3, img, p, authorP);
+    for (let j = 0; j < bookList[i].readingData.at(-1).rating; j += 1) {
+      starP.innerHTML += "&#11088";
+    }
+
+    div.append(h3, img, p, authorP, starP);
     bookWrap.append(div);
   }
 }
