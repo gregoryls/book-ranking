@@ -6,7 +6,7 @@ import unreadList from "./unreadList.json";
 import * as utils from "./utils.js";
 
 // TODO
-// arrange dist images into a folder via webpack
+// loading = 'lazy'
 // probably change list to grid
 // https://codepen.io/WebDevSimplified/pen/JjdveeV
 // come back to custom sorting
@@ -32,9 +32,14 @@ const bookListRender = document.getElementById("bookWrap");
 // console.log(Sortable.sort(order, true));
 function handleDrop(movedElement, newIndex, oldIndex) {
   // console.log(movedElement, newIndex, oldIndex);
-  const bookListCounter = document.querySelectorAll(".bookListDisplay h3");
-  for (let i = 0; i < bookListCounter.length; i += 1) {
-    bookListCounter[i].textContent = i + 1;
+  const totalRankCounter = document.querySelectorAll(".bookListDisplay h3");
+  // only renumber impacted indexes
+  const start = Math.min(oldIndex, newIndex);
+  const end = Math.max(oldIndex, newIndex);
+
+  for (let i = start; i <= end; i += 1) {
+    // zero indexed, but ranking display is 1-indexed
+    totalRankCounter[i].textContent = i + 1;
   }
 }
 
