@@ -23,6 +23,7 @@ export function renderBookList(bookList) {
     const img = document.createElement("img");
 
     div.classList.add("bookListDisplay");
+    div.dataset.id = bookList[i]["Book Id"];
     div.draggable = true;
     h3.textContent = i + 1;
 
